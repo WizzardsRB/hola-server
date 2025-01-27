@@ -11752,3 +11752,46 @@ java.lang.NullPointerException: null
 [27Jan2025 20:23:44.684] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled the Fabled affix on their Netherite Chestplate!
 [27Jan2025 20:25:56.729] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [27Jan2025 20:25:56.743] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Jan2025 20:28:24.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Guardian +1
+[27Jan2025 20:28:32.088] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki failed to roll their terreneitor tilin terminal skibidi at Magician +1...
+[27Jan2025 20:29:58.586] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.FurnaceRecipe@4a41d70c
+[27Jan2025 20:30:00.992] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.FurnaceRecipe@4a41d70c
+[27Jan2025 20:30:32.300] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@6d144aeb (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[27Jan2025 20:30:32.300] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@f60068f (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[27Jan2025 20:30:32.377] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:temples/temple_nether_crimson
+[27Jan2025 20:30:32.410] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/crimson/base_plate
+[27Jan2025 20:30:32.415] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/crimson/targets_1
+[27Jan2025 20:30:32.416] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/crimson/logs
+[27Jan2025 20:30:32.417] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/crimson/tent2
+[27Jan2025 20:30:32.418] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/crimson/cage1
+[27Jan2025 20:30:32.419] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/crimson/tent1
+[27Jan2025 20:30:33.051] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:ruins/nether_1
+[27Jan2025 20:30:33.054] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:ruins/nether_3
+[27Jan2025 20:30:33.056] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:ruins/nether_2
+[27Jan2025 20:30:34.705] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:temples/temple_nether_wasteland
+[27Jan2025 20:30:36.489] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Cheree - Level: 9'/5845, l='ServerLevel[world]', x=-2936.05, y=64.00, z=-2276.50] died, message: 'Cheree - Level: 9 was slain by Armored Vindicator - Level: 256'
+[27Jan2025 20:30:56.837] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Jan2025 20:30:56.855] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Jan2025 20:31:18.299] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@6d144aeb (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[27Jan2025 20:31:18.299] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@f60068f (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[27Jan2025 20:31:53.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[27Jan2025 20:32:27.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[27Jan2025 20:34:38.907] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/nether_brick/base_plate
+[27Jan2025 20:34:38.910] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/nether_brick/tent1
+[27Jan2025 20:34:38.910] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/nether_brick/cage2
+[27Jan2025 20:34:38.911] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/nether_brick/targets_1
+[27Jan2025 20:34:38.911] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/nether_brick/tent2
+[27Jan2025 20:34:38.912] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/nether_brick/cage1
+[27Jan2025 20:34:38.912] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/nether_brick/fossil
+[27Jan2025 20:34:49.032] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:ruins/nether_4
+[27Jan2025 20:34:49.034] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:ruins/nether_5
+[27Jan2025 20:34:49.274] [Worker-Main-12/DEBUG] [mixin/]: Mixing access.WorldDecoratingHelperAccess from byg.mixins.json into net.minecraft.world.gen.feature.WorldDecoratingHelper
+[27Jan2025 20:34:49.507] [Worker-Main-12/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/nether_3
+[27Jan2025 20:34:49.509] [Worker-Main-12/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/nether_2
+[27Jan2025 20:34:49.510] [Worker-Main-12/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/nether_1
+[27Jan2025 20:34:56.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[27Jan2025 20:35:21.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[27Jan2025 20:35:30.136] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=16, y=60, z=-1} BlockPos{x=16, y=58, z=-2}
+[27Jan2025 20:35:47.299] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki moved wrongly!
+[27Jan2025 20:35:56.869] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Jan2025 20:35:56.883] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
