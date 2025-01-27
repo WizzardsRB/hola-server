@@ -2094,3 +2094,12 @@ java.lang.NullPointerException: null
 [27Jan2025 21:47:33.688] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zZzK1TTY lost connection: Disconnected
 [27Jan2025 21:47:33.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY left the game
 [27Jan2025 21:47:33.688] [Server thread/INFO] [com.Gr3atsaga.TimeShallNotPass.Config.Managers.TimeShallNotPassModuleManager/]: All non-excluded players have gone offline. No Time Shall Not Pass modules have been toggled on
+[27Jan2025 21:50:44.533] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6733cb66
+[27Jan2025 21:50:44.540] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: zZzK1TTY[/127.209.87.79:49605] logged in with entity id 77591 at (-3102.8984643490912, 63.0, -2100.1668105620806)
+[27Jan2025 21:50:44.550] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY joined the game
+[27Jan2025 21:50:44.576] [Server thread/INFO] [com.Gr3atsaga.TimeShallNotPass.Config.Managers.TimeShallNotPassModuleManager/]: A non-excluded player has come online. No Time Shall Not Pass modules have been toggled off
+[27Jan2025 21:50:44.641] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@6d144aeb (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[27Jan2025 21:50:44.642] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@f60068f (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[27Jan2025 21:51:45.681] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zZzK1TTY lost connection: Disconnected
+[27Jan2025 21:51:45.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY left the game
+[27Jan2025 21:51:45.682] [Server thread/INFO] [com.Gr3atsaga.TimeShallNotPass.Config.Managers.TimeShallNotPassModuleManager/]: All non-excluded players have gone offline. No Time Shall Not Pass modules have been toggled on
