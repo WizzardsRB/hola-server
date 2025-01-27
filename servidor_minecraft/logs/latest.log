@@ -2207,3 +2207,11 @@ java.lang.NullPointerException: null
 [27Jan2025 03:14:25.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Junk affix on their Wrought Helm...
 [27Jan2025 03:14:26.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Ordinary affix on their Wrought Helm.
 [27Jan2025 03:14:28.677] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Fabled affix on their Wrought Helm!
+[27Jan2025 03:18:51.600] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/6855, l='ServerLevel[world]', x=-3039.26, y=67.00, z=-2511.67]
+[27Jan2025 03:19:22.601] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Tilda - Level: 9'/6509, l='ServerLevel[world]', x=-2917.50, y=76.00, z=-2523.13] died, message: 'Tilda - Level: 9 was shot by Skeleton - Level: 178'
+[27Jan2025 03:21:44.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki has made the advancement [Squealer]
+[27Jan2025 03:21:44.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki has made the advancement [First Steps]
+[27Jan2025 03:21:56.319] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to -2931.5, 67.5, -2281.5]
+[27Jan2025 03:23:10.355] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY has made the advancement [Squealer]
+[27Jan2025 03:23:10.356] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY has made the advancement [First Steps]
+[27Jan2025 03:23:39.684] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki has made the advancement [Is is Not Ironical?]
