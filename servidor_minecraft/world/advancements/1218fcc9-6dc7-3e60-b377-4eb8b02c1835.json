@@ -3532,6 +3532,7 @@
   "repurposed_structures:outposts": {
     "criteria": {
       "in_outpost_crimson": "2025-01-27 04:07:29 +0000",
+      "in_outpost_nether_brick": "2025-01-27 20:38:17 +0000",
       "in_outpost_oak": "2025-01-25 21:50:24 +0000"
     },
     "done": false

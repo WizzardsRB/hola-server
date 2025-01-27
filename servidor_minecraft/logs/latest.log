@@ -2003,3 +2003,8 @@ java.lang.NullPointerException: null
 [27Jan2025 20:35:21.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
 [27Jan2025 20:35:30.136] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=16, y=60, z=-1} BlockPos{x=16, y=58, z=-2}
 [27Jan2025 20:35:47.299] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki moved wrongly!
+[27Jan2025 20:37:32.129] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity twist:buckus but it was marked as removed already
+[27Jan2025 20:37:53.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[27Jan2025 20:38:46.013] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[27Jan2025 20:38:56.458] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[27Jan2025 20:40:40.327] [Worker-Main-64/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:temples/temple_nether_basalt
