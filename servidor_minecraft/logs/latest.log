@@ -2247,3 +2247,12 @@ java.lang.NullPointerException: null
 [27Jan2025 03:34:01.151] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:ruins/nether_5
 [27Jan2025 03:34:01.153] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:ruins/nether_4
 [27Jan2025 03:35:00.847] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity twist:buckus but it was marked as removed already
+[27Jan2025 03:35:21.220] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[27Jan2025 03:35:33.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[27Jan2025 03:36:21.335] [Server thread/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id infernalexp:voline
+[27Jan2025 03:36:21.335] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity twist:buckus but it was marked as removed already
+[27Jan2025 03:36:40.197] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY has made the advancement [War Pigs]
+[27Jan2025 03:44:18.095] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[27Jan2025 03:44:18.490] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-576, y=64, z=15} BlockPos{x=-579, y=62, z=15}
+[27Jan2025 03:44:22.521] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-573, y=63, z=15} BlockPos{x=-571, y=63, z=15}
+[27Jan2025 03:45:18.006] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
