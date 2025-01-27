@@ -11980,3 +11980,44 @@ java.lang.NullPointerException: null
 [27Jan2025 03:23:10.355] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY has made the advancement [Squealer]
 [27Jan2025 03:23:10.356] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY has made the advancement [First Steps]
 [27Jan2025 03:23:39.684] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki has made the advancement [Is is Not Ironical?]
+[27Jan2025 03:26:59.031] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Jan2025 03:26:59.046] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Jan2025 03:29:42.852] [Server thread/INFO] [com.infamous.dungeons_mobs.DungeonsMobs/]: Converted ArmoredSkeletonEntity['Armored Skeleton - Level: 279'/7269, l='ServerLevel[world]', x=-2826.48, y=66.00, z=-2289.53] to ArmoredSunkenSkeletonEntity['Armored Skeleton - Level: 279'/8925, l='ServerLevel[world]', x=-2826.48, y=66.00, z=-2289.53]
+[27Jan2025 03:31:54.168] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@3ac1e21f (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[27Jan2025 03:31:54.169] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@37fa782c (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[27Jan2025 03:31:54.216] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:temples/temple_nether_crimson
+[27Jan2025 03:31:54.240] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/crimson/base_plate
+[27Jan2025 03:31:54.243] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/crimson/targets_1
+[27Jan2025 03:31:54.243] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/crimson/logs
+[27Jan2025 03:31:54.244] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/crimson/tent2
+[27Jan2025 03:31:54.244] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/crimson/cage1
+[27Jan2025 03:31:54.245] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/crimson/tent1
+[27Jan2025 03:31:54.611] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:ruins/nether_1
+[27Jan2025 03:31:54.612] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:ruins/nether_3
+[27Jan2025 03:31:54.613] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:ruins/nether_2
+[27Jan2025 03:31:54.658] [Worker-Main-11/DEBUG] [mixin/]: Mixing access.WorldDecoratingHelperAccess from byg.mixins.json into net.minecraft.world.gen.feature.WorldDecoratingHelper
+[27Jan2025 03:31:54.686] [Worker-Main-11/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/nether_2
+[27Jan2025 03:31:54.689] [Worker-Main-11/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/nether_1
+[27Jan2025 03:31:54.691] [Worker-Main-11/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/nether_3
+[27Jan2025 03:31:55.603] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@3ac1e21f (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[27Jan2025 03:31:55.603] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@37fa782c (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[27Jan2025 03:31:56.848] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:temples/temple_nether_wasteland
+[27Jan2025 03:31:58.988] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Jan2025 03:31:59.001] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Jan2025 03:33:15.648] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-299, y=45, z=-160} BlockPos{x=-301, y=49, z=-163}
+[27Jan2025 03:33:50.889] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/nether_brick/base_plate
+[27Jan2025 03:33:50.895] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/nether_brick/tent1
+[27Jan2025 03:33:50.896] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/nether_brick/cage2
+[27Jan2025 03:33:50.897] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/nether_brick/targets_1
+[27Jan2025 03:33:50.897] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/nether_brick/tent2
+[27Jan2025 03:33:50.898] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/nether_brick/cage1
+[27Jan2025 03:33:50.899] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/nether_brick/fossil
+[27Jan2025 03:34:01.083] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/crimson/cage2
+[27Jan2025 03:34:01.084] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/crimson/targets_2
+[27Jan2025 03:34:01.151] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:ruins/nether_5
+[27Jan2025 03:34:01.153] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:ruins/nether_4
+[27Jan2025 03:34:21.877] [Worker-Main-11/DEBUG] [mixin/]: Mixing JigsawManagerAssemblerMixin from mixins.waystones.json into net.minecraft.world.gen.feature.jigsaw.JigsawManager$Assembler
+[27Jan2025 03:34:21.877] [Worker-Main-11/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$2(Lnet/minecraft/world/gen/feature/jigsaw/JigsawPiece;)Z to mdd31731$lambda$getShuffledPieces$2$0 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[27Jan2025 03:34:21.877] [Worker-Main-11/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$1(Ljava/lang/String;)Z to mdd31731$lambda$getShuffledPieces$1$1 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[27Jan2025 03:34:21.877] [Worker-Main-11/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$0(Ljava/lang/Object;)Ljava/lang/String; to mdd31731$lambda$getShuffledPieces$0$2 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[27Jan2025 03:35:00.847] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity twist:buckus but it was marked as removed already

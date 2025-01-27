@@ -5358,6 +5358,12 @@
     },
     "done": true
   },
+  "inventorypets:irongolem": {
+    "criteria": {
+      "crafting_table": "2025-01-27 03:23:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-01-09 04:26:08 +0000"

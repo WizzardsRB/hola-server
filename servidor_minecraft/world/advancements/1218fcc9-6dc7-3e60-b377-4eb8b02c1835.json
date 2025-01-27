@@ -1920,6 +1920,12 @@
     },
     "done": true
   },
+  "inventorypets:pig": {
+    "criteria": {
+      "crafting_table": "2025-01-27 03:23:10 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/tomato_crate": {
     "criteria": {
       "has_tomato": "2025-01-02 21:54:19 +0000"
@@ -4937,6 +4943,12 @@
   "smallships:recipes/bop_magic_dhow": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:1": {
+    "criteria": {
+      "example": "2025-01-27 03:23:10 +0000"
     },
     "done": true
   },
