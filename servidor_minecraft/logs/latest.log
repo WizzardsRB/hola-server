@@ -2018,3 +2018,17 @@ java.lang.NullPointerException: null
 [27Jan2025 20:59:28.152] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=152, y=86, z=580} BlockPos{x=150, y=87, z=579}
 [27Jan2025 20:59:52.865] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
 [27Jan2025 21:00:12.891] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[27Jan2025 21:12:44.029] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zZzK1TTY lost connection: Disconnected
+[27Jan2025 21:12:44.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY left the game
+[27Jan2025 21:13:18.451] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3e4d5195
+[27Jan2025 21:13:18.459] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: zZzK1TTY[/127.209.87.79:56589] logged in with entity id 58788 at (274.5511470110181, 32.0, 788.4548232699714)
+[27Jan2025 21:13:18.470] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY joined the game
+[27Jan2025 21:13:18.494] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: -------------------- Server Notice --------------------
+[27Jan2025 21:13:18.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: If playing on LAN or Essential servers, you may experience constant kicks on Owlkin and Void Wyvern. Other Origins may experience kicks, but not as often. If you're playing on dedicated, these kicks will not occur and you can ignore this.
+[27Jan2025 21:13:18.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: -----------------------------------------------------
+[27Jan2025 21:13:18.553] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@6d144aeb (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[27Jan2025 21:13:18.553] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@f60068f (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[27Jan2025 21:13:20.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported zZzK1TTY to fr4nnki]
+[27Jan2025 21:15:44.462] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/62267, l='ServerLevel[world]', x=143.51, y=62.88, z=967.30]
+[27Jan2025 21:15:44.462] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/62267, l='ServerLevel[world]', x=143.51, y=62.88, z=967.30]
+[27Jan2025 21:16:12.751] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported zZzK1TTY to fr4nnki]
