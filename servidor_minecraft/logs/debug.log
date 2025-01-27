@@ -11946,3 +11946,25 @@ java.lang.NullPointerException: null
 [27Jan2025 02:59:42.927] [Server thread/DEBUG] [mixin/]: Mixing common.entity.MixinPiglinTasks from byg.mixins.json into net.minecraft.entity.monster.piglin.PiglinTasks
 [27Jan2025 02:59:42.927] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$static$0(Lit/unimi/dsi/fastutil/objects/Reference2ReferenceOpenHashMap;)V to mdd31731$lambda$static$0$0 in byg.mixins.json:common.entity.MixinPiglinTasks
 [27Jan2025 03:01:16.654] [Server thread/DEBUG] [mixin/]: Mixing compat.sophisticatedbackpacks.InventorySorterMixin from biggerstacks.mixins.json into net.p3pp3rf1y.sophisticatedbackpacks.util.InventorySorter
+[27Jan2025 03:02:00.680] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Jan2025 03:02:00.717] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Jan2025 03:02:06.818] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: zZzK1TTY moved wrongly!
+[27Jan2025 03:06:59.038] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Jan2025 03:06:59.055] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Jan2025 03:08:25.120] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki moved wrongly!
+[27Jan2025 03:08:42.950] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki moved wrongly!
+[27Jan2025 03:11:59.009] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Jan2025 03:11:59.039] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Jan2025 03:13:35.863] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Refined affix on their Blood Diamond Boots!
+[27Jan2025 03:13:52.768] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Refined affix on their Blood Diamond Boots!
+[27Jan2025 03:13:54.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Junk affix on their Blood Diamond Boots...
+[27Jan2025 03:13:57.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Mythical affix on their Blood Diamond Boots!
+[27Jan2025 03:14:14.771] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Unique affix on their Wrought Helm.
+[27Jan2025 03:14:16.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Unique affix on their Wrought Helm.
+[27Jan2025 03:14:18.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Junk affix on their Wrought Helm...
+[27Jan2025 03:14:20.356] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Refined affix on their Wrought Helm!
+[27Jan2025 03:14:22.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Junk affix on their Wrought Helm...
+[27Jan2025 03:14:23.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Ordinary affix on their Wrought Helm.
+[27Jan2025 03:14:25.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Junk affix on their Wrought Helm...
+[27Jan2025 03:14:26.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Ordinary affix on their Wrought Helm.
+[27Jan2025 03:14:28.677] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Fabled affix on their Wrought Helm!

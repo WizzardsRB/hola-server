@@ -2191,3 +2191,19 @@ java.lang.NullPointerException: null
 [27Jan2025 02:57:34.634] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/grassy_top
 [27Jan2025 02:57:49.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
 [27Jan2025 02:58:57.482] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[27Jan2025 03:02:06.818] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: zZzK1TTY moved wrongly!
+[27Jan2025 03:08:25.120] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki moved wrongly!
+[27Jan2025 03:08:42.950] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki moved wrongly!
+[27Jan2025 03:13:35.863] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Refined affix on their Blood Diamond Boots!
+[27Jan2025 03:13:52.768] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Refined affix on their Blood Diamond Boots!
+[27Jan2025 03:13:54.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Junk affix on their Blood Diamond Boots...
+[27Jan2025 03:13:57.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Mythical affix on their Blood Diamond Boots!
+[27Jan2025 03:14:14.771] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Unique affix on their Wrought Helm.
+[27Jan2025 03:14:16.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Unique affix on their Wrought Helm.
+[27Jan2025 03:14:18.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Junk affix on their Wrought Helm...
+[27Jan2025 03:14:20.356] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Refined affix on their Wrought Helm!
+[27Jan2025 03:14:22.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Junk affix on their Wrought Helm...
+[27Jan2025 03:14:23.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Ordinary affix on their Wrought Helm.
+[27Jan2025 03:14:25.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Junk affix on their Wrought Helm...
+[27Jan2025 03:14:26.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Ordinary affix on their Wrought Helm.
+[27Jan2025 03:14:28.677] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Fabled affix on their Wrought Helm!
