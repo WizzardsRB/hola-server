@@ -1868,3 +1868,12 @@ java.lang.NullPointerException: null
 [27Jan2025 20:02:46.898] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
 [27Jan2025 20:03:09.651] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Migdalia - Level: 9'/1951, l='ServerLevel[world]', x=-2915.51, y=71.00, z=-2484.60] died, message: 'Migdalia - Level: 9 was shot by Skeleton - Level: 338'
 [27Jan2025 20:04:13.235] [Server thread/INFO] [com.infamous.dungeons_mobs.DungeonsMobs/]: Converted SkeletonEntity['Skeleton - Level: 197'/8112, l='ServerLevel[world]', x=-2955.74, y=1.00, z=-2471.26] to SunkenSkeletonEntity['Skeleton - Level: 197'/8642, l='ServerLevel[world]', x=-2955.74, y=1.00, z=-2471.26]
+[27Jan2025 20:07:26.737] [Server thread/INFO] [com.infamous.dungeons_mobs.DungeonsMobs/]: Converted SkeletonEntity['Skeleton - Level: 129'/9549, l='ServerLevel[world]', x=-2829.51, y=61.00, z=-2650.95] to SunkenSkeletonEntity['Skeleton - Level: 129'/10067, l='ServerLevel[world]', x=-2829.51, y=61.00, z=-2650.95]
+[27Jan2025 20:08:21.551] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/10409, l='ServerLevel[world]', x=-2882.56, y=22.00, z=-2639.99]
+[27Jan2025 20:09:21.241] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki lost connection: Disconnected
+[27Jan2025 20:09:21.242] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki left the game
+[27Jan2025 20:09:31.351] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6ae17ea0
+[27Jan2025 20:09:31.358] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: fr4nnki[/127.209.87.79:55599] logged in with entity id 10814 at (-2907.6221396295473, 11.0, -2629.300000011921)
+[27Jan2025 20:09:31.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki joined the game
+[27Jan2025 20:09:31.472] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@6d144aeb (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[27Jan2025 20:09:31.473] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@f60068f (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
