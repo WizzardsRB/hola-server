@@ -1115,6 +1115,12 @@
     },
     "done": true
   },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-01-27 04:07:29 +0000"
+    },
+    "done": true
+  },
   "easypaxellite:diamond_paxel": {
     "criteria": {
       "has_tools": "2025-01-03 21:21:26 +0000"
@@ -3519,6 +3525,7 @@
   },
   "repurposed_structures:outposts": {
     "criteria": {
+      "in_outpost_crimson": "2025-01-27 04:07:29 +0000",
       "in_outpost_oak": "2025-01-25 21:50:24 +0000"
     },
     "done": false

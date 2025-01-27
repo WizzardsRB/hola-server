@@ -1151,6 +1151,12 @@
     },
     "done": true
   },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-01-27 04:04:59 +0000"
+    },
+    "done": true
+  },
   "easypaxellite:diamond_paxel": {
     "criteria": {
       "has_tools": "2025-01-03 21:21:29 +0000"
@@ -2944,6 +2950,12 @@
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-01-17 21:27:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-01-27 04:07:00 +0000"
     },
     "done": true
   },
