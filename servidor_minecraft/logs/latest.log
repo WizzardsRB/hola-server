@@ -1856,3 +1856,12 @@ java.lang.NullPointerException: null
 [27Jan2025 19:33:28.974] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/grassy_top
 [27Jan2025 19:33:29.561] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2192ms or 43 ticks behind
 [27Jan2025 19:33:33.676] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[27Jan2025 19:38:37.571] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1fc1dcd9
+[27Jan2025 19:38:37.584] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: fr4nnki[/127.209.87.79:57511] logged in with entity id 1683 at (-2904.429905559038, 64.0625, -2298.1217958061784)
+[27Jan2025 19:38:37.599] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki joined the game
+[27Jan2025 19:38:37.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: -------------------- Server Notice --------------------
+[27Jan2025 19:38:37.691] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: If playing on LAN or Essential servers, you may experience constant kicks on Owlkin and Void Wyvern. Other Origins may experience kicks, but not as often. If you're playing on dedicated, these kicks will not occur and you can ignore this.
+[27Jan2025 19:38:37.691] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: -----------------------------------------------------
+[27Jan2025 19:38:37.728] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@6d144aeb (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[27Jan2025 19:38:37.729] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@f60068f (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[27Jan2025 19:40:20.766] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
