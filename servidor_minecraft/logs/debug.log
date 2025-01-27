@@ -12043,3 +12043,36 @@ java.lang.NullPointerException: null
 [27Jan2025 03:51:59.204] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [27Jan2025 03:51:59.219] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [27Jan2025 03:53:39.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[27Jan2025 03:56:24.894] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/33727, l='ServerLevel[world]', x=-924.77, y=52.00, z=80.49]
+[27Jan2025 03:56:24.894] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/33727, l='ServerLevel[world]', x=-924.77, y=52.00, z=80.49]
+[27Jan2025 03:56:27.791] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/33738, l='ServerLevel[world]', x=-923.94, y=53.00, z=80.36]
+[27Jan2025 03:56:27.791] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/33738, l='ServerLevel[world]', x=-923.94, y=53.00, z=80.36]
+[27Jan2025 03:56:30.392] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/33753, l='ServerLevel[world]', x=-923.95, y=53.00, z=80.17]
+[27Jan2025 03:56:30.392] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/33753, l='ServerLevel[world]', x=-923.95, y=53.00, z=80.17]
+[27Jan2025 03:56:33.791] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/33765, l='ServerLevel[world]', x=-923.94, y=53.00, z=80.10]
+[27Jan2025 03:56:33.791] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/33765, l='ServerLevel[world]', x=-923.94, y=53.00, z=80.10]
+[27Jan2025 03:56:37.142] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/33778, l='ServerLevel[world]', x=-923.94, y=53.00, z=80.08]
+[27Jan2025 03:56:37.142] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/33778, l='ServerLevel[world]', x=-923.94, y=53.00, z=80.08]
+[27Jan2025 03:56:40.642] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/33792, l='ServerLevel[world]', x=-924.78, y=54.97, z=79.22]
+[27Jan2025 03:56:40.642] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/33792, l='ServerLevel[world]', x=-924.78, y=54.97, z=79.22]
+[27Jan2025 03:56:43.691] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/33807, l='ServerLevel[world]', x=-923.97, y=53.00, z=80.03]
+[27Jan2025 03:56:43.691] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/33807, l='ServerLevel[world]', x=-923.97, y=53.00, z=80.03]
+[27Jan2025 03:56:46.993] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/33824, l='ServerLevel[world]', x=-923.95, y=53.00, z=80.05]
+[27Jan2025 03:56:46.993] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/33824, l='ServerLevel[world]', x=-923.95, y=53.00, z=80.05]
+[27Jan2025 03:56:49.743] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/33847, l='ServerLevel[world]', x=-924.92, y=54.79, z=79.29]
+[27Jan2025 03:56:49.744] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/33847, l='ServerLevel[world]', x=-924.92, y=54.79, z=79.29]
+[27Jan2025 03:56:52.354] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/33877, l='ServerLevel[world]', x=-923.94, y=53.00, z=80.06]
+[27Jan2025 03:56:52.354] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/33877, l='ServerLevel[world]', x=-923.94, y=53.00, z=80.06]
+[27Jan2025 03:56:55.893] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/33939, l='ServerLevel[world]', x=-924.96, y=54.90, z=79.15]
+[27Jan2025 03:56:55.893] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/33939, l='ServerLevel[world]', x=-924.96, y=54.90, z=79.15]
+[27Jan2025 03:56:59.098] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Jan2025 03:56:59.112] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Jan2025 03:57:34.323] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[27Jan2025 04:00:14.624] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[27Jan2025 04:00:47.229] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[27Jan2025 04:01:59.151] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Jan2025 04:01:59.162] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Jan2025 04:02:29.176] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[27Jan2025 04:04:42.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY made their Shield unbreakable!
+[27Jan2025 04:04:59.843] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki has made the advancement [The blacksmith of the soul]
+[27Jan2025 04:05:42.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
