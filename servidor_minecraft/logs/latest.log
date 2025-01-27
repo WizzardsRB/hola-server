@@ -2079,3 +2079,18 @@ java.lang.NullPointerException: null
 [27Jan2025 21:30:54.121] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/grassy_ladder_short
 [27Jan2025 21:30:54.123] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/grassy_basement
 [27Jan2025 21:34:55.022] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY has made the advancement [Trick-or-Treat?]
+[27Jan2025 21:39:32.034] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zZzK1TTY lost connection: Disconnected
+[27Jan2025 21:39:32.035] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY left the game
+[27Jan2025 21:41:32.596] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5f215138
+[27Jan2025 21:41:32.604] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: zZzK1TTY[/127.209.87.79:38825] logged in with entity id 74598 at (-2910.198812959243, 65.0, -2275.143359036244)
+[27Jan2025 21:41:32.614] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY joined the game
+[27Jan2025 21:41:32.707] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@6d144aeb (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[27Jan2025 21:41:32.708] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@f60068f (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[27Jan2025 21:42:50.641] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of farmersdelight:village/houses/plains_compost_pile
+[27Jan2025 21:44:02.042] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki lost connection: Timed out
+[27Jan2025 21:44:02.043] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki left the game
+[27Jan2025 21:44:02.083] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[27Jan2025 21:44:12.661] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-3139, y=66, z=-2302} BlockPos{x=-3138, y=66, z=-2302}
+[27Jan2025 21:47:33.688] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zZzK1TTY lost connection: Disconnected
+[27Jan2025 21:47:33.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY left the game
+[27Jan2025 21:47:33.688] [Server thread/INFO] [com.Gr3atsaga.TimeShallNotPass.Config.Managers.TimeShallNotPassModuleManager/]: All non-excluded players have gone offline. No Time Shall Not Pass modules have been toggled on

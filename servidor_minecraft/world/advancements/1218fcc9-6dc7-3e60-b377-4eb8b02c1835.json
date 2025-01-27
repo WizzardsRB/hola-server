@@ -6714,6 +6714,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2025-01-27 21:46:07 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_willow_rowboat": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
