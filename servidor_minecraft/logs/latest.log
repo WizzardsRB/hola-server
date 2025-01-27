@@ -2115,3 +2115,36 @@ java.lang.NullPointerException: null
 [27Jan2025 22:04:48.704] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@6d144aeb (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [27Jan2025 22:04:48.704] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@f60068f (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [27Jan2025 22:04:52.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported zZzK1TTY to fr4nnki]
+[27Jan2025 22:11:41.377] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of farmersdelight:village/houses/savanna_compost_pile
+[27Jan2025 22:11:52.237] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[27Jan2025 22:12:37.290] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=-2232, y=20, z=-2198}
+[27Jan2025 22:12:37.291] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=-2227, y=25, z=-2202}
+[27Jan2025 22:12:37.291] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=-2236, y=20, z=-2200}
+[27Jan2025 22:12:37.291] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=-2225, y=28, z=-2203}
+[27Jan2025 22:12:37.291] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=-2236, y=24, z=-2202}
+[27Jan2025 22:12:37.291] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=-2226, y=20, z=-2194}
+[27Jan2025 22:12:37.291] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=-2230, y=20, z=-2195}
+[27Jan2025 22:12:37.291] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=-2226, y=20, z=-2199}
+[27Jan2025 22:12:54.417] [Worker-Main-178/INFO] [bettercaves/]: CREATING AND INIT'ING CARVER W DIMENSION minecraft:overworld...
+[27Jan2025 22:12:54.419] [Worker-Main-178/INFO] [bettercaves/]: Better Caves config file for dimension minecraft:overworld not found. Using global config...
+[27Jan2025 22:12:54.486] [Worker-Main-178/INFO] [bettercaves/]: Using block 'minecraft:lava' as lava in cave generation for dimension minecraft:overworld
+[27Jan2025 22:12:54.486] [Worker-Main-178/INFO] [bettercaves/]: Using block 'Block{minecraft:water}[level=0]' as water in cave generation for dimension minecraft:overworld
+[27Jan2025 22:12:57.416] [Worker-Main-179/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/ocean_3
+[27Jan2025 22:12:57.418] [Worker-Main-179/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/ocean_2
+[27Jan2025 22:12:57.420] [Worker-Main-179/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/ocean_1
+[27Jan2025 22:13:37.565] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported zZzK1TTY to fr4nnki]
+[27Jan2025 22:13:46.122] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/puzzles/puzzle3_black
+[27Jan2025 22:13:46.128] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/puzzles/puzzle2_nether
+[27Jan2025 22:13:46.130] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/corridor_trapped
+[27Jan2025 22:13:46.132] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/old_church
+[27Jan2025 22:13:46.133] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/straight_stairs
+[27Jan2025 22:13:46.137] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/library
+[27Jan2025 22:13:46.139] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/stairs_up
+[27Jan2025 22:15:00.035] [Worker-Main-179/WARN] [ModernFix/]: Structure inventorypets:underground_dungeon is being run through DFU (hash 75280a7414db9fc4085484a9514ff8cdb77ab1098ba586677aff7f3fff49657f), this will cause launch time delays
+[27Jan2025 22:15:07.405] [Worker-Main-178/WARN] [ModernFix/]: Structure inventorypets:sky_dungeon is being run through DFU (hash 812b46f04372dab504b49d1540e0c65535401512a95178d1b31a0a123ffd2200), this will cause launch time delays
+[27Jan2025 22:15:07.419] [Worker-Main-178/WARN] [ModernFix/]: Structure inventorypets:sea_cave is being run through DFU (hash 5cba5ff179c80e9b5180d9a9b6c5bf903aa8b323af209d5ea2d7f796d11c7385), this will cause launch time delays
+[27Jan2025 22:15:08.304] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to -2931.5, 67.5, -2281.5]
+[27Jan2025 22:15:30.877] [Worker-Main-168/WARN] [ModernFix/]: Structure inventorypets:space_dungeon is being run through DFU (hash 1676a9efc0b6ac4e1958d41b36d885688eeaab4dab3983ab85f973534c14b93c), this will cause launch time delays
+[27Jan2025 22:15:39.012] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1583, y=46, z=-2200} BlockPos{x=-1583, y=45, z=-2200}
+[27Jan2025 22:17:07.615] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[27Jan2025 22:17:46.321] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki has made the advancement [Long Live ChickenBones]
