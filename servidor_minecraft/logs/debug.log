@@ -11804,3 +11804,16 @@ java.lang.NullPointerException: null
 [27Jan2025 20:40:56.926] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [27Jan2025 20:45:56.813] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [27Jan2025 20:45:56.824] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Jan2025 20:50:56.749] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Jan2025 20:50:56.767] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Jan2025 20:51:58.479] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[27Jan2025 20:53:01.629] [Worker-Main-12/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/nether_brick/targets_2
+[27Jan2025 20:53:50.935] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[27Jan2025 20:54:14.741] [Worker-Main-12/DEBUG] [mixin/]: Mixing JigsawManagerAssemblerMixin from mixins.waystones.json into net.minecraft.world.gen.feature.jigsaw.JigsawManager$Assembler
+[27Jan2025 20:54:14.741] [Worker-Main-12/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$2(Lnet/minecraft/world/gen/feature/jigsaw/JigsawPiece;)Z to md71e983$lambda$getShuffledPieces$2$0 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[27Jan2025 20:54:14.742] [Worker-Main-12/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$1(Ljava/lang/String;)Z to md71e983$lambda$getShuffledPieces$1$1 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[27Jan2025 20:54:14.742] [Worker-Main-12/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$0(Ljava/lang/Object;)Ljava/lang/String; to md71e983$lambda$getShuffledPieces$0$2 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[27Jan2025 20:55:57.106] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Jan2025 20:55:57.116] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Jan2025 20:56:03.381] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[27Jan2025 20:56:24.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
