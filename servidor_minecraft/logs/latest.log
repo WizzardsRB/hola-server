@@ -2013,3 +2013,8 @@ java.lang.NullPointerException: null
 [27Jan2025 20:53:50.935] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
 [27Jan2025 20:56:03.381] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
 [27Jan2025 20:56:24.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[27Jan2025 20:59:27.982] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=152, y=86, z=580} BlockPos{x=150, y=87, z=579}
+[27Jan2025 20:59:28.032] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=152, y=86, z=580} BlockPos{x=150, y=87, z=579}
+[27Jan2025 20:59:28.152] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=152, y=86, z=580} BlockPos{x=150, y=87, z=579}
+[27Jan2025 20:59:52.865] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[27Jan2025 21:00:12.891] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
