@@ -1721,6 +1721,12 @@
     },
     "done": true
   },
+  "inventorypets:grave": {
+    "criteria": {
+      "crafting_table": "2025-01-27 04:15:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2025-01-23 00:04:34 +0000"
