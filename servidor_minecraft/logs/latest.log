@@ -1865,3 +1865,6 @@ java.lang.NullPointerException: null
 [27Jan2025 19:38:37.728] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@6d144aeb (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [27Jan2025 19:38:37.729] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@f60068f (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [27Jan2025 19:40:20.766] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[27Jan2025 20:02:46.898] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[27Jan2025 20:03:09.651] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Migdalia - Level: 9'/1951, l='ServerLevel[world]', x=-2915.51, y=71.00, z=-2484.60] died, message: 'Migdalia - Level: 9 was shot by Skeleton - Level: 338'
+[27Jan2025 20:04:13.235] [Server thread/INFO] [com.infamous.dungeons_mobs.DungeonsMobs/]: Converted SkeletonEntity['Skeleton - Level: 197'/8112, l='ServerLevel[world]', x=-2955.74, y=1.00, z=-2471.26] to SunkenSkeletonEntity['Skeleton - Level: 197'/8642, l='ServerLevel[world]', x=-2955.74, y=1.00, z=-2471.26]

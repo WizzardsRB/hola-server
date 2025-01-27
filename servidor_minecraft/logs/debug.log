@@ -11429,3 +11429,11 @@ java.lang.NullPointerException: null
 [27Jan2025 19:45:56.801] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [27Jan2025 19:50:56.772] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [27Jan2025 19:50:56.788] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Jan2025 19:55:56.781] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Jan2025 19:55:56.793] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Jan2025 20:00:56.865] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Jan2025 20:00:56.882] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Jan2025 20:02:46.898] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[27Jan2025 20:03:09.651] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Migdalia - Level: 9'/1951, l='ServerLevel[world]', x=-2915.51, y=71.00, z=-2484.60] died, message: 'Migdalia - Level: 9 was shot by Skeleton - Level: 338'
+[27Jan2025 20:03:32.772] [Server thread/DEBUG] [mixin/]: Mixing vanilla.ContainersMixin from biggerstacks.mixins.json into net.minecraft.inventory.InventoryHelper
+[27Jan2025 20:04:13.235] [Server thread/INFO] [com.infamous.dungeons_mobs.DungeonsMobs/]: Converted SkeletonEntity['Skeleton - Level: 197'/8112, l='ServerLevel[world]', x=-2955.74, y=1.00, z=-2471.26] to SunkenSkeletonEntity['Skeleton - Level: 197'/8642, l='ServerLevel[world]', x=-2955.74, y=1.00, z=-2471.26]
