@@ -2044,3 +2044,38 @@ java.lang.NullPointerException: null
 [27Jan2025 21:21:03.550] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@f60068f (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [27Jan2025 21:21:03.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
 [27Jan2025 21:22:58.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[27Jan2025 21:28:50.184] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki lost connection: Disconnected
+[27Jan2025 21:28:50.185] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki left the game
+[27Jan2025 21:29:01.557] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4631e845
+[27Jan2025 21:29:01.564] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: fr4nnki[/127.209.87.79:45087] logged in with entity id 69512 at (-2902.9570093463267, 64.0625, -2303.686649379052)
+[27Jan2025 21:29:01.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki joined the game
+[27Jan2025 21:29:01.665] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@6d144aeb (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[27Jan2025 21:29:01.665] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@f60068f (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[27Jan2025 21:30:51.908] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/puzzles/puzzle_corridor3
+[27Jan2025 21:30:51.916] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/puzzles/puzzle3_rich
+[27Jan2025 21:30:51.918] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/puzzles/puzzle_corridor2
+[27Jan2025 21:30:51.923] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/puzzles/puzzle2_rich
+[27Jan2025 21:30:51.927] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/puzzles/stairs_up_start
+[27Jan2025 21:30:51.930] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/corridors/straight_corridor
+[27Jan2025 21:30:51.931] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/corridors/corner_corridor_left
+[27Jan2025 21:30:51.932] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/straight_corridor
+[27Jan2025 21:30:51.933] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/corridor_wooden_door
+[27Jan2025 21:30:51.933] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/corner_corridor_left
+[27Jan2025 21:30:51.934] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/corridors/straight_corridor2
+[27Jan2025 21:30:51.935] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/corridor_iron_door
+[27Jan2025 21:30:51.937] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/chest_room
+[27Jan2025 21:30:51.938] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/corner_corridor_quad
+[27Jan2025 21:30:51.940] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/cult_room
+[27Jan2025 21:30:53.418] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/starts/plus_plain
+[27Jan2025 21:30:53.421] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/connector_base
+[27Jan2025 21:30:53.423] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/ascend_intersection
+[27Jan2025 21:30:53.425] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/corridors/left_plain
+[27Jan2025 21:30:53.425] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/misc/endpoint
+[27Jan2025 21:30:53.426] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/corridors/t_cobweb
+[27Jan2025 21:30:53.429] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/double_hall_silverfish
+[27Jan2025 21:30:53.435] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/laddered_plain
+[27Jan2025 21:30:53.441] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/laddered_bridge
+[27Jan2025 21:30:54.120] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/grassy_top_trapdoor
+[27Jan2025 21:30:54.121] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/grassy_ladder_short
+[27Jan2025 21:30:54.123] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/grassy_basement
+[27Jan2025 21:34:55.022] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY has made the advancement [Trick-or-Treat?]
