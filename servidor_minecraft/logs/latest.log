@@ -2032,3 +2032,15 @@ java.lang.NullPointerException: null
 [27Jan2025 21:15:44.462] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/62267, l='ServerLevel[world]', x=143.51, y=62.88, z=967.30]
 [27Jan2025 21:15:44.462] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/62267, l='ServerLevel[world]', x=143.51, y=62.88, z=967.30]
 [27Jan2025 21:16:12.751] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported zZzK1TTY to fr4nnki]
+[27Jan2025 21:17:34.568] [Worker-Main-64/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/crimson/cage2
+[27Jan2025 21:17:34.569] [Worker-Main-64/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/crimson/targets_2
+[27Jan2025 21:20:37.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to -367.5, 60.5, -289.5]
+[27Jan2025 21:20:46.442] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@6d144aeb (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[27Jan2025 21:20:46.443] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@f60068f (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[27Jan2025 21:20:46.934] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.FurnaceRecipe@4a41d70c
+[27Jan2025 21:20:46.934] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.FurnaceRecipe@4a41d70c
+[27Jan2025 21:20:47.187] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[27Jan2025 21:21:03.549] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@6d144aeb (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[27Jan2025 21:21:03.550] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@f60068f (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[27Jan2025 21:21:03.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[27Jan2025 21:22:58.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
