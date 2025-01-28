@@ -2700,6 +2700,12 @@
     },
     "done": true
   },
+  "inventorypets:magmacube": {
+    "criteria": {
+      "crafting_table": "2025-01-28 22:05:01 +0000"
+    },
+    "done": true
+  },
   "dramaticdoors:recipes/redstone/tall_iron_door": {
     "criteria": {
       "has_items": "2025-01-11 20:31:30 +0000"
