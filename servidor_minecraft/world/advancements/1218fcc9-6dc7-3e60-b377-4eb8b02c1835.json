@@ -6723,6 +6723,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "potato": "2025-01-28 21:29:11 +0000",
       "wheat": "2025-01-03 04:42:51 +0000"
     },
     "done": false
