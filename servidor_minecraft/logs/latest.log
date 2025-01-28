@@ -1974,3 +1974,29 @@ java.lang.NullPointerException: null
 [28Jan2025 22:02:23.260] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1284, y=65, z=-1827} BlockPos{x=-1282, y=64, z=-1824}
 [28Jan2025 22:05:01.949] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY has made the advancement [Hot Stuff]
 [28Jan2025 22:05:06.184] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[28Jan2025 22:06:50.401] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: zZzK1TTY was kicked for floating too long!
+[28Jan2025 22:06:50.403] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zZzK1TTY lost connection: Flying is not enabled on this server
+[28Jan2025 22:06:50.403] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY left the game
+[28Jan2025 22:06:50.451] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[28Jan2025 22:06:52.602] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki was kicked for floating too long!
+[28Jan2025 22:06:52.680] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki lost connection: Flying is not enabled on this server
+[28Jan2025 22:06:52.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki left the game
+[28Jan2025 22:06:52.680] [Server thread/INFO] [com.Gr3atsaga.TimeShallNotPass.Config.Managers.TimeShallNotPassModuleManager/]: All non-excluded players have gone offline. No Time Shall Not Pass modules have been toggled on
+[28Jan2025 22:07:00.575] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@464d87f7
+[28Jan2025 22:07:00.585] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: zZzK1TTY[/127.209.87.79:56625] logged in with entity id 25817 at (-1225.7523358233207, 91.3234638674576, -1840.709261136072)
+[28Jan2025 22:07:00.597] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY joined the game
+[28Jan2025 22:07:00.617] [Server thread/INFO] [com.Gr3atsaga.TimeShallNotPass.Config.Managers.TimeShallNotPassModuleManager/]: A non-excluded player has come online. No Time Shall Not Pass modules have been toggled off
+[28Jan2025 22:07:00.683] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@40ffb7ee (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[28Jan2025 22:07:00.684] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@55b8e793 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[28Jan2025 22:07:12.321] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4f72990
+[28Jan2025 22:07:12.329] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: fr4nnki[/127.209.87.79:42175] logged in with entity id 26110 at (-1222.532857282465, 88.16659142092402, -1831.6266435704463)
+[28Jan2025 22:07:12.339] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki joined the game
+[28Jan2025 22:07:12.435] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@40ffb7ee (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[28Jan2025 22:07:12.435] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@55b8e793 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[28Jan2025 22:07:24.205] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki was kicked for floating too long!
+[28Jan2025 22:07:24.253] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki lost connection: Flying is not enabled on this server
+[28Jan2025 22:07:24.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki left the game
+[28Jan2025 22:10:07.905] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zZzK1TTY lost connection: Disconnected
+[28Jan2025 22:10:07.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY left the game
+[28Jan2025 22:10:07.905] [Server thread/INFO] [com.Gr3atsaga.TimeShallNotPass.Config.Managers.TimeShallNotPassModuleManager/]: All non-excluded players have gone offline. No Time Shall Not Pass modules have been toggled on
+[28Jan2025 22:10:19.048] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@18eb5050[id=<null>,name=fr4nnki,properties={},legacy=false] (/127.209.87.79:46109) lost connection: Disconnected
