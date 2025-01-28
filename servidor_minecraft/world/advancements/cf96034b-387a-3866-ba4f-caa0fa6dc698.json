@@ -4439,6 +4439,7 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_tower_of_the_undead": "2025-01-25 20:12:13 +0000",
+      "entered_stables": "2025-01-28 23:06:56 +0000",
       "entered_hay_storage": "2025-01-25 19:33:51 +0000",
       "entered_flying_dutchman": "2025-01-28 22:21:15 +0000",
       "entered_pirate_ship": "2025-01-25 21:30:27 +0000",
@@ -5131,6 +5132,12 @@
   "smallships:recipes/oak_brigg": {
     "criteria": {
       "in_water": "2025-01-02 21:09:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-28 23:09:15 +0000"
     },
     "done": true
   },
