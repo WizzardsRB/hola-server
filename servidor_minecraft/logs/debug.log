@@ -15702,3 +15702,42 @@ java.lang.NullPointerException: null
 [28Jan2025 23:15:43.422] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki moved wrongly!
 [28Jan2025 23:15:43.467] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: zZzK1TTY moved wrongly!
 [28Jan2025 23:16:04.763] [Server thread/INFO] [com.infamous.dungeons_mobs.DungeonsMobs/]: Converted SkeletonEntity['Skeleton - Level: 385'/69574, l='ServerLevel[world]', x=809.31, y=56.30, z=-2232.56] to SunkenSkeletonEntity['Skeleton - Level: 385'/74276, l='ServerLevel[world]', x=809.31, y=56.30, z=-2232.56]
+[28Jan2025 23:19:26.717] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki lost connection: Disconnected
+[28Jan2025 23:19:26.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki left the game
+[28Jan2025 23:19:28.716] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zZzK1TTY lost connection: Disconnected
+[28Jan2025 23:19:28.716] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY left the game
+[28Jan2025 23:19:28.716] [Server thread/INFO] [com.Gr3atsaga.TimeShallNotPass.Config.Managers.TimeShallNotPassModuleManager/]: All non-excluded players have gone offline. No Time Shall Not Pass modules have been toggled on
+[28Jan2025 23:20:32.265] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[28Jan2025 23:20:32.277] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[28Jan2025 23:21:20.896] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[28Jan2025 23:21:20.945] [Server thread/INFO] [ModernFix/]: Shutting down locating executor service
+[28Jan2025 23:21:20.946] [Server thread/INFO] [com.Gr3atsaga.TimeShallNotPass.Config.Managers.TimeShallNotPassModuleManager/]: Server is closing. No Time Shall Not Pass modules have been toggled off
+[28Jan2025 23:21:20.947] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[28Jan2025 23:21:20.947] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file TimeShallNotPass.toml changed, sending notifies
+[28Jan2025 23:21:20.947] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file TimeShallNotPass.toml changed, sending notifies
+[28Jan2025 23:21:20.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[28Jan2025 23:21:20.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[28Jan2025 23:21:20.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[28Jan2025 23:21:20.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[28Jan2025 23:21:21.150] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[28Jan2025 23:21:21.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[28Jan2025 23:21:21.151] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[28Jan2025 23:21:21.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[28Jan2025 23:21:21.152] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[28Jan2025 23:21:21.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/undergarden:undergarden
+[28Jan2025 23:21:21.153] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[28Jan2025 23:21:21.153] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[28Jan2025 23:21:21.163] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[28Jan2025 23:21:21.193] [Server thread/DEBUG] [bettercaves/]: UNLOADING WORLD
+[28Jan2025 23:21:21.201] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[28Jan2025 23:21:21.239] [Server thread/DEBUG] [bettercaves/]: UNLOADING WORLD
+[28Jan2025 23:21:21.239] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[28Jan2025 23:21:21.239] [Server thread/DEBUG] [bettercaves/]: UNLOADING WORLD
+[28Jan2025 23:21:21.239] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[28Jan2025 23:21:21.240] [Server thread/DEBUG] [bettercaves/]: UNLOADING WORLD
+[28Jan2025 23:21:21.240] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[28Jan2025 23:21:21.242] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[28Jan2025 23:21:21.242] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[28Jan2025 23:21:21.242] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file biggerstacks-server.toml changed, sending notifies
+[28Jan2025 23:21:21.245] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file /workspaces/hola-server/servidor_minecraft/config/waystones-server.toml changed, sending notifies
+[28Jan2025 23:21:21.245] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file /workspaces/hola-server/servidor_minecraft/config/waystones-server.toml changed, sending notifies
