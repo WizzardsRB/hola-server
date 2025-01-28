@@ -2032,3 +2032,73 @@ java.lang.NullPointerException: null
 [28Jan2025 22:26:08.463] [Server thread/INFO] [com.infamous.dungeons_mobs.DungeonsMobs/]: Converted SkeletonEntity['☠ Skeleton - Level: 639'/33595, l='ServerLevel[world]', x=-901.52, y=48.00, z=-1905.58] to SunkenSkeletonEntity['☠ Skeleton - Level: 639'/34234, l='ServerLevel[world]', x=-901.52, y=48.00, z=-1905.58]
 [28Jan2025 22:26:09.809] [Server thread/INFO] [com.infamous.dungeons_mobs.DungeonsMobs/]: Converted SkeletonEntity['Skeleton - Level: 349'/33605, l='ServerLevel[world]', x=-900.78, y=48.00, z=-1905.72] to SunkenSkeletonEntity['Skeleton - Level: 349'/34249, l='ServerLevel[world]', x=-900.78, y=48.00, z=-1905.72]
 [28Jan2025 22:26:09.811] [Server thread/INFO] [com.infamous.dungeons_mobs.DungeonsMobs/]: Converted SkeletonEntity['☠ Skeleton - Level: 405'/33607, l='ServerLevel[world]', x=-901.82, y=48.00, z=-1904.94] to SunkenSkeletonEntity['☠ Skeleton - Level: 405'/34250, l='ServerLevel[world]', x=-901.82, y=48.00, z=-1904.94]
+[28Jan2025 22:26:33.317] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki moved wrongly!
+[28Jan2025 22:26:59.600] [Server thread/INFO] [com.infamous.dungeons_mobs.DungeonsMobs/]: Converted SkeletonEntity['Skeleton - Level: 295'/29880, l='ServerLevel[world]', x=-912.36, y=45.00, z=-1873.19] to SunkenSkeletonEntity['Skeleton - Level: 295'/34883, l='ServerLevel[world]', x=-912.36, y=45.00, z=-1873.19]
+[28Jan2025 22:28:20.517] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=-966, y=24, z=-1660}
+[28Jan2025 22:28:54.091] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[28Jan2025 22:28:54.362] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/36050, l='ServerLevel[world]', x=-1055.50, y=37.50, z=-1761.80]
+[28Jan2025 22:28:54.362] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/36050, l='ServerLevel[world]', x=-1055.50, y=37.50, z=-1761.80]
+[28Jan2025 22:28:54.363] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/36052, l='ServerLevel[world]', x=-1053.20, y=37.50, z=-1759.50]
+[28Jan2025 22:28:54.363] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/36052, l='ServerLevel[world]', x=-1053.20, y=37.50, z=-1759.50]
+[28Jan2025 22:28:54.460] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/36056, l='ServerLevel[world]', x=-1055.50, y=37.50, z=-1757.20]
+[28Jan2025 22:28:54.460] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/36056, l='ServerLevel[world]', x=-1055.50, y=37.50, z=-1757.20]
+[28Jan2025 22:28:54.461] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/36058, l='ServerLevel[world]', x=-1057.80, y=37.50, z=-1759.50]
+[28Jan2025 22:28:54.461] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/36058, l='ServerLevel[world]', x=-1057.80, y=37.50, z=-1759.50]
+[28Jan2025 22:28:58.571] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[28Jan2025 22:28:58.668] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[28Jan2025 22:29:02.112] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[28Jan2025 22:29:52.515] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of fr4nnki) moved wrongly! 0.4431898138034285
+[28Jan2025 22:29:52.538] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of fr4nnki) moved wrongly! 0.754252799296637
+[28Jan2025 22:29:52.616] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of fr4nnki) moved wrongly! 1.0640855692997775
+[28Jan2025 22:29:52.666] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of fr4nnki) moved wrongly! 1.372893766993684
+[28Jan2025 22:29:52.815] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of fr4nnki) moved wrongly! 0.38515998173329535
+[28Jan2025 22:30:50.168] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[28Jan2025 22:32:43.194] [Worker-Main-64/WARN] [ModernFix/]: Using cached upgraded version of twist:charred_ribcage_new
+[28Jan2025 22:34:29.062] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of zZzK1TTY) moved wrongly! 1.5683832072343193
+[28Jan2025 22:34:29.111] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of zZzK1TTY) moved wrongly! 1.4642971922960442
+[28Jan2025 22:34:29.181] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of zZzK1TTY) moved wrongly! 1.3444249467119107
+[28Jan2025 22:34:29.182] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of zZzK1TTY) moved wrongly! 1.3444249467119107
+[28Jan2025 22:34:29.261] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of zZzK1TTY) moved wrongly! 1.069319298219284
+[28Jan2025 22:34:29.310] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of zZzK1TTY) moved wrongly! 1.069319298219284
+[28Jan2025 22:36:10.660] [Worker-Main-64/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/grassy_ladder_long
+[28Jan2025 22:36:48.965] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 183  Position = BlockPos{x=304, y=62, z=-1680}
+[28Jan2025 22:36:48.966] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 62  Position = BlockPos{x=291, y=68, z=-1657}
+[28Jan2025 22:36:48.980] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 183  Position = BlockPos{x=301, y=79, z=-1677}
+[28Jan2025 22:36:48.980] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 62  Position = BlockPos{x=282, y=68, z=-1658}
+[28Jan2025 22:36:48.980] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 79  Position = BlockPos{x=294, y=83, z=-1660}
+[28Jan2025 22:36:48.981] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 79  Position = BlockPos{x=277, y=80, z=-1655}
+[28Jan2025 22:36:48.986] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 183  Position = BlockPos{x=301, y=90, z=-1677}
+[28Jan2025 22:36:48.986] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 90  Position = BlockPos{x=283, y=91, z=-1669}
+[28Jan2025 22:36:48.986] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 183  Position = BlockPos{x=301, y=101, z=-1677}
+[28Jan2025 22:36:48.986] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 90  Position = BlockPos{x=290, y=91, z=-1666}
+[28Jan2025 22:36:48.986] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 101  Position = BlockPos{x=277, y=102, z=-1662}
+[28Jan2025 22:36:48.987] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 183  Position = BlockPos{x=301, y=112, z=-1677}
+[28Jan2025 22:36:48.987] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 101  Position = BlockPos{x=294, y=102, z=-1663}
+[28Jan2025 22:36:48.987] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 112  Position = BlockPos{x=297, y=113, z=-1671}
+[28Jan2025 22:36:48.988] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 183  Position = BlockPos{x=301, y=123, z=-1677}
+[28Jan2025 22:36:48.988] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 112  Position = BlockPos{x=280, y=113, z=-1659}
+[28Jan2025 22:36:48.988] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 112  Position = BlockPos{x=280, y=116, z=-1666}
+[28Jan2025 22:36:48.988] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 123  Position = BlockPos{x=296, y=127, z=-1664}
+[28Jan2025 22:36:48.989] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 123  Position = BlockPos{x=284, y=124, z=-1660}
+[28Jan2025 22:36:48.989] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 123  Position = BlockPos{x=291, y=124, z=-1657}
+[28Jan2025 22:36:48.989] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 183  Position = BlockPos{x=301, y=134, z=-1677}
+[28Jan2025 22:36:48.989] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 134  Position = BlockPos{x=280, y=135, z=-1663}
+[28Jan2025 22:36:48.990] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 183  Position = BlockPos{x=302, y=145, z=-1678}
+[28Jan2025 22:36:48.990] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 134  Position = BlockPos{x=297, y=135, z=-1664}
+[28Jan2025 22:36:48.990] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 134  Position = BlockPos{x=285, y=135, z=-1674}
+[28Jan2025 22:36:48.990] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 145  Position = BlockPos{x=293, y=150, z=-1667}
+[28Jan2025 22:36:48.990] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 145  Position = BlockPos{x=294, y=149, z=-1660}
+[28Jan2025 22:36:48.990] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 145  Position = BlockPos{x=294, y=146, z=-1667}
+[28Jan2025 22:36:48.991] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 145  Position = BlockPos{x=277, y=146, z=-1655}
+[28Jan2025 22:36:58.867] [Worker-Main-63/WARN] [ModernFix/]: Structure byg:village/adobe/villagers/unemployed is being run through DFU (hash 44db1831a7bd8dd011f4be5e0194deb9d1cc1ff856808602d6830e40f632f326), this will cause launch time delays
+[28Jan2025 22:36:59.264] [Worker-Main-63/WARN] [ModernFix/]: Structure byg:village/adobe/villagers/baby is being run through DFU (hash f54aef56a653a0d1f35d9dacb19d781bf2f007550f640a5aae919bfd39e2128b), this will cause launch time delays
+[28Jan2025 22:37:16.067] [Worker-Main-63/WARN] [ModernFix/]: Structure inventorypets:nether_dungeon is being run through DFU (hash b9a39308060f8e78ddb60de7647880372da34aab912136fe9d3d7261c3565a98), this will cause launch time delays
+[28Jan2025 22:43:14.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[28Jan2025 22:43:29.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> Finally, a challenge!
+[28Jan2025 22:43:30.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> I will not be killed so easily!
+[28Jan2025 22:43:37.071] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> I will not be killed so easily!
+[28Jan2025 22:43:37.072] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The Land Golem has become enraged!
+[28Jan2025 22:43:49.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> This tower will not fall!
+[28Jan2025 22:44:02.548] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tier 1 Boss: ☠ Land Golem - Level: 5025 has been slain!
+[28Jan2025 22:44:02.560] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> Crumble... as I do...
+[28Jan2025 22:46:11.162] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki made their Netherite Bulwark unbreakable!

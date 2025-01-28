@@ -7650,7 +7650,8 @@
   },
   "repurposed_structures:ruins": {
     "criteria": {
-      "in_ruins_nether": "2025-01-23 00:06:06 +0000"
+      "in_ruins_nether": "2025-01-23 00:06:06 +0000",
+      "in_ruins_land_warm": "2025-01-28 22:30:47 +0000"
     },
     "done": false
   },

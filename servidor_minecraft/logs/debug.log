@@ -13268,3 +13268,230 @@ java.lang.NullPointerException: null
 [28Jan2025 22:26:08.463] [Server thread/INFO] [com.infamous.dungeons_mobs.DungeonsMobs/]: Converted SkeletonEntity['☠ Skeleton - Level: 639'/33595, l='ServerLevel[world]', x=-901.52, y=48.00, z=-1905.58] to SunkenSkeletonEntity['☠ Skeleton - Level: 639'/34234, l='ServerLevel[world]', x=-901.52, y=48.00, z=-1905.58]
 [28Jan2025 22:26:09.809] [Server thread/INFO] [com.infamous.dungeons_mobs.DungeonsMobs/]: Converted SkeletonEntity['Skeleton - Level: 349'/33605, l='ServerLevel[world]', x=-900.78, y=48.00, z=-1905.72] to SunkenSkeletonEntity['Skeleton - Level: 349'/34249, l='ServerLevel[world]', x=-900.78, y=48.00, z=-1905.72]
 [28Jan2025 22:26:09.811] [Server thread/INFO] [com.infamous.dungeons_mobs.DungeonsMobs/]: Converted SkeletonEntity['☠ Skeleton - Level: 405'/33607, l='ServerLevel[world]', x=-901.82, y=48.00, z=-1904.94] to SunkenSkeletonEntity['☠ Skeleton - Level: 405'/34250, l='ServerLevel[world]', x=-901.82, y=48.00, z=-1904.94]
+[28Jan2025 22:26:33.317] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki moved wrongly!
+[28Jan2025 22:26:59.600] [Server thread/INFO] [com.infamous.dungeons_mobs.DungeonsMobs/]: Converted SkeletonEntity['Skeleton - Level: 295'/29880, l='ServerLevel[world]', x=-912.36, y=45.00, z=-1873.19] to SunkenSkeletonEntity['Skeleton - Level: 295'/34883, l='ServerLevel[world]', x=-912.36, y=45.00, z=-1873.19]
+[28Jan2025 22:28:20.517] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=-966, y=24, z=-1660}
+[28Jan2025 22:28:54.091] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[28Jan2025 22:28:54.362] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/36050, l='ServerLevel[world]', x=-1055.50, y=37.50, z=-1761.80]
+[28Jan2025 22:28:54.362] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/36050, l='ServerLevel[world]', x=-1055.50, y=37.50, z=-1761.80]
+[28Jan2025 22:28:54.363] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/36052, l='ServerLevel[world]', x=-1053.20, y=37.50, z=-1759.50]
+[28Jan2025 22:28:54.363] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/36052, l='ServerLevel[world]', x=-1053.20, y=37.50, z=-1759.50]
+[28Jan2025 22:28:54.460] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/36056, l='ServerLevel[world]', x=-1055.50, y=37.50, z=-1757.20]
+[28Jan2025 22:28:54.460] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/36056, l='ServerLevel[world]', x=-1055.50, y=37.50, z=-1757.20]
+[28Jan2025 22:28:54.461] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/36058, l='ServerLevel[world]', x=-1057.80, y=37.50, z=-1759.50]
+[28Jan2025 22:28:54.461] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/36058, l='ServerLevel[world]', x=-1057.80, y=37.50, z=-1759.50]
+[28Jan2025 22:28:58.571] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[28Jan2025 22:28:58.668] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[28Jan2025 22:29:02.112] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[28Jan2025 22:29:52.515] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of fr4nnki) moved wrongly! 0.4431898138034285
+[28Jan2025 22:29:52.538] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of fr4nnki) moved wrongly! 0.754252799296637
+[28Jan2025 22:29:52.616] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of fr4nnki) moved wrongly! 1.0640855692997775
+[28Jan2025 22:29:52.666] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of fr4nnki) moved wrongly! 1.372893766993684
+[28Jan2025 22:29:52.815] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of fr4nnki) moved wrongly! 0.38515998173329535
+[28Jan2025 22:30:28.271] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[28Jan2025 22:30:28.283] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[28Jan2025 22:30:50.164] [Server thread/DEBUG] [ModernFix/]: Creating locate task for [com.telepathicgrunt.repurposedstructures.world.structures.GenericJigsawStructure@3a03dee2] in ServerLevel[world] around BlockPos{x=-1061, y=64, z=-1611} within 50 chunks
+[28Jan2025 22:30:50.166] [asynclocator-1-thread-1/DEBUG] [ModernFix/]: Trying to locate [repurposed_structures:bastion_underground] in ServerLevel[world] around BlockPos{x=-1061, y=64, z=-1611} within 50 chunks
+[28Jan2025 22:30:50.168] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[28Jan2025 22:30:50.232] [asynclocator-1-thread-1/DEBUG] [ModernFix/]: Found [repurposed_structures:bastion_underground] at BlockPos{x=-6368, y=0, z=-7792}
+[28Jan2025 22:32:43.194] [Worker-Main-64/WARN] [ModernFix/]: Using cached upgraded version of twist:charred_ribcage_new
+[28Jan2025 22:32:49.879] [Worker-Main-63/DEBUG] [betterdungeons/]: Small Dungeon at -595 13 -2371
+[28Jan2025 22:32:56.344] [Worker-Main-3/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Land Battle Tower at -544 -2240 4 5 true
+[28Jan2025 22:34:16.243] [Worker-Main-64/DEBUG] [betterdungeons/]: Skeleton Dungeon at -489 13 -1337
+[28Jan2025 22:34:24.173] [Worker-Main-64/DEBUG] [betterdungeons/]: Small Dungeon at -425 40 -1555
+[28Jan2025 22:34:29.062] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of zZzK1TTY) moved wrongly! 1.5683832072343193
+[28Jan2025 22:34:29.111] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of zZzK1TTY) moved wrongly! 1.4642971922960442
+[28Jan2025 22:34:29.181] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of zZzK1TTY) moved wrongly! 1.3444249467119107
+[28Jan2025 22:34:29.182] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of zZzK1TTY) moved wrongly! 1.3444249467119107
+[28Jan2025 22:34:29.261] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of zZzK1TTY) moved wrongly! 1.069319298219284
+[28Jan2025 22:34:29.310] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of zZzK1TTY) moved wrongly! 1.069319298219284
+[28Jan2025 22:34:40.216] [Worker-Main-64/DEBUG] [betterdungeons/]: Small Dungeon at -313 28 -1401
+[28Jan2025 22:34:54.566] [Worker-Main-63/DEBUG] [betterdungeons/]: Small Dungeon at -307 46 -1737
+[28Jan2025 22:35:10.722] [Worker-Main-3/DEBUG] [betterdungeons/]: Small Dungeon at -281 17 -1865
+[28Jan2025 22:35:10.744] [Worker-Main-3/DEBUG] [betterdungeons/]: Small Dungeon at -291 10 -1583
+[28Jan2025 22:35:28.005] [Worker-Main-64/DEBUG] [betterdungeons/]: Small Dungeon at -105 39 -1705
+[28Jan2025 22:35:28.606] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[28Jan2025 22:35:28.617] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[28Jan2025 22:35:29.329] [Worker-Main-63/DEBUG] [betterdungeons/]: Small Dungeon at -115 47 -1569
+[28Jan2025 22:36:00.548] [Worker-Main-3/DEBUG] [betterdungeons/]: Small Dungeon at 31 34 -2033
+[28Jan2025 22:36:00.549] [Worker-Main-3/DEBUG] [betterdungeons/]: Small Dungeon at 31 16 -1593
+[28Jan2025 22:36:10.660] [Worker-Main-64/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/grassy_ladder_long
+[28Jan2025 22:36:17.653] [Worker-Main-3/DEBUG] [betterdungeons/]: Small Dungeon at 29 22 -2201
+[28Jan2025 22:36:21.730] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (36 | 49 | -2252).
+[28Jan2025 22:36:21.733] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[28Jan2025 22:36:21.735] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 6(0) Nodes and 4(0) Rooms
+[28Jan2025 22:36:21.735] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[28Jan2025 22:36:21.736] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 7(0) Nodes and 4(0) Rooms
+[28Jan2025 22:36:21.736] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[28Jan2025 22:36:21.737] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 7(4) Nodes and 5(0) Rooms
+[28Jan2025 22:36:21.737] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[28Jan2025 22:36:21.737] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 2(9) Nodes and 6(0) Rooms
+[28Jan2025 22:36:21.737] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[28Jan2025 22:36:21.738] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 6(4) Nodes and 5(0) Rooms
+[28Jan2025 22:36:21.746] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Created the dungeon layout for [7, -136] with a total of 250 pieces.
+[28Jan2025 22:36:32.906] [Worker-Main-3/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Land Battle Tower at 32 -2272 5 4 false
+[28Jan2025 22:36:35.022] [Worker-Main-3/DEBUG] [betterdungeons/]: Small Dungeon at 183 19 -2049
+[28Jan2025 22:36:36.045] [Worker-Main-63/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [2,-131]
+[28Jan2025 22:36:36.045] [Worker-Main-63/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [2,-131]
+[28Jan2025 22:36:36.134] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [2,-132]
+[28Jan2025 22:36:36.134] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [2,-132]
+[28Jan2025 22:36:36.268] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [2,-133]
+[28Jan2025 22:36:36.268] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [2,-133]
+[28Jan2025 22:36:38.130] [Worker-Main-3/DEBUG] [betterdungeons/]: Spider Dungeon at 183 45 -1833
+[28Jan2025 22:36:38.220] [Worker-Main-63/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [3,-131]
+[28Jan2025 22:36:38.220] [Worker-Main-63/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [3,-131]
+[28Jan2025 22:36:39.011] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [4,-131]
+[28Jan2025 22:36:39.011] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [4,-131]
+[28Jan2025 22:36:40.087] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [3,-132]
+[28Jan2025 22:36:40.087] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [3,-132]
+[28Jan2025 22:36:40.106] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [2,-134]
+[28Jan2025 22:36:40.106] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [2,-134]
+[28Jan2025 22:36:40.343] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [3,-134]
+[28Jan2025 22:36:40.343] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/secret_room with rotation CLOCKWISE_180 at (54 | 40 | -2135)
+[28Jan2025 22:36:40.344] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/secret_room with rotation CLOCKWISE_180 at (54 | 40 | -2135)
+[28Jan2025 22:36:40.344] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [3,-134]
+[28Jan2025 22:36:40.361] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [3,-133]
+[28Jan2025 22:36:40.361] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/secret_room with rotation CLOCKWISE_180 at (54 | 40 | -2135)
+[28Jan2025 22:36:40.362] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/secret_room with rotation CLOCKWISE_180 at (54 | 40 | -2135)
+[28Jan2025 22:36:40.362] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [3,-133]
+[28Jan2025 22:36:41.473] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [4,-132]
+[28Jan2025 22:36:41.473] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [4,-132]
+[28Jan2025 22:36:41.519] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [4,-133]
+[28Jan2025 22:36:41.519] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/secret_room with rotation CLOCKWISE_180 at (54 | 40 | -2135)
+[28Jan2025 22:36:41.519] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/secret_room with rotation CLOCKWISE_180 at (54 | 40 | -2135)
+[28Jan2025 22:36:41.519] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/secret_room_entrance with rotation COUNTERCLOCKWISE_90 at (73 | 40 | -2135)
+[28Jan2025 22:36:41.520] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/secret_room_entrance with rotation COUNTERCLOCKWISE_90 at (73 | 40 | -2135)
+[28Jan2025 22:36:41.520] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (72 | 40 | -2126)
+[28Jan2025 22:36:41.521] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (72 | 40 | -2126)
+[28Jan2025 22:36:41.521] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [4,-133]
+[28Jan2025 22:36:42.628] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [5,-131]
+[28Jan2025 22:36:42.628] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [5,-131]
+[28Jan2025 22:36:42.639] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [5,-132]
+[28Jan2025 22:36:42.639] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [5,-132]
+[28Jan2025 22:36:42.716] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [5,-133]
+[28Jan2025 22:36:42.716] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (91 | 49 | -2135)
+[28Jan2025 22:36:42.716] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (91 | 49 | -2135)
+[28Jan2025 22:36:42.716] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (90 | 49 | -2126)
+[28Jan2025 22:36:42.717] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (90 | 49 | -2126)
+[28Jan2025 22:36:42.718] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (72 | 40 | -2126)
+[28Jan2025 22:36:42.718] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (72 | 40 | -2126)
+[28Jan2025 22:36:42.718] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [5,-133]
+[28Jan2025 22:36:43.623] [Worker-Main-63/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [6,-131]
+[28Jan2025 22:36:43.623] [Worker-Main-63/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [6,-131]
+[28Jan2025 22:36:43.814] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [6,-132]
+[28Jan2025 22:36:43.814] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [6,-132]
+[28Jan2025 22:36:44.930] [Worker-Main-63/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [7,-132]
+[28Jan2025 22:36:44.930] [Worker-Main-63/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_90 at (119 | 38 | -2115)
+[28Jan2025 22:36:44.930] [Worker-Main-63/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_90 at (119 | 38 | -2115)
+[28Jan2025 22:36:44.930] [Worker-Main-63/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison with rotation CLOCKWISE_90 at (113 | 31 | -2121)
+[28Jan2025 22:36:44.931] [Worker-Main-63/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation CLOCKWISE_90 at (113 | 31 | -2121)
+[28Jan2025 22:36:44.931] [Worker-Main-63/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation CLOCKWISE_180 at (126 | 13 | -2117)
+[28Jan2025 22:36:44.931] [Worker-Main-63/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation CLOCKWISE_180 at (126 | 13 | -2117)
+[28Jan2025 22:36:44.931] [Worker-Main-63/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [7,-132]
+[28Jan2025 22:36:44.949] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [7,-131]
+[28Jan2025 22:36:44.949] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [7,-131]
+[28Jan2025 22:36:48.961] [Worker-Main-64/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Land Battle Tower at 304 -1680 9 0 true
+[28Jan2025 22:36:48.965] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 183  Position = BlockPos{x=304, y=62, z=-1680}
+[28Jan2025 22:36:48.966] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 62  Position = BlockPos{x=291, y=68, z=-1657}
+[28Jan2025 22:36:48.980] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 183  Position = BlockPos{x=301, y=79, z=-1677}
+[28Jan2025 22:36:48.980] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 62  Position = BlockPos{x=282, y=68, z=-1658}
+[28Jan2025 22:36:48.980] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 79  Position = BlockPos{x=294, y=83, z=-1660}
+[28Jan2025 22:36:48.981] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 79  Position = BlockPos{x=277, y=80, z=-1655}
+[28Jan2025 22:36:48.986] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 183  Position = BlockPos{x=301, y=90, z=-1677}
+[28Jan2025 22:36:48.986] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 90  Position = BlockPos{x=283, y=91, z=-1669}
+[28Jan2025 22:36:48.986] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 183  Position = BlockPos{x=301, y=101, z=-1677}
+[28Jan2025 22:36:48.986] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 90  Position = BlockPos{x=290, y=91, z=-1666}
+[28Jan2025 22:36:48.986] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 101  Position = BlockPos{x=277, y=102, z=-1662}
+[28Jan2025 22:36:48.987] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 183  Position = BlockPos{x=301, y=112, z=-1677}
+[28Jan2025 22:36:48.987] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 101  Position = BlockPos{x=294, y=102, z=-1663}
+[28Jan2025 22:36:48.987] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 112  Position = BlockPos{x=297, y=113, z=-1671}
+[28Jan2025 22:36:48.988] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 183  Position = BlockPos{x=301, y=123, z=-1677}
+[28Jan2025 22:36:48.988] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 112  Position = BlockPos{x=280, y=113, z=-1659}
+[28Jan2025 22:36:48.988] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 112  Position = BlockPos{x=280, y=116, z=-1666}
+[28Jan2025 22:36:48.988] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 123  Position = BlockPos{x=296, y=127, z=-1664}
+[28Jan2025 22:36:48.989] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 123  Position = BlockPos{x=284, y=124, z=-1660}
+[28Jan2025 22:36:48.989] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 123  Position = BlockPos{x=291, y=124, z=-1657}
+[28Jan2025 22:36:48.989] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 183  Position = BlockPos{x=301, y=134, z=-1677}
+[28Jan2025 22:36:48.989] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 134  Position = BlockPos{x=280, y=135, z=-1663}
+[28Jan2025 22:36:48.990] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 183  Position = BlockPos{x=302, y=145, z=-1678}
+[28Jan2025 22:36:48.990] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 134  Position = BlockPos{x=297, y=135, z=-1664}
+[28Jan2025 22:36:48.990] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 134  Position = BlockPos{x=285, y=135, z=-1674}
+[28Jan2025 22:36:48.990] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 145  Position = BlockPos{x=293, y=150, z=-1667}
+[28Jan2025 22:36:48.990] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 145  Position = BlockPos{x=294, y=149, z=-1660}
+[28Jan2025 22:36:48.990] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 145  Position = BlockPos{x=294, y=146, z=-1667}
+[28Jan2025 22:36:48.991] [Worker-Main-64/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 145  Position = BlockPos{x=277, y=146, z=-1655}
+[28Jan2025 22:36:48.992] [Worker-Main-64/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Land Battle Tower at 270 56 -1680
+[28Jan2025 22:36:51.293] [Worker-Main-63/DEBUG] [betterdungeons/]: Small Dungeon at 47 22 -1425
+[28Jan2025 22:36:54.267] [Worker-Main-63/DEBUG] [betterdungeons/]: Small Dungeon at 161 41 -1385
+[28Jan2025 22:36:54.313] [Worker-Main-63/DEBUG] [betterdungeons/]: Small Dungeon at -145 21 -1391
+[28Jan2025 22:36:58.379] [Worker-Main-3/DEBUG] [betterdungeons/]: Small Dungeon at 359 16 -1873
+[28Jan2025 22:36:58.416] [Worker-Main-64/DEBUG] [betterdungeons/]: Small Dungeon at 359 48 -1715
+[28Jan2025 22:36:58.867] [Worker-Main-63/WARN] [ModernFix/]: Structure byg:village/adobe/villagers/unemployed is being run through DFU (hash 44db1831a7bd8dd011f4be5e0194deb9d1cc1ff856808602d6830e40f632f326), this will cause launch time delays
+[28Jan2025 22:36:59.264] [Worker-Main-63/WARN] [ModernFix/]: Structure byg:village/adobe/villagers/baby is being run through DFU (hash f54aef56a653a0d1f35d9dacb19d781bf2f007550f640a5aae919bfd39e2128b), this will cause launch time delays
+[28Jan2025 22:37:11.073] [Worker-Main-64/DEBUG] [betterdungeons/]: Spider Dungeon at 143 47 -1308
+[28Jan2025 22:37:13.189] [Worker-Main-3/DEBUG] [betterdungeons/]: Small Dungeon at 7 21 -1267
+[28Jan2025 22:37:14.264] [Worker-Main-3/DEBUG] [betterdungeons/]: Small Dungeon at -121 26 -1249
+[28Jan2025 22:37:15.252] [Worker-Main-3/DEBUG] [betterdungeons/]: Small Dungeon at 477 34 -1273
+[28Jan2025 22:37:16.063] [Worker-Main-3/DEBUG] [betterdungeons/]: Small Dungeon at 183 28 -1225
+[28Jan2025 22:37:16.064] [Worker-Main-3/DEBUG] [betterdungeons/]: Small Dungeon at 317 43 -1233
+[28Jan2025 22:37:16.067] [Worker-Main-63/WARN] [ModernFix/]: Structure inventorypets:nether_dungeon is being run through DFU (hash b9a39308060f8e78ddb60de7647880372da34aab912136fe9d3d7261c3565a98), this will cause launch time delays
+[28Jan2025 22:37:17.070] [Worker-Main-63/DEBUG] [betterdungeons/]: Small Dungeon at 495 31 -1759
+[28Jan2025 22:38:45.898] [Worker-Main-3/DEBUG] [betterdungeons/]: Small Dungeon at 535 21 -1417
+[28Jan2025 22:38:51.419] [Worker-Main-64/DEBUG] [betterdungeons/]: Small Dungeon at 535 20 -1897
+[28Jan2025 22:39:01.607] [Worker-Main-63/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Land Battle Tower at 576 -1968 6 3 false
+[28Jan2025 22:39:15.224] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@3fc4fb67
+[28Jan2025 22:39:15.224] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 1.0
+[28Jan2025 22:39:18.223] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@3fc4fb67
+[28Jan2025 22:39:18.223] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 2.0
+[28Jan2025 22:39:28.961] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@39b36478
+[28Jan2025 22:39:28.962] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 1.0
+[28Jan2025 22:39:34.288] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@39b36478
+[28Jan2025 22:39:34.288] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 2.0
+[28Jan2025 22:39:52.387] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@3deb12af
+[28Jan2025 22:39:52.387] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 1.0
+[28Jan2025 22:40:10.316] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@3deb12af
+[28Jan2025 22:40:10.316] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 2.0
+[28Jan2025 22:40:28.673] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[28Jan2025 22:40:28.684] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[28Jan2025 22:40:38.440] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@1c9ee992
+[28Jan2025 22:40:38.440] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 1.0
+[28Jan2025 22:40:44.271] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@1c9ee992
+[28Jan2025 22:40:44.271] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 2.0
+[28Jan2025 22:40:57.219] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@12884d73
+[28Jan2025 22:40:57.219] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 1.0
+[28Jan2025 22:41:06.463] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@12884d73
+[28Jan2025 22:41:06.463] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 2.0
+[28Jan2025 22:41:06.739] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@12884d73
+[28Jan2025 22:41:06.739] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 3.0
+[28Jan2025 22:41:42.776] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@35cdab17
+[28Jan2025 22:41:42.776] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 1.0
+[28Jan2025 22:41:43.915] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@35cdab17
+[28Jan2025 22:41:43.915] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 2.0
+[28Jan2025 22:41:48.738] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@35cdab17
+[28Jan2025 22:41:48.738] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 3.0
+[28Jan2025 22:42:06.889] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@66f2ce69
+[28Jan2025 22:42:06.889] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 1.0
+[28Jan2025 22:42:09.211] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@66f2ce69
+[28Jan2025 22:42:09.211] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 2.0
+[28Jan2025 22:42:29.862] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@40634ef0
+[28Jan2025 22:42:29.862] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 1.0
+[28Jan2025 22:42:33.787] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@40634ef0
+[28Jan2025 22:42:33.787] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 2.0
+[28Jan2025 22:42:34.427] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@40634ef0
+[28Jan2025 22:42:34.427] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 3.0
+[28Jan2025 22:43:14.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[28Jan2025 22:43:29.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> Finally, a challenge!
+[28Jan2025 22:43:30.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> I will not be killed so easily!
+[28Jan2025 22:43:37.071] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> I will not be killed so easily!
+[28Jan2025 22:43:37.072] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The Land Golem has become enraged!
+[28Jan2025 22:43:49.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> This tower will not fall!
+[28Jan2025 22:44:02.546] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: BlockPos{x=287, y=156, z=-1663}
+[28Jan2025 22:44:02.546] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: BlockPos{x=299, y=155, z=-1663} - null
+[28Jan2025 22:44:02.547] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: BlockPos{x=287, y=155, z=-1651} - null
+[28Jan2025 22:44:02.547] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: BlockPos{x=275, y=155, z=-1663} - null
+[28Jan2025 22:44:02.547] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.GolemChestTileEntity@227fe36c
+[28Jan2025 22:44:02.548] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tier 1 Boss: ☠ Land Golem - Level: 5025 has been slain!
+[28Jan2025 22:44:02.560] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> Crumble... as I do...
+[28Jan2025 22:45:28.143] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[28Jan2025 22:45:28.152] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[28Jan2025 22:46:11.162] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki made their Netherite Bulwark unbreakable!
