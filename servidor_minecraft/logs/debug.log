@@ -20019,3 +20019,716 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [29Jan2025 21:42:09.864] [Server thread/INFO] [com.infamous.dungeons_mobs.DungeonsMobs/]: Converted SkeletonEntity['Skeleton - Level: 177'/54744, l='ServerLevel[world]', x=429.97, y=60.00, z=1825.70] to SunkenSkeletonEntity['Skeleton - Level: 177'/55925, l='ServerLevel[world]', x=429.97, y=60.00, z=1825.70]
 [29Jan2025 21:42:13.953] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
 [29Jan2025 21:42:36.313] [Worker-Main-105/DEBUG] [betterdungeons/]: Small Dungeon at 45 11 2285
+[29Jan2025 21:43:21.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[29Jan2025 21:43:59.703] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[29Jan2025 21:45:23.849] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=645, y=18, z=2404} but found not block entity block Block{minecraft:cave_air} at location
+[29Jan2025 21:45:23.850] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=645, y=18, z=2404}
+[29Jan2025 21:45:23.850] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=646, y=19, z=2407} but found not block entity block Block{minecraft:cave_air} at location
+[29Jan2025 21:45:23.850] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=646, y=19, z=2407}
+[29Jan2025 21:45:23.851] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=645, y=17, z=2410} but found not block entity block Block{subwild:stone_speleothem}[down=true,facing=up,up=true,waterlogged=false] at location
+[29Jan2025 21:45:23.851] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{subwild:stone_speleothem}[down=true,facing=up,up=true,waterlogged=false] but failed at location BlockPos{x=645, y=17, z=2410}
+[29Jan2025 21:45:24.476] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[29Jan2025 21:45:24.491] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[29Jan2025 21:45:32.080] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (548 | 49 | 3460).
+[29Jan2025 21:45:32.080] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[29Jan2025 21:45:32.080] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 4(0) Nodes and 4(0) Rooms
+[29Jan2025 21:45:32.080] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[29Jan2025 21:45:32.081] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 4(3) Nodes and 6(0) Rooms
+[29Jan2025 21:45:32.081] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[29Jan2025 21:45:32.081] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 9(0) Nodes and 5(0) Rooms
+[29Jan2025 21:45:32.081] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[29Jan2025 21:45:32.081] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 5(6) Nodes and 6(0) Rooms
+[29Jan2025 21:45:32.081] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[29Jan2025 21:45:32.081] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 10(2) Nodes and 4(0) Rooms
+[29Jan2025 21:45:32.083] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Created the dungeon layout for [39, 221] with a total of 281 pieces.
+[29Jan2025 21:45:32.667] [Worker-Main-106/DEBUG] [betterdungeons/]: Small Dungeon at 479 43 3553
+[29Jan2025 21:45:33.366] [Worker-Main-105/DEBUG] [betterdungeons/]: Small Dungeon at 685 44 3569
+[29Jan2025 21:45:33.657] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[29Jan2025 21:45:38.834] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [34,218]
+[29Jan2025 21:45:38.835] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [34,218]
+[29Jan2025 21:45:39.539] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [35,218]
+[29Jan2025 21:45:39.539] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [35,218]
+[29Jan2025 21:45:40.528] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [34,219]
+[29Jan2025 21:45:40.529] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [34,219]
+[29Jan2025 21:45:40.541] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [35,219]
+[29Jan2025 21:45:40.542] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [35,219]
+[29Jan2025 21:45:41.859] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [34,220]
+[29Jan2025 21:45:41.859] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [34,220]
+[29Jan2025 21:45:41.877] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [35,220]
+[29Jan2025 21:45:41.877] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [35,220]
+[29Jan2025 21:45:42.072] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Mercy - Level: 111'/59970, l='ServerLevel[world]', x=374.62, y=65.00, z=3328.51] died, message: 'Mercy - Level: 111 was killed by magic'
+[29Jan2025 21:45:42.074] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Kala - Level: 111'/59996, l='ServerLevel[world]', x=384.30, y=64.13, z=3328.30] died, message: 'Kala - Level: 111 was killed by magic'
+[29Jan2025 21:45:42.074] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Yuriko - Level: 111'/59974, l='ServerLevel[world]', x=384.44, y=64.19, z=3329.64] died, message: 'Yuriko - Level: 111 was killed by magic'
+[29Jan2025 21:45:42.075] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Brock - Level: 111'/59995, l='ServerLevel[world]', x=384.68, y=64.19, z=3329.06] died, message: 'Brock - Level: 111 was killed by magic'
+[29Jan2025 21:45:42.829] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [36,218]
+[29Jan2025 21:45:42.830] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [36,218]
+[29Jan2025 21:45:42.836] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [36,219]
+[29Jan2025 21:45:42.836] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [36,219]
+[29Jan2025 21:45:43.087] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Angelica - Level: 111'/59972, l='ServerLevel[world]', x=385.44, y=62.00, z=3327.70] died, message: 'Angelica - Level: 111 was killed by magic'
+[29Jan2025 21:45:43.089] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Ranae - Level: 111'/59971, l='ServerLevel[world]', x=385.91, y=62.00, z=3327.30] died, message: 'Ranae - Level: 111 was killed by magic'
+[29Jan2025 21:45:43.784] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [36,220]
+[29Jan2025 21:45:43.784] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [36,220]
+[29Jan2025 21:46:05.708] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [34,221]
+[29Jan2025 21:46:05.708] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [34,221]
+[29Jan2025 21:46:05.720] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [35,221]
+[29Jan2025 21:46:05.720] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_180 at (571 | 30 | 3546)
+[29Jan2025 21:46:05.721] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_180 at (571 | 30 | 3546)
+[29Jan2025 21:46:05.721] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [35,221]
+[29Jan2025 21:46:06.913] [Worker-Main-12/DEBUG] [betterdungeons/]: Small Dungeon at 535 46 3693
+[29Jan2025 21:46:07.624] [Worker-Main-12/DEBUG] [betterdungeons/]: Small Dungeon at 673 48 3703
+[29Jan2025 21:46:07.810] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [34,222]
+[29Jan2025 21:46:07.810] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [34,222]
+[29Jan2025 21:46:07.842] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [35,222]
+[29Jan2025 21:46:07.842] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_180 at (571 | 30 | 3546)
+[29Jan2025 21:46:07.843] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_180 at (571 | 30 | 3546)
+[29Jan2025 21:46:07.843] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [35,222]
+[29Jan2025 21:46:09.466] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[29Jan2025 21:46:12.364] [Worker-Main-106/DEBUG] [betterdungeons/]: Small Dungeon at 39 40 3719
+[29Jan2025 21:46:12.652] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [34,223]
+[29Jan2025 21:46:12.652] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation COUNTERCLOCKWISE_90 at (559 | 20 | 3579)
+[29Jan2025 21:46:12.652] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation COUNTERCLOCKWISE_90 at (559 | 20 | 3579)
+[29Jan2025 21:46:12.652] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation COUNTERCLOCKWISE_90 at (553 | 13 | 3573)
+[29Jan2025 21:46:12.653] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation COUNTERCLOCKWISE_90 at (553 | 13 | 3573)
+[29Jan2025 21:46:12.653] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [34,223]
+[29Jan2025 21:46:13.949] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [34,224]
+[29Jan2025 21:46:13.949] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (558 | 13 | 3590)
+[29Jan2025 21:46:13.949] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (558 | 13 | 3590)
+[29Jan2025 21:46:13.949] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation COUNTERCLOCKWISE_90 at (553 | 13 | 3573)
+[29Jan2025 21:46:13.949] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation COUNTERCLOCKWISE_90 at (553 | 13 | 3573)
+[29Jan2025 21:46:13.949] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_90 at (558 | 13 | 3595)
+[29Jan2025 21:46:13.950] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_90 at (558 | 13 | 3595)
+[29Jan2025 21:46:13.950] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [34,224]
+[29Jan2025 21:46:15.546] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [34,225]
+[29Jan2025 21:46:15.546] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_180 at (553 | 12 | 3600)
+[29Jan2025 21:46:15.547] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_180 at (553 | 12 | 3600)
+[29Jan2025 21:46:15.549] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [34,225]
+[29Jan2025 21:46:17.114] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [34,226]
+[29Jan2025 21:46:17.114] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_180 at (553 | 12 | 3600)
+[29Jan2025 21:46:17.114] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_180 at (553 | 12 | 3600)
+[29Jan2025 21:46:17.114] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [34,226]
+[29Jan2025 21:46:17.313] [Worker-Main-106/DEBUG] [betterdungeons/]: Spider Dungeon at 815 42 2811
+[29Jan2025 21:46:18.356] [Worker-Main-105/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Land Battle Tower at 624 3776 8 1 true
+[29Jan2025 21:46:18.356] [Worker-Main-105/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 184  Position = BlockPos{x=624, y=63, z=3776}
+[29Jan2025 21:46:18.357] [Worker-Main-105/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 184  Position = BlockPos{x=627, y=80, z=3779}
+[29Jan2025 21:46:18.357] [Worker-Main-105/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 63  Position = BlockPos{x=647, y=69, z=3789}
+[29Jan2025 21:46:18.357] [Worker-Main-105/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 63  Position = BlockPos{x=646, y=69, z=3798}
+[29Jan2025 21:46:18.358] [Worker-Main-105/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 184  Position = BlockPos{x=627, y=91, z=3779}
+[29Jan2025 21:46:18.358] [Worker-Main-105/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 80  Position = BlockPos{x=649, y=81, z=3803}
+[29Jan2025 21:46:18.358] [Worker-Main-105/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 80  Position = BlockPos{x=644, y=84, z=3786}
+[29Jan2025 21:46:18.358] [Worker-Main-105/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 91  Position = BlockPos{x=635, y=92, z=3797}
+[29Jan2025 21:46:18.358] [Worker-Main-105/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 91  Position = BlockPos{x=638, y=92, z=3790}
+[29Jan2025 21:46:18.375] [Worker-Main-105/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 184  Position = BlockPos{x=627, y=102, z=3779}
+[29Jan2025 21:46:18.375] [Worker-Main-105/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 102  Position = BlockPos{x=644, y=103, z=3796}
+[29Jan2025 21:46:18.375] [Worker-Main-105/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 102  Position = BlockPos{x=647, y=103, z=3789}
+[29Jan2025 21:46:18.376] [Worker-Main-105/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 184  Position = BlockPos{x=627, y=113, z=3779}
+[29Jan2025 21:46:18.376] [Worker-Main-105/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 113  Position = BlockPos{x=638, y=117, z=3800}
+[29Jan2025 21:46:18.376] [Worker-Main-105/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 113  Position = BlockPos{x=645, y=114, z=3800}
+[29Jan2025 21:46:18.376] [Worker-Main-105/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 184  Position = BlockPos{x=627, y=124, z=3779}
+[29Jan2025 21:46:18.376] [Worker-Main-105/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 113  Position = BlockPos{x=633, y=114, z=3783}
+[29Jan2025 21:46:18.376] [Worker-Main-105/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 184  Position = BlockPos{x=627, y=135, z=3779}
+[29Jan2025 21:46:18.377] [Worker-Main-105/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 124  Position = BlockPos{x=641, y=125, z=3786}
+[29Jan2025 21:46:18.377] [Worker-Main-105/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 124  Position = BlockPos{x=652, y=125, z=3791}
+[29Jan2025 21:46:18.377] [Worker-Main-105/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 124  Position = BlockPos{x=642, y=125, z=3803}
+[29Jan2025 21:46:18.377] [Worker-Main-105/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 184  Position = BlockPos{x=626, y=146, z=3778}
+[29Jan2025 21:46:18.377] [Worker-Main-105/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 135  Position = BlockPos{x=630, y=136, z=3795}
+[29Jan2025 21:46:18.378] [Worker-Main-105/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 135  Position = BlockPos{x=641, y=136, z=3800}
+[29Jan2025 21:46:18.378] [Worker-Main-105/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 135  Position = BlockPos{x=640, y=136, z=3783}
+[29Jan2025 21:46:18.378] [Worker-Main-105/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 146  Position = BlockPos{x=637, y=151, z=3787}
+[29Jan2025 21:46:18.378] [Worker-Main-105/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 146  Position = BlockPos{x=649, y=147, z=3803}
+[29Jan2025 21:46:18.378] [Worker-Main-105/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 146  Position = BlockPos{x=637, y=147, z=3786}
+[29Jan2025 21:46:18.378] [Worker-Main-105/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 146  Position = BlockPos{x=644, y=150, z=3786}
+[29Jan2025 21:46:18.379] [Worker-Main-105/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Land Battle Tower at 624 57 3776
+[29Jan2025 21:46:19.382] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=676, y=30, z=2821} but found not block entity block Block{minecraft:coal_ore} at location
+[29Jan2025 21:46:19.382] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:coal_ore} but failed at location BlockPos{x=676, y=30, z=2821}
+[29Jan2025 21:46:25.505] [Worker-Main-106/DEBUG] [betterdungeons/]: Small Dungeon at 365 14 3855
+[29Jan2025 21:46:25.512] [Worker-Main-105/DEBUG] [betterdungeons/]: Small Dungeon at 503 38 3863
+[29Jan2025 21:46:29.071] [Worker-Main-12/DEBUG] [betterdungeons/]: Small Dungeon at 639 21 3879
+[29Jan2025 21:46:30.902] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[29Jan2025 21:46:46.815] [Worker-Main-12/DEBUG] [betterdungeons/]: Small Dungeon at 513 17 4055
+[29Jan2025 21:46:48.077] [Worker-Main-12/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Land Battle Tower at 608 4064 4 5 true
+[29Jan2025 21:46:52.916] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (564 | 49 | 4052).
+[29Jan2025 21:46:52.916] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[29Jan2025 21:46:52.916] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 4(0) Nodes and 4(0) Rooms
+[29Jan2025 21:46:52.917] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[29Jan2025 21:46:52.917] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 6(0) Nodes and 5(0) Rooms
+[29Jan2025 21:46:52.917] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[29Jan2025 21:46:52.917] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 2(9) Nodes and 6(0) Rooms
+[29Jan2025 21:46:52.917] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[29Jan2025 21:46:52.918] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 5(4) Nodes and 5(0) Rooms
+[29Jan2025 21:46:52.918] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[29Jan2025 21:46:52.918] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 6(3) Nodes and 5(0) Rooms
+[29Jan2025 21:46:52.919] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Created the dungeon layout for [40, 258] with a total of 242 pieces.
+[29Jan2025 21:46:54.967] [Worker-Main-106/DEBUG] [betterdungeons/]: Small Dungeon at 641 32 4167
+[29Jan2025 21:46:56.366] [Worker-Main-12/DEBUG] [betterdungeons/]: Small Dungeon at 519 10 4191
+[29Jan2025 21:47:00.562] [Worker-Main-12/DEBUG] [betterdungeons/]: Small Dungeon at 685 48 3997
+[29Jan2025 21:47:07.082] [Worker-Main-106/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Land Battle Tower at 640 4336 2 7 true
+[29Jan2025 21:47:07.082] [Worker-Main-106/DEBUG] [betterdungeons/]: Small Dungeon at 641 10 4343
+[29Jan2025 21:47:14.558] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [36,253]
+[29Jan2025 21:47:14.558] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [36,253]
+[29Jan2025 21:47:14.607] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [36,254]
+[29Jan2025 21:47:14.607] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [36,254]
+[29Jan2025 21:47:14.623] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [36,255]
+[29Jan2025 21:47:14.623] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [36,255]
+[29Jan2025 21:47:14.640] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [36,256]
+[29Jan2025 21:47:14.640] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [36,256]
+[29Jan2025 21:47:14.659] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [36,257]
+[29Jan2025 21:47:14.659] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [36,257]
+[29Jan2025 21:47:14.670] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [36,258]
+[29Jan2025 21:47:14.670] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [36,258]
+[29Jan2025 21:47:14.688] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [36,259]
+[29Jan2025 21:47:14.688] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (582 | 49 | 4151)
+[29Jan2025 21:47:14.690] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (582 | 49 | 4151)
+[29Jan2025 21:47:14.690] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (591 | 49 | 4152)
+[29Jan2025 21:47:14.690] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (591 | 49 | 4152)
+[29Jan2025 21:47:14.690] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [36,259]
+[29Jan2025 21:47:14.738] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [36,260]
+[29Jan2025 21:47:14.738] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [36,260]
+[29Jan2025 21:47:14.903] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [36,261]
+[29Jan2025 21:47:14.903] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [36,261]
+[29Jan2025 21:47:14.952] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [36,262]
+[29Jan2025 21:47:14.952] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [36,262]
+[29Jan2025 21:47:15.051] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [36,263]
+[29Jan2025 21:47:15.051] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [36,263]
+[29Jan2025 21:47:16.440] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [37,263]
+[29Jan2025 21:47:16.440] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [37,263]
+[29Jan2025 21:47:16.478] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [37,262]
+[29Jan2025 21:47:16.478] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [37,262]
+[29Jan2025 21:47:16.488] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [37,259]
+[29Jan2025 21:47:16.488] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_180 at (594 | 49 | 4157)
+[29Jan2025 21:47:16.488] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_180 at (594 | 49 | 4157)
+[29Jan2025 21:47:16.488] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation NONE at (594 | 49 | 4152)
+[29Jan2025 21:47:16.488] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation NONE at (594 | 49 | 4152)
+[29Jan2025 21:47:16.488] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (591 | 49 | 4152)
+[29Jan2025 21:47:16.488] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (591 | 49 | 4152)
+[29Jan2025 21:47:16.488] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/secret_room_entrance_3 with rotation CLOCKWISE_180 at (603 | 49 | 4157)
+[29Jan2025 21:47:16.488] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/secret_room_entrance_3 with rotation CLOCKWISE_180 at (603 | 49 | 4157)
+[29Jan2025 21:47:16.488] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation NONE at (603 | 49 | 4152)
+[29Jan2025 21:47:16.488] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation NONE at (603 | 49 | 4152)
+[29Jan2025 21:47:16.488] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/secret_room_entrance with rotation CLOCKWISE_180 at (600 | 49 | 4152)
+[29Jan2025 21:47:16.489] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/secret_room_entrance with rotation CLOCKWISE_180 at (600 | 49 | 4152)
+[29Jan2025 21:47:16.489] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [37,259]
+[29Jan2025 21:47:16.503] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [37,260]
+[29Jan2025 21:47:16.503] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/secret_room with rotation CLOCKWISE_90 at (600 | 49 | 4160)
+[29Jan2025 21:47:16.504] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/secret_room with rotation CLOCKWISE_90 at (600 | 49 | 4160)
+[29Jan2025 21:47:16.504] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [37,260]
+[29Jan2025 21:47:16.512] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [37,261]
+[29Jan2025 21:47:16.512] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/secret_room with rotation CLOCKWISE_90 at (600 | 49 | 4160)
+[29Jan2025 21:47:16.512] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/secret_room with rotation CLOCKWISE_90 at (600 | 49 | 4160)
+[29Jan2025 21:47:16.512] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [37,261]
+[29Jan2025 21:47:16.520] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [37,258]
+[29Jan2025 21:47:16.520] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [37,258]
+[29Jan2025 21:47:16.546] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [37,257]
+[29Jan2025 21:47:16.547] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [37,257]
+[29Jan2025 21:47:16.881] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [37,253]
+[29Jan2025 21:47:16.881] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [37,253]
+[29Jan2025 21:47:16.895] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [37,254]
+[29Jan2025 21:47:16.895] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [37,254]
+[29Jan2025 21:47:16.909] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [37,255]
+[29Jan2025 21:47:16.909] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [37,255]
+[29Jan2025 21:47:16.926] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [37,256]
+[29Jan2025 21:47:16.927] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [37,256]
+[29Jan2025 21:47:22.758] [Worker-Main-106/DEBUG] [betterdungeons/]: Skeleton Dungeon at 759 17 3977
+[29Jan2025 21:47:24.985] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [38,253]
+[29Jan2025 21:47:24.985] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [38,253]
+[29Jan2025 21:47:24.996] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [38,254]
+[29Jan2025 21:47:24.996] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (618 | 49 | 4079)
+[29Jan2025 21:47:24.996] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (618 | 49 | 4079)
+[29Jan2025 21:47:24.996] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [38,254]
+[29Jan2025 21:47:25.011] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [38,255]
+[29Jan2025 21:47:25.011] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (618 | 49 | 4079)
+[29Jan2025 21:47:25.012] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (618 | 49 | 4079)
+[29Jan2025 21:47:25.012] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (620 | 49 | 4093)
+[29Jan2025 21:47:25.012] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (620 | 49 | 4093)
+[29Jan2025 21:47:25.012] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (620 | 49 | 4088)
+[29Jan2025 21:47:25.012] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (620 | 49 | 4088)
+[29Jan2025 21:47:25.012] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (616 | 49 | 4095)
+[29Jan2025 21:47:25.013] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (616 | 49 | 4095)
+[29Jan2025 21:47:25.013] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [38,255]
+[29Jan2025 21:47:25.057] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [38,256]
+[29Jan2025 21:47:25.057] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (620 | 49 | 4108)
+[29Jan2025 21:47:25.057] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (620 | 49 | 4108)
+[29Jan2025 21:47:25.057] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation COUNTERCLOCKWISE_90 at (620 | 49 | 4110)
+[29Jan2025 21:47:25.057] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation COUNTERCLOCKWISE_90 at (620 | 49 | 4110)
+[29Jan2025 21:47:25.057] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (616 | 49 | 4095)
+[29Jan2025 21:47:25.059] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (616 | 49 | 4095)
+[29Jan2025 21:47:25.059] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [38,256]
+[29Jan2025 21:47:25.071] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [38,257]
+[29Jan2025 21:47:25.071] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation COUNTERCLOCKWISE_90 at (620 | 49 | 4110)
+[29Jan2025 21:47:25.071] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation COUNTERCLOCKWISE_90 at (620 | 49 | 4110)
+[29Jan2025 21:47:25.071] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (620 | 49 | 4115)
+[29Jan2025 21:47:25.071] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (620 | 49 | 4115)
+[29Jan2025 21:47:25.071] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (614 | 49 | 4120)
+[29Jan2025 21:47:25.072] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (614 | 49 | 4120)
+[29Jan2025 21:47:25.072] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [38,257]
+[29Jan2025 21:47:25.484] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [38,263]
+[29Jan2025 21:47:25.484] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [38,263]
+[29Jan2025 21:47:25.502] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [38,262]
+[29Jan2025 21:47:25.502] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [38,262]
+[29Jan2025 21:47:25.518] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [38,261]
+[29Jan2025 21:47:25.518] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/secret_room with rotation CLOCKWISE_90 at (600 | 49 | 4160)
+[29Jan2025 21:47:25.518] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/secret_room with rotation CLOCKWISE_90 at (600 | 49 | 4160)
+[29Jan2025 21:47:25.518] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (623 | 40 | 4165)
+[29Jan2025 21:47:25.518] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (623 | 40 | 4165)
+[29Jan2025 21:47:25.518] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [38,261]
+[29Jan2025 21:47:25.538] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [38,260]
+[29Jan2025 21:47:25.538] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/secret_room with rotation CLOCKWISE_90 at (600 | 49 | 4160)
+[29Jan2025 21:47:25.539] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/secret_room with rotation CLOCKWISE_90 at (600 | 49 | 4160)
+[29Jan2025 21:47:25.539] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_90 at (616 | 49 | 4149)
+[29Jan2025 21:47:25.539] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_90 at (616 | 49 | 4149)
+[29Jan2025 21:47:25.539] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (623 | 40 | 4165)
+[29Jan2025 21:47:25.539] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (623 | 40 | 4165)
+[29Jan2025 21:47:25.539] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [38,260]
+[29Jan2025 21:47:25.558] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [38,259]
+[29Jan2025 21:47:25.558] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/secret_room_entrance with rotation CLOCKWISE_180 at (600 | 49 | 4152)
+[29Jan2025 21:47:25.558] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/secret_room_entrance with rotation CLOCKWISE_180 at (600 | 49 | 4152)
+[29Jan2025 21:47:25.558] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_180 at (614 | 49 | 4153)
+[29Jan2025 21:47:25.558] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_180 at (614 | 49 | 4153)
+[29Jan2025 21:47:25.558] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (620 | 49 | 4147)
+[29Jan2025 21:47:25.559] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (620 | 49 | 4147)
+[29Jan2025 21:47:25.559] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_90 at (620 | 49 | 4142)
+[29Jan2025 21:47:25.559] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_90 at (620 | 49 | 4142)
+[29Jan2025 21:47:25.559] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (609 | 49 | 4152)
+[29Jan2025 21:47:25.559] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (609 | 49 | 4152)
+[29Jan2025 21:47:25.559] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_90 at (616 | 49 | 4149)
+[29Jan2025 21:47:25.559] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_90 at (616 | 49 | 4149)
+[29Jan2025 21:47:25.559] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [38,259]
+[29Jan2025 21:47:25.586] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [38,258]
+[29Jan2025 21:47:25.586] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation COUNTERCLOCKWISE_90 at (620 | 49 | 4137)
+[29Jan2025 21:47:25.586] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation COUNTERCLOCKWISE_90 at (620 | 49 | 4137)
+[29Jan2025 21:47:25.586] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (614 | 49 | 4120)
+[29Jan2025 21:47:25.587] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (614 | 49 | 4120)
+[29Jan2025 21:47:25.587] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_90 at (620 | 49 | 4142)
+[29Jan2025 21:47:25.587] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_90 at (620 | 49 | 4142)
+[29Jan2025 21:47:25.587] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [38,258]
+[29Jan2025 21:47:35.294] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [39,258]
+[29Jan2025 21:47:35.294] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (638 | 58 | 4126)
+[29Jan2025 21:47:35.294] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (638 | 58 | 4126)
+[29Jan2025 21:47:35.294] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (638 | 59 | 4126)
+[29Jan2025 21:47:35.294] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (638 | 59 | 4126)
+[29Jan2025 21:47:35.294] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (638 | 60 | 4126)
+[29Jan2025 21:47:35.294] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (638 | 60 | 4126)
+[29Jan2025 21:47:35.294] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (638 | 61 | 4126)
+[29Jan2025 21:47:35.294] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (638 | 61 | 4126)
+[29Jan2025 21:47:35.294] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (638 | 62 | 4126)
+[29Jan2025 21:47:35.294] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (638 | 62 | 4126)
+[29Jan2025 21:47:35.294] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (638 | 63 | 4126)
+[29Jan2025 21:47:35.294] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (638 | 63 | 4126)
+[29Jan2025 21:47:35.294] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (638 | 64 | 4126)
+[29Jan2025 21:47:35.294] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (638 | 64 | 4126)
+[29Jan2025 21:47:35.294] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:entrance/roguelike/pyramid with rotation COUNTERCLOCKWISE_90 at (632 | 65 | 4120)
+[29Jan2025 21:47:35.295] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:entrance/roguelike/pyramid with rotation COUNTERCLOCKWISE_90 at (632 | 65 | 4120)
+[29Jan2025 21:47:35.295] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (631 | 49 | 4126)
+[29Jan2025 21:47:35.295] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (631 | 49 | 4126)
+[29Jan2025 21:47:35.295] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation COUNTERCLOCKWISE_90 at (620 | 49 | 4137)
+[29Jan2025 21:47:35.295] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation COUNTERCLOCKWISE_90 at (620 | 49 | 4137)
+[29Jan2025 21:47:35.295] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (614 | 49 | 4120)
+[29Jan2025 21:47:35.295] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (614 | 49 | 4120)
+[29Jan2025 21:47:35.295] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_90 at (620 | 49 | 4142)
+[29Jan2025 21:47:35.295] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_90 at (620 | 49 | 4142)
+[29Jan2025 21:47:35.295] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (636 | 49 | 4124)
+[29Jan2025 21:47:35.295] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (636 | 49 | 4124)
+[29Jan2025 21:47:35.296] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/corridor/ceiling with rotation COUNTERCLOCKWISE_90 at (639 | 54 | 4136)
+[29Jan2025 21:47:35.296] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/corridor/ceiling with rotation COUNTERCLOCKWISE_90 at (639 | 54 | 4136)
+[29Jan2025 21:47:35.296] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/wall with rotation CLOCKWISE_180 at (637 | 49 | 4136)
+[29Jan2025 21:47:35.296] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/wall with rotation CLOCKWISE_180 at (637 | 49 | 4136)
+[29Jan2025 21:47:35.296] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/connector with rotation COUNTERCLOCKWISE_90 at (638 | 49 | 4133)
+[29Jan2025 21:47:35.296] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/connector with rotation COUNTERCLOCKWISE_90 at (638 | 49 | 4133)
+[29Jan2025 21:47:35.296] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/connector with rotation CLOCKWISE_90 at (638 | 49 | 4140)
+[29Jan2025 21:47:35.296] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/connector with rotation CLOCKWISE_90 at (638 | 49 | 4140)
+[29Jan2025 21:47:35.296] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/corridor/linker/linker with rotation COUNTERCLOCKWISE_90 at (638 | 49 | 4135)
+[29Jan2025 21:47:35.296] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/corridor/linker/linker with rotation COUNTERCLOCKWISE_90 at (638 | 49 | 4135)
+[29Jan2025 21:47:35.297] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (637 | 49 | 4142)
+[29Jan2025 21:47:35.297] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (637 | 49 | 4142)
+[29Jan2025 21:47:35.297] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [39,258]
+[29Jan2025 21:47:35.321] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [39,259]
+[29Jan2025 21:47:35.321] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (620 | 49 | 4147)
+[29Jan2025 21:47:35.321] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (620 | 49 | 4147)
+[29Jan2025 21:47:35.321] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_90 at (620 | 49 | 4142)
+[29Jan2025 21:47:35.321] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_90 at (620 | 49 | 4142)
+[29Jan2025 21:47:35.321] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_90 at (616 | 49 | 4149)
+[29Jan2025 21:47:35.321] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_90 at (616 | 49 | 4149)
+[29Jan2025 21:47:35.321] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (637 | 49 | 4142)
+[29Jan2025 21:47:35.322] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (637 | 49 | 4142)
+[29Jan2025 21:47:35.322] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (636 | 49 | 4151)
+[29Jan2025 21:47:35.322] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (636 | 49 | 4151)
+[29Jan2025 21:47:35.322] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (627 | 40 | 4151)
+[29Jan2025 21:47:35.322] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (627 | 40 | 4151)
+[29Jan2025 21:47:35.322] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (636 | 40 | 4152)
+[29Jan2025 21:47:35.322] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (636 | 40 | 4152)
+[29Jan2025 21:47:35.322] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [39,259]
+[29Jan2025 21:47:35.339] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [39,260]
+[29Jan2025 21:47:35.339] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_90 at (616 | 49 | 4149)
+[29Jan2025 21:47:35.339] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_90 at (616 | 49 | 4149)
+[29Jan2025 21:47:35.339] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (623 | 40 | 4165)
+[29Jan2025 21:47:35.339] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (623 | 40 | 4165)
+[29Jan2025 21:47:35.340] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_180 at (632 | 12 | 4174)
+[29Jan2025 21:47:35.340] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_180 at (632 | 12 | 4174)
+[29Jan2025 21:47:35.340] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [39,260]
+[29Jan2025 21:47:35.348] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [39,261]
+[29Jan2025 21:47:35.348] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (623 | 40 | 4165)
+[29Jan2025 21:47:35.349] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (623 | 40 | 4165)
+[29Jan2025 21:47:35.349] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_180 at (632 | 12 | 4174)
+[29Jan2025 21:47:35.350] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_180 at (632 | 12 | 4174)
+[29Jan2025 21:47:35.352] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [39,261]
+[29Jan2025 21:47:35.372] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [39,262]
+[29Jan2025 21:47:35.373] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [39,262]
+[29Jan2025 21:47:35.390] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [39,257]
+[29Jan2025 21:47:35.390] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (638 | 58 | 4126)
+[29Jan2025 21:47:35.390] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (638 | 58 | 4126)
+[29Jan2025 21:47:35.390] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (638 | 59 | 4126)
+[29Jan2025 21:47:35.390] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (638 | 59 | 4126)
+[29Jan2025 21:47:35.390] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (638 | 60 | 4126)
+[29Jan2025 21:47:35.390] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (638 | 60 | 4126)
+[29Jan2025 21:47:35.390] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (638 | 61 | 4126)
+[29Jan2025 21:47:35.390] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (638 | 61 | 4126)
+[29Jan2025 21:47:35.390] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (638 | 62 | 4126)
+[29Jan2025 21:47:35.390] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (638 | 62 | 4126)
+[29Jan2025 21:47:35.390] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (638 | 63 | 4126)
+[29Jan2025 21:47:35.390] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (638 | 63 | 4126)
+[29Jan2025 21:47:35.390] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (638 | 64 | 4126)
+[29Jan2025 21:47:35.390] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (638 | 64 | 4126)
+[29Jan2025 21:47:35.390] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:entrance/roguelike/pyramid with rotation COUNTERCLOCKWISE_90 at (632 | 65 | 4120)
+[29Jan2025 21:47:35.391] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:entrance/roguelike/pyramid with rotation COUNTERCLOCKWISE_90 at (632 | 65 | 4120)
+[29Jan2025 21:47:35.391] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation COUNTERCLOCKWISE_90 at (620 | 49 | 4110)
+[29Jan2025 21:47:35.391] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation COUNTERCLOCKWISE_90 at (620 | 49 | 4110)
+[29Jan2025 21:47:35.391] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (620 | 49 | 4115)
+[29Jan2025 21:47:35.391] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (620 | 49 | 4115)
+[29Jan2025 21:47:35.391] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (631 | 49 | 4126)
+[29Jan2025 21:47:35.391] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (631 | 49 | 4126)
+[29Jan2025 21:47:35.391] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (614 | 49 | 4120)
+[29Jan2025 21:47:35.391] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (614 | 49 | 4120)
+[29Jan2025 21:47:35.391] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (636 | 49 | 4124)
+[29Jan2025 21:47:35.391] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (636 | 49 | 4124)
+[29Jan2025 21:47:35.391] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [39,257]
+[29Jan2025 21:47:35.403] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [39,256]
+[29Jan2025 21:47:35.403] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (620 | 49 | 4108)
+[29Jan2025 21:47:35.403] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (620 | 49 | 4108)
+[29Jan2025 21:47:35.404] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation COUNTERCLOCKWISE_90 at (620 | 49 | 4110)
+[29Jan2025 21:47:35.404] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation COUNTERCLOCKWISE_90 at (620 | 49 | 4110)
+[29Jan2025 21:47:35.404] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (616 | 49 | 4095)
+[29Jan2025 21:47:35.404] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (616 | 49 | 4095)
+[29Jan2025 21:47:35.404] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [39,256]
+[29Jan2025 21:47:35.452] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [39,255]
+[29Jan2025 21:47:35.452] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (618 | 49 | 4079)
+[29Jan2025 21:47:35.452] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (618 | 49 | 4079)
+[29Jan2025 21:47:35.452] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (620 | 49 | 4093)
+[29Jan2025 21:47:35.452] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (620 | 49 | 4093)
+[29Jan2025 21:47:35.452] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (620 | 49 | 4088)
+[29Jan2025 21:47:35.453] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (620 | 49 | 4088)
+[29Jan2025 21:47:35.453] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (616 | 49 | 4095)
+[29Jan2025 21:47:35.453] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (616 | 49 | 4095)
+[29Jan2025 21:47:35.453] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [39,255]
+[29Jan2025 21:47:35.553] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [39,254]
+[29Jan2025 21:47:35.554] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (618 | 49 | 4079)
+[29Jan2025 21:47:35.554] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (618 | 49 | 4079)
+[29Jan2025 21:47:35.554] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [39,254]
+[29Jan2025 21:47:35.642] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [39,263]
+[29Jan2025 21:47:35.642] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [39,263]
+[29Jan2025 21:47:35.731] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [39,253]
+[29Jan2025 21:47:35.731] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [39,253]
+[29Jan2025 21:47:36.222] [Worker-Main-12/DEBUG] [betterdungeons/]: Small Dungeon at 189 39 4695
+[29Jan2025 21:47:38.473] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [40,261]
+[29Jan2025 21:47:38.474] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_180 at (640 | 40 | 4170)
+[29Jan2025 21:47:38.474] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_180 at (640 | 40 | 4170)
+[29Jan2025 21:47:38.474] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/linker/linker_5 with rotation CLOCKWISE_180 at (645 | 40 | 4169)
+[29Jan2025 21:47:38.474] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/linker/linker_5 with rotation CLOCKWISE_180 at (645 | 40 | 4169)
+[29Jan2025 21:47:38.474] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (645 | 40 | 4178)
+[29Jan2025 21:47:38.475] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (645 | 40 | 4178)
+[29Jan2025 21:47:38.476] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (649 | 13 | 4179)
+[29Jan2025 21:47:38.476] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (649 | 13 | 4179)
+[29Jan2025 21:47:38.476] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_180 at (632 | 12 | 4174)
+[29Jan2025 21:47:38.479] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_180 at (632 | 12 | 4174)
+[29Jan2025 21:47:38.479] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (654 | 13 | 4179)
+[29Jan2025 21:47:38.479] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (654 | 13 | 4179)
+[29Jan2025 21:47:38.479] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [40,261]
+[29Jan2025 21:47:38.490] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [40,262]
+[29Jan2025 21:47:38.490] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [40,262]
+[29Jan2025 21:47:38.500] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [40,263]
+[29Jan2025 21:47:38.500] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [40,263]
+[29Jan2025 21:47:38.559] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [40,260]
+[29Jan2025 21:47:38.559] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_180 at (640 | 40 | 4170)
+[29Jan2025 21:47:38.559] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_180 at (640 | 40 | 4170)
+[29Jan2025 21:47:38.559] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/bookshelf with rotation CLOCKWISE_90 at (651 | 40 | 4163)
+[29Jan2025 21:47:38.559] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/bookshelf with rotation CLOCKWISE_90 at (651 | 40 | 4163)
+[29Jan2025 21:47:38.559] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner with rotation COUNTERCLOCKWISE_90 at (646 | 40 | 4163)
+[29Jan2025 21:47:38.561] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner with rotation COUNTERCLOCKWISE_90 at (646 | 40 | 4163)
+[29Jan2025 21:47:38.561] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (646 | 40 | 4160)
+[29Jan2025 21:47:38.561] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (646 | 40 | 4160)
+[29Jan2025 21:47:38.561] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/linker/linker_5 with rotation CLOCKWISE_180 at (645 | 40 | 4169)
+[29Jan2025 21:47:38.561] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/linker/linker_5 with rotation CLOCKWISE_180 at (645 | 40 | 4169)
+[29Jan2025 21:47:38.561] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation NONE at (654 | 40 | 4171)
+[29Jan2025 21:47:38.561] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation NONE at (654 | 40 | 4171)
+[29Jan2025 21:47:38.561] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_180 at (632 | 12 | 4174)
+[29Jan2025 21:47:38.561] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_180 at (632 | 12 | 4174)
+[29Jan2025 21:47:38.561] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_90 at (651 | 13 | 4148)
+[29Jan2025 21:47:38.562] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_90 at (651 | 13 | 4148)
+[29Jan2025 21:47:38.562] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [40,260]
+[29Jan2025 21:47:38.573] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [40,259]
+[29Jan2025 21:47:38.573] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (637 | 49 | 4142)
+[29Jan2025 21:47:38.573] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (637 | 49 | 4142)
+[29Jan2025 21:47:38.573] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (636 | 49 | 4151)
+[29Jan2025 21:47:38.575] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (636 | 49 | 4151)
+[29Jan2025 21:47:38.575] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation NONE at (646 | 49 | 4152)
+[29Jan2025 21:47:38.575] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation NONE at (646 | 49 | 4152)
+[29Jan2025 21:47:38.575] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation NONE at (650 | 49 | 4152)
+[29Jan2025 21:47:38.575] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation NONE at (650 | 49 | 4152)
+[29Jan2025 21:47:38.575] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_180 at (646 | 49 | 4157)
+[29Jan2025 21:47:38.575] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_180 at (646 | 49 | 4157)
+[29Jan2025 21:47:38.575] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_180 at (650 | 49 | 4157)
+[29Jan2025 21:47:38.575] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_180 at (650 | 49 | 4157)
+[29Jan2025 21:47:38.575] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation NONE at (645 | 49 | 4153)
+[29Jan2025 21:47:38.575] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation NONE at (645 | 49 | 4153)
+[29Jan2025 21:47:38.575] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation NONE at (655 | 49 | 4152)
+[29Jan2025 21:47:38.575] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation NONE at (655 | 49 | 4152)
+[29Jan2025 21:47:38.575] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation CLOCKWISE_180 at (655 | 49 | 4157)
+[29Jan2025 21:47:38.575] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation CLOCKWISE_180 at (655 | 49 | 4157)
+[29Jan2025 21:47:38.575] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation NONE at (654 | 49 | 4153)
+[29Jan2025 21:47:38.575] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation NONE at (654 | 49 | 4153)
+[29Jan2025 21:47:38.575] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (636 | 40 | 4152)
+[29Jan2025 21:47:38.575] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (636 | 40 | 4152)
+[29Jan2025 21:47:38.575] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (646 | 40 | 4142)
+[29Jan2025 21:47:38.576] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (646 | 40 | 4142)
+[29Jan2025 21:47:38.576] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (645 | 40 | 4151)
+[29Jan2025 21:47:38.576] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (645 | 40 | 4151)
+[29Jan2025 21:47:38.576] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (654 | 40 | 4152)
+[29Jan2025 21:47:38.576] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (654 | 40 | 4152)
+[29Jan2025 21:47:38.576] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (655 | 13 | 4142)
+[29Jan2025 21:47:38.576] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (655 | 13 | 4142)
+[29Jan2025 21:47:38.576] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_90 at (651 | 13 | 4148)
+[29Jan2025 21:47:38.577] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_90 at (651 | 13 | 4148)
+[29Jan2025 21:47:38.577] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [40,259]
+[29Jan2025 21:47:38.705] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [40,258]
+[29Jan2025 21:47:38.705] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (638 | 58 | 4126)
+[29Jan2025 21:47:38.705] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (638 | 58 | 4126)
+[29Jan2025 21:47:38.705] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (638 | 59 | 4126)
+[29Jan2025 21:47:38.706] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (638 | 59 | 4126)
+[29Jan2025 21:47:38.706] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (638 | 60 | 4126)
+[29Jan2025 21:47:38.706] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (638 | 60 | 4126)
+[29Jan2025 21:47:38.706] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (638 | 61 | 4126)
+[29Jan2025 21:47:38.706] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (638 | 61 | 4126)
+[29Jan2025 21:47:38.706] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (638 | 62 | 4126)
+[29Jan2025 21:47:38.706] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (638 | 62 | 4126)
+[29Jan2025 21:47:38.706] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (638 | 63 | 4126)
+[29Jan2025 21:47:38.706] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (638 | 63 | 4126)
+[29Jan2025 21:47:38.706] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (638 | 64 | 4126)
+[29Jan2025 21:47:38.706] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (638 | 64 | 4126)
+[29Jan2025 21:47:38.706] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:entrance/roguelike/pyramid with rotation COUNTERCLOCKWISE_90 at (632 | 65 | 4120)
+[29Jan2025 21:47:38.706] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:entrance/roguelike/pyramid with rotation COUNTERCLOCKWISE_90 at (632 | 65 | 4120)
+[29Jan2025 21:47:38.706] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (636 | 49 | 4124)
+[29Jan2025 21:47:38.707] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (636 | 49 | 4124)
+[29Jan2025 21:47:38.707] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/corridor/ceiling with rotation COUNTERCLOCKWISE_90 at (639 | 54 | 4136)
+[29Jan2025 21:47:38.707] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/corridor/ceiling with rotation COUNTERCLOCKWISE_90 at (639 | 54 | 4136)
+[29Jan2025 21:47:38.707] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/connector with rotation COUNTERCLOCKWISE_90 at (638 | 49 | 4133)
+[29Jan2025 21:47:38.707] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/connector with rotation COUNTERCLOCKWISE_90 at (638 | 49 | 4133)
+[29Jan2025 21:47:38.707] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/connector with rotation CLOCKWISE_90 at (638 | 49 | 4140)
+[29Jan2025 21:47:38.707] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/connector with rotation CLOCKWISE_90 at (638 | 49 | 4140)
+[29Jan2025 21:47:38.707] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/connector with rotation NONE at (643 | 49 | 4135)
+[29Jan2025 21:47:38.707] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/connector with rotation NONE at (643 | 49 | 4135)
+[29Jan2025 21:47:38.707] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/corridor/linker/linker with rotation COUNTERCLOCKWISE_90 at (638 | 49 | 4135)
+[29Jan2025 21:47:38.707] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/corridor/linker/linker with rotation COUNTERCLOCKWISE_90 at (638 | 49 | 4135)
+[29Jan2025 21:47:38.707] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (637 | 49 | 4142)
+[29Jan2025 21:47:38.707] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (637 | 49 | 4142)
+[29Jan2025 21:47:38.707] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/starter_room with rotation NONE at (645 | 49 | 4133)
+[29Jan2025 21:47:38.708] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/starter_room with rotation NONE at (645 | 49 | 4133)
+[29Jan2025 21:47:38.708] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (646 | 40 | 4128)
+[29Jan2025 21:47:38.708] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (646 | 40 | 4128)
+[29Jan2025 21:47:38.708] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (646 | 40 | 4133)
+[29Jan2025 21:47:38.708] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (646 | 40 | 4133)
+[29Jan2025 21:47:38.708] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (646 | 40 | 4142)
+[29Jan2025 21:47:38.708] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (646 | 40 | 4142)
+[29Jan2025 21:47:38.708] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/room/empty_room with rotation NONE at (654 | 13 | 4133)
+[29Jan2025 21:47:38.708] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/room/empty_room with rotation NONE at (654 | 13 | 4133)
+[29Jan2025 21:47:38.708] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (655 | 13 | 4142)
+[29Jan2025 21:47:38.708] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (655 | 13 | 4142)
+[29Jan2025 21:47:38.708] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [40,258]
+[29Jan2025 21:47:38.858] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [40,257]
+[29Jan2025 21:47:38.858] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (638 | 58 | 4126)
+[29Jan2025 21:47:38.858] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (638 | 58 | 4126)
+[29Jan2025 21:47:38.858] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (638 | 59 | 4126)
+[29Jan2025 21:47:38.858] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (638 | 59 | 4126)
+[29Jan2025 21:47:38.858] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (638 | 60 | 4126)
+[29Jan2025 21:47:38.858] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (638 | 60 | 4126)
+[29Jan2025 21:47:38.858] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (638 | 61 | 4126)
+[29Jan2025 21:47:38.858] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (638 | 61 | 4126)
+[29Jan2025 21:47:38.858] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (638 | 62 | 4126)
+[29Jan2025 21:47:38.858] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (638 | 62 | 4126)
+[29Jan2025 21:47:38.858] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (638 | 63 | 4126)
+[29Jan2025 21:47:38.858] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (638 | 63 | 4126)
+[29Jan2025 21:47:38.858] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (638 | 64 | 4126)
+[29Jan2025 21:47:38.858] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (638 | 64 | 4126)
+[29Jan2025 21:47:38.859] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:entrance/roguelike/pyramid with rotation COUNTERCLOCKWISE_90 at (632 | 65 | 4120)
+[29Jan2025 21:47:38.859] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:entrance/roguelike/pyramid with rotation COUNTERCLOCKWISE_90 at (632 | 65 | 4120)
+[29Jan2025 21:47:38.859] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (636 | 49 | 4124)
+[29Jan2025 21:47:38.859] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (636 | 49 | 4124)
+[29Jan2025 21:47:38.859] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (647 | 40 | 4126)
+[29Jan2025 21:47:38.860] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (647 | 40 | 4126)
+[29Jan2025 21:47:38.860] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation COUNTERCLOCKWISE_90 at (643 | 40 | 4113)
+[29Jan2025 21:47:38.871] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation COUNTERCLOCKWISE_90 at (643 | 40 | 4113)
+[29Jan2025 21:47:38.872] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [40,257]
+[29Jan2025 21:47:39.102] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [40,256]
+[29Jan2025 21:47:39.102] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [40,256]
+[29Jan2025 21:48:24.728] [Worker-Main-105/DEBUG] [betterdungeons/]: Small Dungeon at 207 22 4815
+[29Jan2025 21:48:25.881] [Worker-Main-106/DEBUG] [betterdungeons/]: Small Dungeon at 359 26 4839
+[29Jan2025 21:48:36.616] [Worker-Main-105/DEBUG] [betterdungeons/]: Spider Dungeon at 106 42 4970
+[29Jan2025 21:48:43.235] [Worker-Main-106/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_castle/castle_bl
+[29Jan2025 21:48:43.333] [Worker-Main-106/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_castle/castle_tl
+[29Jan2025 21:48:43.394] [Worker-Main-106/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_castle/castle_ml
+[29Jan2025 21:48:43.448] [Worker-Main-106/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_castle/castle_br
+[29Jan2025 21:48:43.485] [Worker-Main-106/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_castle/castle_tr
+[29Jan2025 21:48:43.556] [Worker-Main-106/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_castle/castle_mr
+[29Jan2025 21:48:43.580] [Worker-Main-106/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_castle/castle_bm
+[29Jan2025 21:48:43.681] [Worker-Main-106/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_castle/castle_tm
+[29Jan2025 21:48:43.732] [Worker-Main-106/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_castle/castle_mm
+[29Jan2025 21:48:52.726] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=427, y=63, z=4774} BlockPos{x=427, y=65, z=4774}
+[29Jan2025 21:48:52.753] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=427, y=63, z=4774} BlockPos{x=427, y=65, z=4774}
+[29Jan2025 21:48:52.822] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=427, y=63, z=4774} BlockPos{x=427, y=65, z=4774}
+[29Jan2025 21:49:25.763] [Worker-Main-105/DEBUG] [betterdungeons/]: Small Dungeon at 39 18 4993
+[29Jan2025 21:49:31.033] [Worker-Main-106/DEBUG] [betterdungeons/]: Small Dungeon at 7 22 5119
+[29Jan2025 21:49:46.454] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2496ms or 49 ticks behind
+[29Jan2025 21:50:10.082] [Worker-Main-105/DEBUG] [betterdungeons/]: Small Dungeon at -137 11 4957
+[29Jan2025 21:50:15.080] [Worker-Main-106/DEBUG] [betterdungeons/]: Small Dungeon at 189 30 5159
+[29Jan2025 21:50:18.179] [Worker-Main-105/DEBUG] [betterdungeons/]: Small Dungeon at -105 34 5149
+[29Jan2025 21:50:26.545] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[29Jan2025 21:50:26.558] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[29Jan2025 21:50:26.999] [Worker-Main-12/DEBUG] [betterdungeons/]: Small Dungeon at -297 32 5015
+[29Jan2025 21:50:28.913] [Worker-Main-106/DEBUG] [betterdungeons/]: Small Dungeon at -265 22 5143
+[29Jan2025 21:50:36.053] [Worker-Main-105/DEBUG] [betterdungeons/]: Small Dungeon at -433 10 5159
+[29Jan2025 21:50:36.325] [Worker-Main-12/DEBUG] [betterdungeons/]: Small Dungeon at -449 19 4967
+[29Jan2025 21:50:37.214] [Worker-Main-106/DEBUG] [betterdungeons/]: Small Dungeon at -457 48 4823
+[29Jan2025 21:50:53.219] [Worker-Main-106/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Land Battle Tower at 32 5232 9 0 false
+[29Jan2025 21:50:53.220] [Worker-Main-105/DEBUG] [betterdungeons/]: Spider Dungeon at -421 49 5226
+[29Jan2025 21:50:54.212] [Worker-Main-12/DEBUG] [betterdungeons/]: Small Dungeon at -611 18 4993
+[29Jan2025 21:51:00.829] [Worker-Main-12/DEBUG] [betterdungeons/]: Skeleton Dungeon at -439 26 5241
+[29Jan2025 21:51:03.469] [Worker-Main-106/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/oak/watchtower
+[29Jan2025 21:51:03.473] [Worker-Main-106/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/oak/watchtower_aged
+[29Jan2025 21:51:03.475] [Worker-Main-106/WARN] [ModernFix/]: Structure repurposed_structures:outposts/oak/tent1 is being run through DFU (hash 52134dddc47090876ee1743de9d64cffbb35f2da16c44738aee6ca3bce84f625), this will cause launch time delays
+[29Jan2025 21:51:03.497] [Worker-Main-106/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/oak/cage2
+[29Jan2025 21:51:03.498] [Worker-Main-106/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/oak/cage1
+[29Jan2025 21:51:03.499] [Worker-Main-106/WARN] [ModernFix/]: Structure repurposed_structures:outposts/oak/targets is being run through DFU (hash d515b0e5aa8784c7e68fab83103c654be70170e6893bdee130b33e7d50c3d22f), this will cause launch time delays
+[29Jan2025 21:51:03.501] [Worker-Main-106/WARN] [ModernFix/]: Structure repurposed_structures:outposts/oak/logs is being run through DFU (hash 7b7e089881af6ebfce05402118524fdb0aff640e7cf9c7fa902d82d55a84ecaf), this will cause launch time delays
+[29Jan2025 21:51:03.502] [Worker-Main-106/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/oak/tent2
+[29Jan2025 21:51:09.312] [Worker-Main-106/DEBUG] [betterdungeons/]: Small Dungeon at -105 23 5303
+[29Jan2025 21:51:09.314] [Worker-Main-12/DEBUG] [betterdungeons/]: Small Dungeon at -297 24 5303
+[29Jan2025 21:51:12.931] [Worker-Main-106/DEBUG] [betterdungeons/]: Small Dungeon at 33 34 5335
+[29Jan2025 21:51:23.519] [Worker-Main-12/DEBUG] [betterdungeons/]: Small Dungeon at -291 26 5439
+[29Jan2025 21:51:23.531] [Worker-Main-106/DEBUG] [betterdungeons/]: Small Dungeon at -129 12 5439
+[29Jan2025 21:51:27.288] [Worker-Main-12/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Land Battle Tower at -240 5488 5 4 true
+[29Jan2025 21:51:27.289] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 197  Position = BlockPos{x=-240, y=76, z=5488}
+[29Jan2025 21:51:27.289] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 76  Position = BlockPos{x=-217, y=82, z=5501}
+[29Jan2025 21:51:27.290] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 197  Position = BlockPos{x=-237, y=93, z=5491}
+[29Jan2025 21:51:27.290] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 76  Position = BlockPos{x=-218, y=82, z=5510}
+[29Jan2025 21:51:27.290] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 93  Position = BlockPos{x=-220, y=97, z=5498}
+[29Jan2025 21:51:27.290] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 93  Position = BlockPos{x=-215, y=94, z=5515}
+[29Jan2025 21:51:27.290] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 197  Position = BlockPos{x=-237, y=104, z=5491}
+[29Jan2025 21:51:27.291] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 197  Position = BlockPos{x=-237, y=115, z=5491}
+[29Jan2025 21:51:27.291] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 104  Position = BlockPos{x=-229, y=105, z=5509}
+[29Jan2025 21:51:27.291] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 104  Position = BlockPos{x=-226, y=105, z=5502}
+[29Jan2025 21:51:27.291] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 115  Position = BlockPos{x=-220, y=116, z=5508}
+[29Jan2025 21:51:27.291] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 115  Position = BlockPos{x=-217, y=116, z=5501}
+[29Jan2025 21:51:27.292] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 197  Position = BlockPos{x=-237, y=126, z=5491}
+[29Jan2025 21:51:27.292] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 126  Position = BlockPos{x=-231, y=127, z=5495}
+[29Jan2025 21:51:27.292] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 126  Position = BlockPos{x=-219, y=127, z=5512}
+[29Jan2025 21:51:27.292] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 197  Position = BlockPos{x=-237, y=137, z=5491}
+[29Jan2025 21:51:27.292] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 126  Position = BlockPos{x=-226, y=130, z=5512}
+[29Jan2025 21:51:27.292] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 137  Position = BlockPos{x=-223, y=138, z=5498}
+[29Jan2025 21:51:27.292] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 137  Position = BlockPos{x=-212, y=138, z=5503}
+[29Jan2025 21:51:27.293] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 137  Position = BlockPos{x=-222, y=138, z=5515}
+[29Jan2025 21:51:27.293] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 197  Position = BlockPos{x=-237, y=148, z=5491}
+[29Jan2025 21:51:27.293] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 148  Position = BlockPos{x=-222, y=152, z=5514}
+[29Jan2025 21:51:27.293] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 148  Position = BlockPos{x=-229, y=149, z=5509}
+[29Jan2025 21:51:27.293] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 148  Position = BlockPos{x=-226, y=149, z=5502}
+[29Jan2025 21:51:27.294] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 197  Position = BlockPos{x=-238, y=159, z=5490}
+[29Jan2025 21:51:27.294] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 159  Position = BlockPos{x=-220, y=163, z=5498}
+[29Jan2025 21:51:27.294] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 159  Position = BlockPos{x=-227, y=160, z=5498}
+[29Jan2025 21:51:27.294] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 159  Position = BlockPos{x=-215, y=160, z=5515}
+[29Jan2025 21:51:27.295] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 159  Position = BlockPos{x=-227, y=164, z=5499}
+[29Jan2025 21:51:27.295] [Worker-Main-12/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Land Battle Tower at -240 70 5488
+[29Jan2025 21:51:27.506] [Worker-Main-12/DEBUG] [betterdungeons/]: Small Dungeon at 23 32 5485
+[29Jan2025 21:51:28.872] [Worker-Main-106/DEBUG] [betterdungeons/]: Small Dungeon at -435 38 5489
+[29Jan2025 21:51:44.668] [Worker-Main-12/DEBUG] [betterdungeons/]: Small Dungeon at -145 18 5607
+[29Jan2025 21:51:50.306] [Worker-Main-105/DEBUG] [betterdungeons/]: Small Dungeon at -313 40 5617
+[29Jan2025 21:51:51.717] [Worker-Main-105/DEBUG] [betterdungeons/]: Small Dungeon at 1 23 5655
+[29Jan2025 21:51:52.747] [Worker-Main-106/DEBUG] [betterdungeons/]: Small Dungeon at -457 36 5629
+[29Jan2025 21:51:57.760] [Worker-Main-105/DEBUG] [betterdungeons/]: Small Dungeon at -643 24 5279
+[29Jan2025 21:51:57.764] [Worker-Main-105/DEBUG] [betterdungeons/]: Small Dungeon at -639 23 5495
+[29Jan2025 21:52:01.086] [Worker-Main-106/DEBUG] [betterdungeons/]: Small Dungeon at -617 10 5607
+[29Jan2025 21:52:05.799] [Worker-Main-106/DEBUG] [betterdungeons/]: Zombie Dungeon at -521 49 5687
+[29Jan2025 21:52:08.882] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (36 | 49 | 5252).
+[29Jan2025 21:52:08.882] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[29Jan2025 21:52:08.882] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 6(0) Nodes and 3(0) Rooms
+[29Jan2025 21:52:08.883] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[29Jan2025 21:52:08.883] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 6(0) Nodes and 6(0) Rooms
+[29Jan2025 21:52:08.883] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[29Jan2025 21:52:08.883] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 10(1) Nodes and 5(0) Rooms
+[29Jan2025 21:52:08.883] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[29Jan2025 21:52:08.883] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 8(2) Nodes and 5(0) Rooms
+[29Jan2025 21:52:08.883] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[29Jan2025 21:52:08.883] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 12(0) Nodes and 6(0) Rooms
+[29Jan2025 21:52:08.885] [Worker-Main-105/DEBUG] [Dungeon Crawl/]: Created the dungeon layout for [7, 333] with a total of 370 pieces.
+[29Jan2025 21:52:15.172] [Worker-Main-12/DEBUG] [betterdungeons/]: Small Dungeon at 39 47 5767
+[29Jan2025 21:52:16.928] [Worker-Main-12/DEBUG] [betterdungeons/]: Small Dungeon at -281 40 5783
+[29Jan2025 21:52:16.928] [Worker-Main-12/DEBUG] [betterdungeons/]: Small Dungeon at -159 30 5783
+[29Jan2025 21:52:16.976] [Worker-Main-12/DEBUG] [betterdungeons/]: Small Dungeon at -441 23 5783
+[29Jan2025 21:52:39.838] [Worker-Main-12/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Land Battle Tower at -272 5808 6 3 true
+[29Jan2025 21:52:39.838] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 191  Position = BlockPos{x=-272, y=70, z=5808}
+[29Jan2025 21:52:39.839] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 191  Position = BlockPos{x=-269, y=87, z=5805}
+[29Jan2025 21:52:39.839] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 70  Position = BlockPos{x=-250, y=76, z=5786}
+[29Jan2025 21:52:39.839] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 70  Position = BlockPos{x=-259, y=76, z=5785}
+[29Jan2025 21:52:39.839] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 87  Position = BlockPos{x=-262, y=91, z=5788}
+[29Jan2025 21:52:39.840] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 87  Position = BlockPos{x=-245, y=88, z=5783}
+[29Jan2025 21:52:39.840] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 191  Position = BlockPos{x=-269, y=98, z=5805}
+[29Jan2025 21:52:39.840] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 191  Position = BlockPos{x=-269, y=109, z=5805}
+[29Jan2025 21:52:39.840] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 98  Position = BlockPos{x=-258, y=99, z=5794}
+[29Jan2025 21:52:39.840] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 98  Position = BlockPos{x=-251, y=99, z=5797}
+[29Jan2025 21:52:39.840] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 109  Position = BlockPos{x=-252, y=110, z=5788}
+[29Jan2025 21:52:39.850] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 191  Position = BlockPos{x=-269, y=120, z=5805}
+[29Jan2025 21:52:39.850] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 109  Position = BlockPos{x=-259, y=110, z=5785}
+[29Jan2025 21:52:39.850] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 120  Position = BlockPos{x=-265, y=121, z=5799}
+[29Jan2025 21:52:39.851] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 191  Position = BlockPos{x=-269, y=131, z=5805}
+[29Jan2025 21:52:39.851] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 120  Position = BlockPos{x=-248, y=124, z=5794}
+[29Jan2025 21:52:39.851] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 120  Position = BlockPos{x=-248, y=121, z=5787}
+[29Jan2025 21:52:39.851] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 131  Position = BlockPos{x=-264, y=135, z=5792}
+[29Jan2025 21:52:39.851] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 131  Position = BlockPos{x=-252, y=132, z=5788}
+[29Jan2025 21:52:39.852] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 131  Position = BlockPos{x=-259, y=132, z=5785}
+[29Jan2025 21:52:39.852] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 191  Position = BlockPos{x=-269, y=142, z=5805}
+[29Jan2025 21:52:39.852] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 142  Position = BlockPos{x=-258, y=143, z=5794}
+[29Jan2025 21:52:39.852] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 191  Position = BlockPos{x=-270, y=153, z=5806}
+[29Jan2025 21:52:39.852] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 142  Position = BlockPos{x=-246, y=146, z=5790}
+[29Jan2025 21:52:39.853] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 142  Position = BlockPos{x=-251, y=143, z=5797}
+[29Jan2025 21:52:39.853] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 153  Position = BlockPos{x=-261, y=158, z=5795}
+[29Jan2025 21:52:39.853] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 153  Position = BlockPos{x=-262, y=154, z=5795}
+[29Jan2025 21:52:39.853] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 153  Position = BlockPos{x=-245, y=154, z=5783}
+[29Jan2025 21:52:39.853] [Worker-Main-12/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 153  Position = BlockPos{x=-262, y=157, z=5788}
+[29Jan2025 21:52:39.854] [Worker-Main-12/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Land Battle Tower at -272 64 5774
+[29Jan2025 21:52:44.963] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-508 | 49 | 5764).
+[29Jan2025 21:52:44.963] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[29Jan2025 21:52:44.963] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 5(0) Nodes and 3(0) Rooms
+[29Jan2025 21:52:44.964] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[29Jan2025 21:52:44.964] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 7(0) Nodes and 5(0) Rooms
+[29Jan2025 21:52:44.964] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[29Jan2025 21:52:44.964] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 4(4) Nodes and 4(0) Rooms
+[29Jan2025 21:52:44.964] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[29Jan2025 21:52:44.964] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 3(8) Nodes and 6(0) Rooms
+[29Jan2025 21:52:44.964] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[29Jan2025 21:52:44.964] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 9(0) Nodes and 4(0) Rooms
+[29Jan2025 21:52:44.965] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Created the dungeon layout for [-27, 365] with a total of 257 pieces.
+[29Jan2025 21:52:46.018] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (20 | 49 | 5748).
+[29Jan2025 21:52:46.018] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[29Jan2025 21:52:46.018] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 5(0) Nodes and 5(0) Rooms
+[29Jan2025 21:52:46.018] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[29Jan2025 21:52:46.019] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 7(0) Nodes and 6(0) Rooms
+[29Jan2025 21:52:46.019] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[29Jan2025 21:52:46.019] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 8(3) Nodes and 6(0) Rooms
+[29Jan2025 21:52:46.019] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[29Jan2025 21:52:46.019] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 8(0) Nodes and 5(0) Rooms
+[29Jan2025 21:52:46.020] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[29Jan2025 21:52:46.020] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 12(0) Nodes and 6(0) Rooms
+[29Jan2025 21:52:46.022] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Created the dungeon layout for [6, 364] with a total of 336 pieces.
+[29Jan2025 21:52:53.128] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@bb32726
+[29Jan2025 21:52:53.128] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 1.0
+[29Jan2025 21:52:55.251] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@bb32726
+[29Jan2025 21:52:55.251] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 2.0
+[29Jan2025 21:53:07.676] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@27a728a8
+[29Jan2025 21:53:07.676] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 1.0
+[29Jan2025 21:53:13.979] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@27a728a8
+[29Jan2025 21:53:13.979] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 2.0
