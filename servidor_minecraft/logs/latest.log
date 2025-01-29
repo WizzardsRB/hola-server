@@ -1973,3 +1973,21 @@ java.lang.NullPointerException: null
 [29Jan2025 17:53:02.671] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Magician +8
 [29Jan2025 17:54:02.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Guardian +2
 [29Jan2025 17:54:03.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Guardian +3
+[29Jan2025 18:03:12.689] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:temples/temple_nether_crimson
+[29Jan2025 18:03:12.719] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/crimson/base_plate
+[29Jan2025 18:03:12.723] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/crimson/targets_1
+[29Jan2025 18:03:12.724] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/crimson/logs
+[29Jan2025 18:03:12.725] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/crimson/tent2
+[29Jan2025 18:03:12.726] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/crimson/cage1
+[29Jan2025 18:03:12.726] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/crimson/tent1
+[29Jan2025 18:03:36.981] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki lost connection: Disconnected
+[29Jan2025 18:03:36.982] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki left the game
+[29Jan2025 18:04:26.196] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@50f70b28
+[29Jan2025 18:04:26.207] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: fr4nnki[/127.209.87.79:59861] logged in with entity id 15658 at (-1701.092792350947, 72.49520087700593, -3201.3525942689666)
+[29Jan2025 18:04:26.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki joined the game
+[29Jan2025 18:04:26.310] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@3e3d3dfe (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[29Jan2025 18:04:26.312] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@42373e03 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[29Jan2025 18:04:26.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported fr4nnki to zZzK1TTY]
+[29Jan2025 18:05:14.538] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki moved wrongly!
+[29Jan2025 18:06:11.126] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.FurnaceRecipe@48fd34f8
+[29Jan2025 18:06:13.424] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.FurnaceRecipe@48fd34f8
