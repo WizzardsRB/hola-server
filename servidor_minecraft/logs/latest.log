@@ -2131,3 +2131,50 @@ java.lang.NullPointerException: null
 [29Jan2025 20:50:55.277] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of zZzK1TTY) moved wrongly! 0.2634825518712205
 [29Jan2025 20:50:55.324] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of zZzK1TTY) moved wrongly! 0.2947208684911402
 [29Jan2025 20:50:55.375] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of zZzK1TTY) moved wrongly! 0.2947208684911402
+[29Jan2025 20:51:54.826] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki lost connection: Disconnected
+[29Jan2025 20:51:54.826] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki left the game
+[29Jan2025 20:52:04.744] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@550291e9
+[29Jan2025 20:52:04.752] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: fr4nnki[/127.209.87.79:47577] logged in with entity id 33064 at (699.8210378536672, 63.280145305695726, -716.4823884876938)
+[29Jan2025 20:52:04.764] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki joined the game
+[29Jan2025 20:52:04.839] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5324b7f5 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[29Jan2025 20:52:04.839] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@265cdd71 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[29Jan2025 20:54:08.147] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to -2931.5, 67.5, -2281.5]
+[29Jan2025 20:55:04.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[29Jan2025 20:57:04.023] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 208  Position = BlockPos{x=1168, y=87, z=80}
+[29Jan2025 20:57:04.023] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 208  Position = BlockPos{x=1165, y=104, z=77}
+[29Jan2025 20:57:04.023] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 87  Position = BlockPos{x=1146, y=93, z=58}
+[29Jan2025 20:57:04.024] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 87  Position = BlockPos{x=1145, y=93, z=67}
+[29Jan2025 20:57:04.024] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 104  Position = BlockPos{x=1143, y=105, z=53}
+[29Jan2025 20:57:04.024] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 208  Position = BlockPos{x=1165, y=115, z=77}
+[29Jan2025 20:57:04.024] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 104  Position = BlockPos{x=1148, y=108, z=70}
+[29Jan2025 20:57:04.025] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 115  Position = BlockPos{x=1157, y=116, z=59}
+[29Jan2025 20:57:04.025] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 208  Position = BlockPos{x=1165, y=126, z=77}
+[29Jan2025 20:57:04.025] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 115  Position = BlockPos{x=1154, y=116, z=66}
+[29Jan2025 20:57:04.025] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 126  Position = BlockPos{x=1150, y=127, z=53}
+[29Jan2025 20:57:04.025] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 208  Position = BlockPos{x=1165, y=137, z=77}
+[29Jan2025 20:57:04.025] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 126  Position = BlockPos{x=1151, y=127, z=70}
+[29Jan2025 20:57:04.025] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 137  Position = BlockPos{x=1159, y=138, z=73}
+[29Jan2025 20:57:04.026] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 208  Position = BlockPos{x=1165, y=148, z=77}
+[29Jan2025 20:57:04.026] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 137  Position = BlockPos{x=1154, y=141, z=56}
+[29Jan2025 20:57:04.026] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 137  Position = BlockPos{x=1147, y=138, z=56}
+[29Jan2025 20:57:04.026] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 148  Position = BlockPos{x=1145, y=149, z=67}
+[29Jan2025 20:57:04.027] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 208  Position = BlockPos{x=1165, y=159, z=77}
+[29Jan2025 20:57:04.027] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 148  Position = BlockPos{x=1152, y=152, z=72}
+[29Jan2025 20:57:04.027] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 148  Position = BlockPos{x=1148, y=149, z=60}
+[29Jan2025 20:57:04.027] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 159  Position = BlockPos{x=1152, y=160, z=73}
+[29Jan2025 20:57:04.027] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 159  Position = BlockPos{x=1151, y=160, z=56}
+[29Jan2025 20:57:04.028] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 159  Position = BlockPos{x=1162, y=160, z=61}
+[29Jan2025 20:57:04.028] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 208  Position = BlockPos{x=1166, y=170, z=78}
+[29Jan2025 20:57:04.028] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 170  Position = BlockPos{x=1148, y=174, z=70}
+[29Jan2025 20:57:04.028] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 170  Position = BlockPos{x=1155, y=175, z=69}
+[29Jan2025 20:57:04.028] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 170  Position = BlockPos{x=1143, y=171, z=53}
+[29Jan2025 20:57:04.029] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 170  Position = BlockPos{x=1155, y=171, z=70}
+[29Jan2025 20:57:12.479] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ShulkerBulletEntity['Shulker Bullet'/36805, l='ServerLevel[world]', x=842.50, y=68.50, z=-121.50]
+[29Jan2025 20:57:12.479] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ShulkerBulletEntity['Shulker Bullet'/36805, l='ServerLevel[world]', x=842.50, y=68.50, z=-121.50]
+[29Jan2025 20:58:07.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Kicked fr4nnki: Kicked by an operator]
+[29Jan2025 20:58:07.185] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki lost connection: Kicked by an operator
+[29Jan2025 20:58:07.185] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki left the game
+[29Jan2025 20:58:25.504] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to -2931.5, 67.5, -2281.5]
+[29Jan2025 20:58:31.318] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zZzK1TTY lost connection: Disconnected
+[29Jan2025 20:58:31.319] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY left the game
+[29Jan2025 20:58:31.319] [Server thread/INFO] [com.Gr3atsaga.TimeShallNotPass.Config.Managers.TimeShallNotPassModuleManager/]: All non-excluded players have gone offline. No Time Shall Not Pass modules have been toggled on
