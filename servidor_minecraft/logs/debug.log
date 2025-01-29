@@ -20732,3 +20732,63 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [29Jan2025 21:53:07.676] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 1.0
 [29Jan2025 21:53:13.979] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@27a728a8
 [29Jan2025 21:53:13.979] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 2.0
+[29Jan2025 21:53:30.430] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@4bdbce87
+[29Jan2025 21:53:30.430] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 1.0
+[29Jan2025 21:53:43.385] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@4bdbce87
+[29Jan2025 21:53:43.385] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 2.0
+[29Jan2025 21:53:56.875] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@145ffbd
+[29Jan2025 21:53:56.875] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 1.0
+[29Jan2025 21:55:07.926] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@78453759
+[29Jan2025 21:55:07.926] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 1.0
+[29Jan2025 21:55:14.386] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@78453759
+[29Jan2025 21:55:14.386] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 2.0
+[29Jan2025 21:55:14.428] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@78453759
+[29Jan2025 21:55:14.428] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 3.0
+[29Jan2025 21:55:26.798] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[29Jan2025 21:55:26.813] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[29Jan2025 21:55:30.632] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@3c340ef2
+[29Jan2025 21:55:30.632] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 1.0
+[29Jan2025 21:55:36.580] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@3c340ef2
+[29Jan2025 21:55:36.580] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 2.0
+[29Jan2025 21:56:02.781] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@2903922
+[29Jan2025 21:56:02.781] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 1.0
+[29Jan2025 21:56:07.481] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@2903922
+[29Jan2025 21:56:07.481] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 2.0
+[29Jan2025 21:56:09.324] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@5b1eb57a
+[29Jan2025 21:56:09.325] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 1.0
+[29Jan2025 21:56:10.980] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@2903922
+[29Jan2025 21:56:10.980] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 3.0
+[29Jan2025 21:56:12.725] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@5b1eb57a
+[29Jan2025 21:56:12.725] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 2.0
+[29Jan2025 21:57:14.845] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> Finally, a challenge!
+[29Jan2025 21:57:16.138] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> I will not be killed so easily!
+[29Jan2025 21:57:25.594] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> Quit messing around, get them!
+[29Jan2025 21:57:25.594] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The Land Golem has become enraged!
+[29Jan2025 21:57:35.188] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> This tower will not fall!
+[29Jan2025 21:57:43.383] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: BlockPos{x=-223, y=170, z=5505}
+[29Jan2025 21:57:43.383] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: BlockPos{x=-223, y=169, z=5493} - null
+[29Jan2025 21:57:43.383] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: BlockPos{x=-211, y=169, z=5505} - null
+[29Jan2025 21:57:43.383] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: BlockPos{x=-223, y=169, z=5517} - null
+[29Jan2025 21:57:43.383] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.GolemChestTileEntity@262db034
+[29Jan2025 21:57:43.385] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tier 1 Boss: ☠ Land Golem - Level: 5025 has been slain!
+[29Jan2025 21:57:43.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> Crumble... as I do...
+[29Jan2025 21:59:30.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to -2922.5, 64.5, -2294.5]
+[29Jan2025 22:00:26.179] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[29Jan2025 22:00:26.191] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[29Jan2025 22:00:55.884] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Refined affix on their Blood Diamond Boots!
+[29Jan2025 22:01:28.405] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/76203, l='ServerLevel[world]', x=-2910.86, y=66.00, z=-2321.51]
+[29Jan2025 22:01:28.406] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/76203, l='ServerLevel[world]', x=-2910.86, y=66.00, z=-2321.51]
+[29Jan2025 22:01:42.230] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/76276, l='ServerLevel[world]', x=-2907.18, y=65.00, z=-2288.20]
+[29Jan2025 22:01:42.231] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/76276, l='ServerLevel[world]', x=-2907.18, y=65.00, z=-2288.20]
+[29Jan2025 22:02:06.723] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Refined affix on their Blood Diamond Boots!
+[29Jan2025 22:02:08.285] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Refined affix on their Blood Diamond Boots!
+[29Jan2025 22:02:09.685] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Junk affix on their Blood Diamond Boots...
+[29Jan2025 22:02:36.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Guardian +1
+[29Jan2025 22:02:37.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Guardian +2
+[29Jan2025 22:02:39.124] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Guardian +3
+[29Jan2025 22:02:40.237] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Guardian +4
+[29Jan2025 22:02:41.285] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Guardian +5
+[29Jan2025 22:02:56.837] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled the Refined affix on their Adamant Boots!
+[29Jan2025 22:02:57.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled the Ordinary affix on their Adamant Boots.
+[29Jan2025 22:02:58.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled the Junk affix on their Adamant Boots...
+[29Jan2025 22:02:59.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled the Fabled affix on their Adamant Boots!

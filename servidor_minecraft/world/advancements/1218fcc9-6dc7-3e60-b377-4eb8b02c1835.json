@@ -4165,6 +4165,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-01-29 21:52:42 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_fir_war_galley": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
