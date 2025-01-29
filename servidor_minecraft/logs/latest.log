@@ -2601,3 +2601,4 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [29Jan2025 22:09:20.087] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Mythical affix on their Blood Diamond Boots!
 [29Jan2025 22:10:02.075] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki lost connection: Disconnected
 [29Jan2025 22:10:02.075] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki left the game
+[29Jan2025 22:28:23.267] [Server thread/INFO] [com.infamous.dungeons_mobs.DungeonsMobs/]: Converted SkeletonEntity['Skeleton - Level: 247'/74803, l='ServerLevel[world]', x=-2948.94, y=71.00, z=-2358.87] to SunkenSkeletonEntity['Skeleton - Level: 247'/82074, l='ServerLevel[world]', x=-2948.94, y=71.00, z=-2358.87]

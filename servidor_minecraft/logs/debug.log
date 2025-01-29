@@ -20829,3 +20829,8 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [29Jan2025 22:15:26.152] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [29Jan2025 22:20:26.110] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [29Jan2025 22:20:26.120] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[29Jan2025 22:25:26.085] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[29Jan2025 22:25:26.095] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[29Jan2025 22:28:23.267] [Server thread/INFO] [com.infamous.dungeons_mobs.DungeonsMobs/]: Converted SkeletonEntity['Skeleton - Level: 247'/74803, l='ServerLevel[world]', x=-2948.94, y=71.00, z=-2358.87] to SunkenSkeletonEntity['Skeleton - Level: 247'/82074, l='ServerLevel[world]', x=-2948.94, y=71.00, z=-2358.87]
+[29Jan2025 22:30:26.085] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[29Jan2025 22:30:26.097] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
