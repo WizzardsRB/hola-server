@@ -2053,3 +2053,12 @@ java.lang.NullPointerException: null
 [29Jan2025 20:19:51.045] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki joined the game
 [29Jan2025 20:19:51.134] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5324b7f5 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [29Jan2025 20:19:51.135] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@265cdd71 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[29Jan2025 20:20:40.748] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[29Jan2025 20:22:06.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[29Jan2025 20:22:58.981] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[29Jan2025 20:23:59.599] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=328, y=31, z=-2709} BlockPos{x=329, y=31, z=-2709}
+[29Jan2025 20:23:59.630] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=328, y=31, z=-2709} BlockPos{x=329, y=31, z=-2709}
+[29Jan2025 20:23:59.685] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=328, y=31, z=-2709} BlockPos{x=329, y=31, z=-2709}
+[29Jan2025 20:23:59.706] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=328, y=31, z=-2709} BlockPos{x=329, y=31, z=-2709}
+[29Jan2025 20:29:07.183] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=284, y=43, z=-2759} BlockPos{x=286, y=42, z=-2760}
+[29Jan2025 20:29:07.234] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=285, y=43, z=-2760} BlockPos{x=286, y=42, z=-2760}
