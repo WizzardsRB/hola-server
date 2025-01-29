@@ -2111,3 +2111,23 @@ java.lang.NullPointerException: null
 [29Jan2025 20:38:33.839] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class com.talhanation.smallships.entities.AbstractRowBoatEntity from class com.talhanation.smallships.entities.RowBoatEntity
 [29Jan2025 20:39:32.772] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of zZzK1TTY) moved wrongly! 1.5052384939720014
 [29Jan2025 20:39:43.295] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of inventorypets:nether_dungeon
+[29Jan2025 20:45:24.150] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported fr4nnki to zZzK1TTY]
+[29Jan2025 20:46:27.880] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=277, y=41, z=-1132} BlockPos{x=266, y=41, z=-1136}
+[29Jan2025 20:46:45.481] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[29Jan2025 20:46:53.174] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki was kicked for floating too long!
+[29Jan2025 20:46:53.226] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki lost connection: Flying is not enabled on this server
+[29Jan2025 20:46:53.226] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki left the game
+[29Jan2025 20:47:04.793] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@554bbe21
+[29Jan2025 20:47:04.801] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: fr4nnki[/127.209.87.79:56085] logged in with entity id 29502 at (351.2112534371721, 62.61981358962823, -1161.5986913234458)
+[29Jan2025 20:47:04.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki joined the game
+[29Jan2025 20:47:04.909] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5324b7f5 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[29Jan2025 20:47:04.909] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@265cdd71 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[29Jan2025 20:49:42.480] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[29Jan2025 20:49:54.602] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=421, y=47, z=-908} BlockPos{x=420, y=47, z=-908}
+[29Jan2025 20:49:57.076] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported fr4nnki to zZzK1TTY]
+[29Jan2025 20:50:17.428] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[29Jan2025 20:50:32.480] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[29Jan2025 20:50:49.881] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported fr4nnki to zZzK1TTY]
+[29Jan2025 20:50:55.277] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of zZzK1TTY) moved wrongly! 0.2634825518712205
+[29Jan2025 20:50:55.324] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of zZzK1TTY) moved wrongly! 0.2947208684911402
+[29Jan2025 20:50:55.375] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rowing Boat (vehicle of zZzK1TTY) moved wrongly! 0.2947208684911402
