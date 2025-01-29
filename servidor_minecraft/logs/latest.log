@@ -1930,3 +1930,27 @@ java.lang.NullPointerException: null
 [29Jan2025 18:41:04.582] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Junk affix on their Dread Knight's Sword...
 [29Jan2025 18:41:11.567] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Unique affix on their Dread Knight's Sword.
 [29Jan2025 18:41:13.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Fabled affix on their Dread Knight's Sword!
+[29Jan2025 18:43:51.926] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.FurnaceRecipe@210b7c66
+[29Jan2025 18:43:54.381] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.FurnaceRecipe@210b7c66
+[29Jan2025 18:45:12.193] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/6121, l='ServerLevel[world]', x=-1097.99, y=13.50, z=-1633.55]
+[29Jan2025 18:45:56.126] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zZzK1TTY lost connection: Disconnected
+[29Jan2025 18:45:56.126] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY left the game
+[29Jan2025 18:46:43.878] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1106, y=14, z=-1662} BlockPos{x=-1105, y=13, z=-1659}
+[29Jan2025 18:46:45.007] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/6828, l='ServerLevel[world]', x=-1103.78, y=14.00, z=-1662.22]
+[29Jan2025 18:48:33.194] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@510e8c14
+[29Jan2025 18:48:33.204] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: zZzK1TTY[/127.209.87.79:57767] logged in with entity id 7538 at (-2908.8146151638553, 65.0, -2277.5411661083167)
+[29Jan2025 18:48:33.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY joined the game
+[29Jan2025 18:48:33.316] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@3c4732c4 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[29Jan2025 18:48:33.319] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@ae5a9ef (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[29Jan2025 18:48:33.638] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.FurnaceRecipe@210b7c66
+[29Jan2025 18:48:33.639] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.FurnaceRecipe@210b7c66
+[29Jan2025 18:48:34.836] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki moved wrongly!
+[29Jan2025 18:48:38.926] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[29Jan2025 18:50:11.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Guardian +1
+[29Jan2025 18:50:12.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Guardian +2
+[29Jan2025 18:50:13.885] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki failed to roll their Blood Diamond Boots at Guardian +2...
+[29Jan2025 18:50:15.768] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki failed to roll their Blood Diamond Boots at Guardian +0...
+[29Jan2025 18:50:18.503] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Guardian +1
+[29Jan2025 18:50:40.440] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Magician +9
+[29Jan2025 18:50:41.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki failed to roll their terreneitor tilin terminal skibidi at Magician +9...
+[29Jan2025 18:50:47.450] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki failed to roll their terreneitor tilin terminal skibidi at Magician +0...
