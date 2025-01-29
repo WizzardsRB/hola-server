@@ -1961,3 +1961,6 @@ java.lang.NullPointerException: null
 [29Jan2025 18:59:23.584] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/11911, l='ServerLevel[world]', x=-2789.53, y=71.71, z=-2106.62]
 [29Jan2025 18:59:53.893] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki lost connection: Disconnected
 [29Jan2025 18:59:53.893] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki left the game
+[29Jan2025 19:02:47.177] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zZzK1TTY lost connection: Disconnected
+[29Jan2025 19:02:47.177] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY left the game
+[29Jan2025 19:02:47.178] [Server thread/INFO] [com.Gr3atsaga.TimeShallNotPass.Config.Managers.TimeShallNotPassModuleManager/]: All non-excluded players have gone offline. No Time Shall Not Pass modules have been toggled on
