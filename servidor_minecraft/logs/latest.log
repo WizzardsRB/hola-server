@@ -1860,3 +1860,25 @@ java.lang.NullPointerException: null
 [29Jan2025 19:47:13.046] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/grassy_top_trapdoor
 [29Jan2025 19:47:13.047] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/grassy_ladder_medium
 [29Jan2025 19:47:13.049] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/grassy_basement
+[29Jan2025 19:50:11.735] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to -2922.5, 64.5, -2294.5]
+[29Jan2025 19:51:31.313] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[29Jan2025 19:53:11.136] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@cfc769c
+[29Jan2025 19:53:11.151] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: zZzK1TTY[/127.209.87.79:59677] logged in with entity id 3442 at (-2904.369611817675, 65.0, -2271.4240845055247)
+[29Jan2025 19:53:11.163] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY joined the game
+[29Jan2025 19:53:11.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: -------------------- Server Notice --------------------
+[29Jan2025 19:53:11.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: If playing on LAN or Essential servers, you may experience constant kicks on Owlkin and Void Wyvern. Other Origins may experience kicks, but not as often. If you're playing on dedicated, these kicks will not occur and you can ignore this.
+[29Jan2025 19:53:11.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: -----------------------------------------------------
+[29Jan2025 19:53:11.266] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5324b7f5 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[29Jan2025 19:53:11.266] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@265cdd71 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[29Jan2025 19:58:33.646] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The Big One> TINY CREATURE HIT ME??
+[29Jan2025 19:58:48.687] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The Big One> TINY CREATURE GO UP!
+[29Jan2025 19:59:02.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The Big One> ME CRUSH TINY CREATURE!
+[29Jan2025 19:59:03.726] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The Big One> FE!
+[29Jan2025 19:59:04.687] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The Big One> FI!
+[29Jan2025 19:59:05.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The Big One> FO!
+[29Jan2025 19:59:06.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The Big One> FUM!
+[29Jan2025 19:59:07.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The Big One> HAHAHA!
+[29Jan2025 19:59:18.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The Big One> TINY CREATURE GO UP!
+[29Jan2025 19:59:33.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The Big One> SO HUNGRY!
+[29Jan2025 19:59:35.783] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The Big One> C'MERE TASTY!
+[29Jan2025 19:59:48.876] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The Big One> TINY CREATURE GO UP!
