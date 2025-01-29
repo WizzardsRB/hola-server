@@ -1916,3 +1916,41 @@ java.lang.NullPointerException: null
 [29Jan2025 17:34:40.487] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@3e3d3dfe (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [29Jan2025 17:34:40.488] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@42373e03 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [29Jan2025 17:34:41.071] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported zZzK1TTY to fr4nnki]
+[29Jan2025 17:35:48.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to -2931.5, 67.5, -2281.5]
+[29Jan2025 17:35:50.256] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/grassy_top
+[29Jan2025 17:38:31.685] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> Finally, a challenge!
+[29Jan2025 17:38:32.298] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> I will not be killed so easily!
+[29Jan2025 17:38:44.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> My minions will protect me!
+[29Jan2025 17:38:44.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The Land Golem has become enraged!
+[29Jan2025 17:38:57.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> This tower will not fall!
+[29Jan2025 17:39:09.739] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tier 1 Boss: ☠ Land Golem - Level: 5025 has been slain!
+[29Jan2025 17:39:09.775] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> Crumble... as I do...
+[29Jan2025 17:40:26.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki has made the advancement [Who's Guarding The Temple Now?]
+[29Jan2025 17:41:33.225] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[29Jan2025 17:43:22.022] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/puzzles/puzzle_corridor3
+[29Jan2025 17:43:22.031] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/puzzles/puzzle3_rich
+[29Jan2025 17:43:22.033] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/puzzles/puzzle_corridor2
+[29Jan2025 17:43:22.037] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/puzzles/puzzle2_rich
+[29Jan2025 17:43:22.040] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/puzzles/stairs_up_start
+[29Jan2025 17:43:22.041] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/corridors/straight_corridor
+[29Jan2025 17:43:22.042] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/corridors/corner_corridor_left
+[29Jan2025 17:43:22.043] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/straight_corridor
+[29Jan2025 17:43:22.044] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/corridor_wooden_door
+[29Jan2025 17:43:22.045] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/corner_corridor_left
+[29Jan2025 17:43:22.046] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/corridors/straight_corridor2
+[29Jan2025 17:43:22.047] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/corridor_iron_door
+[29Jan2025 17:43:22.048] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/chest_room
+[29Jan2025 17:43:22.049] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/corner_corridor_quad
+[29Jan2025 17:43:22.051] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/cult_room
+[29Jan2025 17:43:23.653] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/starts/plus_plain
+[29Jan2025 17:43:23.656] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/connector_base
+[29Jan2025 17:43:23.658] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/ascend_intersection
+[29Jan2025 17:43:23.660] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/corridors/left_plain
+[29Jan2025 17:43:23.661] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/misc/endpoint
+[29Jan2025 17:43:23.662] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/corridors/t_cobweb
+[29Jan2025 17:43:23.667] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/double_hall_silverfish
+[29Jan2025 17:43:23.675] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/laddered_plain
+[29Jan2025 17:43:23.685] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/laddered_bridge
+[29Jan2025 17:43:24.641] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/grassy_top_trapdoor
+[29Jan2025 17:43:24.643] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/grassy_ladder_short
+[29Jan2025 17:43:24.644] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/grassy_basement

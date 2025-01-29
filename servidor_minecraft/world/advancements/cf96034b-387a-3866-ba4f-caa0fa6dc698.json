@@ -1703,6 +1703,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-01-29 17:37:12 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_jacaranda_brigg": {
     "criteria": {
       "in_water": "2025-01-02 21:09:40 +0000"
@@ -1790,6 +1796,12 @@
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_red_dye": "2025-01-20 23:01:54 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/guardian_eye": {
+    "criteria": {
+      "guardian_eye": "2025-01-29 17:40:26 +0000"
     },
     "done": true
   },
@@ -5414,6 +5426,12 @@
   "smallships:recipes/lotr_mallorn_cog": {
     "criteria": {
       "in_water": "2025-01-02 21:09:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-01-29 17:37:12 +0000"
     },
     "done": true
   },
