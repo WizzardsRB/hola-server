@@ -2184,3 +2184,13 @@ java.lang.NullPointerException: null
 [29Jan2025 21:06:45.881] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5324b7f5 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [29Jan2025 21:06:45.881] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@265cdd71 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [29Jan2025 21:06:45.888] [Server thread/INFO] [com.Gr3atsaga.TimeShallNotPass.Config.Managers.TimeShallNotPassModuleManager/]: A non-excluded player has come online. No Time Shall Not Pass modules have been toggled off
+[29Jan2025 21:14:17.794] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY failed to roll their Adamant Platelegs at Guardian +0...
+[29Jan2025 21:14:22.793] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled a scroll upgrade of Guardian +1
+[29Jan2025 21:14:24.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled a scroll upgrade of Guardian +2
+[29Jan2025 21:14:25.875] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY failed to roll their Adamant Platelegs at Guardian +2...
+[29Jan2025 21:20:39.152] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@354aaa0f
+[29Jan2025 21:20:39.158] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: fr4nnki[/127.209.87.79:35425] logged in with entity id 42247 at (927.1148778749584, 70.41999998688698, -83.36756976097433)
+[29Jan2025 21:20:39.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki joined the game
+[29Jan2025 21:20:39.256] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5324b7f5 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[29Jan2025 21:20:39.256] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@265cdd71 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[29Jan2025 21:20:39.852] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported fr4nnki to zZzK1TTY]
