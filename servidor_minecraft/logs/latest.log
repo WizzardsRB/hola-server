@@ -2411,3 +2411,12 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 	at net.minecraft.entity.Entity.func_70020_e(Entity.java:1503) ~[?:?]
 	... 28 more
 [29Jan2025 21:30:23.277] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[29Jan2025 21:33:51.634] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki moved wrongly!
+[29Jan2025 21:33:54.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[29Jan2025 21:37:04.535] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[29Jan2025 21:37:13.974] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[29Jan2025 21:38:22.391] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki moved wrongly!
+[29Jan2025 21:39:05.695] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: zZzK1TTY moved wrongly!
+[29Jan2025 21:39:21.425] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of farmersdelight:village/houses/desert_compost_pile
+[29Jan2025 21:42:09.864] [Server thread/INFO] [com.infamous.dungeons_mobs.DungeonsMobs/]: Converted SkeletonEntity['Skeleton - Level: 177'/54744, l='ServerLevel[world]', x=429.97, y=60.00, z=1825.70] to SunkenSkeletonEntity['Skeleton - Level: 177'/55925, l='ServerLevel[world]', x=429.97, y=60.00, z=1825.70]
+[29Jan2025 21:42:13.953] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
