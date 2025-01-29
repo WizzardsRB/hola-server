@@ -20825,3 +20825,7 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [29Jan2025 22:10:02.075] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki left the game
 [29Jan2025 22:10:26.094] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [29Jan2025 22:10:26.107] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[29Jan2025 22:15:26.139] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[29Jan2025 22:15:26.152] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[29Jan2025 22:20:26.110] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[29Jan2025 22:20:26.120] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
