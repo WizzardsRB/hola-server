@@ -11469,3 +11469,27 @@ java.lang.NullPointerException: null
 [31Jan2025 02:37:37.484] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki lost connection: Disconnected
 [31Jan2025 02:37:37.484] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki left the game
 [31Jan2025 02:37:37.656] [Server thread/DEBUG] [mixin/]: Mixing vanilla.ContainersMixin from biggerstacks.mixins.json into net.minecraft.inventory.InventoryHelper
+[31Jan2025 02:38:45.840] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[31Jan2025 02:38:45.857] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[31Jan2025 02:40:13.122] [Server thread/DEBUG] [mixin/]: Mixing pathfinding.FlyNodeMixin from improvedmobs.mixins.json into net.minecraft.pathfinding.FlyingNodeProcessor
+[31Jan2025 02:40:13.123] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$breakableNodes$2(Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/pathfinding/PathPoint; to md4cb377$lambda$breakableNodes$2$0 in improvedmobs.mixins.json:pathfinding.FlyNodeMixin
+[31Jan2025 02:40:13.123] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$breakableNodes$1(Lnet/minecraft/util/math/AxisAlignedBB;)Ljava/lang/Boolean; to md4cb377$lambda$breakableNodes$1$1 in improvedmobs.mixins.json:pathfinding.FlyNodeMixin
+[31Jan2025 02:40:13.123] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$null$0(Lnet/minecraft/util/math/AxisAlignedBB;Lnet/minecraft/util/math/AxisAlignedBB;)Ljava/lang/Boolean; to md4cb377$lambda$null$0$2 in improvedmobs.mixins.json:pathfinding.FlyNodeMixin
+[31Jan2025 02:40:13.124] [Server thread/DEBUG] [mixin/]: Mixing pathfinding.performance.FlyNodeEvaluatorMixin from improvedmobs.mixins.json into net.minecraft.pathfinding.FlyingNodeProcessor
+[31Jan2025 02:40:13.677] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/4159, l='ServerLevel[world]', x=-2879.45, y=68.71, z=-2421.28]
+[31Jan2025 02:41:29.287] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/4640, l='ServerLevel[world]', x=-2922.15, y=64.00, z=-2382.38]
+[31Jan2025 02:41:30.733] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/4647, l='ServerLevel[world]', x=-2922.06, y=61.00, z=-2382.19]
+[31Jan2025 02:42:01.285] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/4831, l='ServerLevel[world]', x=-2913.34, y=64.40, z=-2383.84]
+[31Jan2025 02:43:45.858] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[31Jan2025 02:43:45.873] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[31Jan2025 02:47:09.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Junk affix on their Blade of the Dreaded Queen...
+[31Jan2025 02:47:11.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Ordinary affix on their Blade of the Dreaded Queen.
+[31Jan2025 02:47:12.343] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Godly affix on their Blade of the Dreaded Queen!
+[31Jan2025 02:47:13.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Unique affix on their Blade of the Dreaded Queen.
+[31Jan2025 02:47:15.143] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Unique affix on their Blade of the Dreaded Queen.
+[31Jan2025 02:47:16.431] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Junk affix on their Blade of the Dreaded Queen...
+[31Jan2025 02:47:17.897] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Refined affix on their Blade of the Dreaded Queen!
+[31Jan2025 02:47:19.131] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Junk affix on their Blade of the Dreaded Queen...
+[31Jan2025 02:47:20.339] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Junk affix on their Blade of the Dreaded Queen...
+[31Jan2025 02:47:21.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Refined affix on their Blade of the Dreaded Queen!
+[31Jan2025 02:47:23.134] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Mythical affix on their Blade of the Dreaded Queen!
