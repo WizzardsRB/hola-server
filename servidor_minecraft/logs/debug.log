@@ -11493,3 +11493,7 @@ java.lang.NullPointerException: null
 [31Jan2025 02:47:20.339] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Junk affix on their Blade of the Dreaded Queen...
 [31Jan2025 02:47:21.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Refined affix on their Blade of the Dreaded Queen!
 [31Jan2025 02:47:23.134] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Mythical affix on their Blade of the Dreaded Queen!
+[31Jan2025 02:48:45.785] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[31Jan2025 02:48:45.798] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[31Jan2025 02:53:45.854] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[31Jan2025 02:53:45.868] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
