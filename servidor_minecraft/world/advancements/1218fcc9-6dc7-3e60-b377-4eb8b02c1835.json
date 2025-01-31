@@ -4297,6 +4297,7 @@
       "entered_dungeon_variant": "2025-01-13 22:18:42 +0000",
       "entered_sunken_shrine": "2025-01-25 20:35:50 +0000",
       "entered_ruined_building": "2025-01-05 17:56:02 +0000",
+      "entered_witch_tower": "2025-01-31 03:47:30 +0000",
       "entered_desert_tomb": "2025-01-08 20:26:06 +0000"
     },
     "done": false
@@ -6057,11 +6058,13 @@
     "criteria": {
       "baked_potato": "2025-01-06 21:09:53 +0000",
       "apple": "2025-01-21 01:35:43 +0000",
+      "spider_eye": "2025-01-31 03:45:49 +0000",
       "rabbit": "2025-01-02 21:28:26 +0000",
       "cooked_cod": "2025-01-27 04:14:37 +0000",
       "poisonous_potato": "2025-01-27 20:32:19 +0000",
       "bread": "2025-01-02 22:04:14 +0000",
       "golden_apple": "2025-01-06 19:28:49 +0000",
+      "rotten_flesh": "2025-01-31 03:48:29 +0000",
       "salmon": "2025-01-24 17:04:42 +0000",
       "cooked_chicken": "2025-01-13 20:48:02 +0000",
       "enchanted_golden_apple": "2025-01-22 22:28:49 +0000",
@@ -6204,6 +6207,12 @@
   "mcwroofs:recipes/crimson_planks": {
     "criteria": {
       "has_planks": "2025-01-19 22:20:09 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2025-01-31 03:44:42 +0000"
     },
     "done": true
   },
