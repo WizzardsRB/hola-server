@@ -2194,3 +2194,46 @@ java.util.ConcurrentModificationException: null
 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
 	at java.lang.Thread.run(Thread.java:829) [?:?]
 [31Jan2025 03:08:41.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki has made the advancement [Trick-or-Treat?]
+[31Jan2025 03:10:57.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[31Jan2025 03:11:59.277] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY made their Blood Diamond Boots unbreakable!
+[31Jan2025 03:12:05.728] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[31Jan2025 03:12:11.989] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[31Jan2025 03:12:40.893] [Worker-Main-2/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/grassy_top_trapdoor
+[31Jan2025 03:12:40.894] [Worker-Main-2/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/grassy_ladder_short
+[31Jan2025 03:12:40.895] [Worker-Main-2/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/grassy_basement
+[31Jan2025 03:12:51.486] [Worker-Main-2/WARN] [ModernFix/]: Structure byg:village/tropical/villagers/unemployed is being run through DFU (hash 5def23a1f4c05cba25e2122abd576914822f35d42594d264a4bfc670512b3eff), this will cause launch time delays
+[31Jan2025 03:12:52.965] [Worker-Main-2/WARN] [ModernFix/]: Structure byg:village/tropical/villagers/baby is being run through DFU (hash 8403b8fbfa14e4a11d6acbaddf8b7e9401cd1eae211797075da3c3c49cd8a8f0), this will cause launch time delays
+[31Jan2025 03:13:25.132] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 192  Position = BlockPos{x=32, y=71, z=6352}
+[31Jan2025 03:13:25.133] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 71  Position = BlockPos{x=10, y=77, z=6330}
+[31Jan2025 03:13:25.133] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 192  Position = BlockPos{x=29, y=88, z=6349}
+[31Jan2025 03:13:25.133] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 71  Position = BlockPos{x=9, y=77, z=6339}
+[31Jan2025 03:13:25.133] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 192  Position = BlockPos{x=29, y=99, z=6349}
+[31Jan2025 03:13:25.134] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 88  Position = BlockPos{x=12, y=92, z=6342}
+[31Jan2025 03:13:25.134] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 88  Position = BlockPos{x=7, y=89, z=6325}
+[31Jan2025 03:13:25.134] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 99  Position = BlockPos{x=18, y=100, z=6331}
+[31Jan2025 03:13:25.134] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 192  Position = BlockPos{x=29, y=110, z=6349}
+[31Jan2025 03:13:25.134] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 99  Position = BlockPos{x=9, y=105, z=6341}
+[31Jan2025 03:13:25.135] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 110  Position = BlockPos{x=21, y=116, z=6329}
+[31Jan2025 03:13:25.135] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 192  Position = BlockPos{x=29, y=121, z=6349}
+[31Jan2025 03:13:25.135] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 110  Position = BlockPos{x=12, y=111, z=6335}
+[31Jan2025 03:13:25.135] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 192  Position = BlockPos{x=29, y=132, z=6349}
+[31Jan2025 03:13:25.135] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 121  Position = BlockPos{x=11, y=122, z=6328}
+[31Jan2025 03:13:25.136] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 121  Position = BlockPos{x=18, y=125, z=6328}
+[31Jan2025 03:13:25.136] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 121  Position = BlockPos{x=23, y=122, z=6345}
+[31Jan2025 03:13:25.142] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 192  Position = BlockPos{x=29, y=143, z=6349}
+[31Jan2025 03:13:25.142] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 132  Position = BlockPos{x=9, y=133, z=6339}
+[31Jan2025 03:13:25.142] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 132  Position = BlockPos{x=16, y=136, z=6344}
+[31Jan2025 03:13:25.143] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 132  Position = BlockPos{x=12, y=133, z=6332}
+[31Jan2025 03:13:25.143] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 143  Position = BlockPos{x=23, y=144, z=6332}
+[31Jan2025 03:13:25.143] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 143  Position = BlockPos{x=9, y=149, z=6341}
+[31Jan2025 03:13:25.144] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 192  Position = BlockPos{x=30, y=154, z=6350}
+[31Jan2025 03:13:25.144] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 143  Position = BlockPos{x=18, y=144, z=6331}
+[31Jan2025 03:13:25.144] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 154  Position = BlockPos{x=19, y=155, z=6342}
+[31Jan2025 03:13:25.144] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 154  Position = BlockPos{x=19, y=159, z=6341}
+[31Jan2025 03:13:25.145] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 154  Position = BlockPos{x=7, y=155, z=6325}
+[31Jan2025 03:13:25.145] [Worker-Main-11/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 154  Position = BlockPos{x=12, y=158, z=6342}
+[31Jan2025 03:13:44.130] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-215, y=68, z=6046} BlockPos{x=-226, y=67, z=6040}
+[31Jan2025 03:17:31.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> You are nothing!
+[31Jan2025 03:17:31.938] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> Quit messing around, get them!
+[31Jan2025 03:18:17.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> I will not be killed so easily!
+[31Jan2025 03:18:17.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The Land Golem has become enraged!
