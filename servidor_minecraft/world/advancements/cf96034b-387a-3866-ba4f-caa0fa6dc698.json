@@ -7662,6 +7662,12 @@
     },
     "done": true
   },
+  "endrem:main/witch_eye": {
+    "criteria": {
+      "witch_eye": "2025-01-31 03:08:41 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/oak_rail_bridge": {
     "criteria": {
       "has_planks": "2025-01-03 04:47:38 +0000"
