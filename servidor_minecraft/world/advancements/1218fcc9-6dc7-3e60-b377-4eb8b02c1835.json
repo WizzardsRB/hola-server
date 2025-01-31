@@ -4946,6 +4946,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-31 03:54:35 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/valhelsia_structures_main/blue_glazed_jar": {
     "criteria": {
       "has_item": "2025-01-05 17:03:02 +0000"
