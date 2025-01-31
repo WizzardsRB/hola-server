@@ -2237,3 +2237,20 @@ java.util.ConcurrentModificationException: null
 [31Jan2025 03:17:31.938] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> Quit messing around, get them!
 [31Jan2025 03:18:17.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> I will not be killed so easily!
 [31Jan2025 03:18:17.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The Land Golem has become enraged!
+[31Jan2025 03:19:17.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> Your efforts are meaningless!
+[31Jan2025 03:21:55.074] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> The tower remains.
+[31Jan2025 03:23:52.730] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> Finally, a challenge!
+[31Jan2025 03:23:54.284] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> I will not be killed so easily!
+[31Jan2025 03:24:27.400] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> Quit messing around, get them!
+[31Jan2025 03:24:27.400] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The Land Golem has become enraged!
+[31Jan2025 03:24:41.663] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> This tower will not fall!
+[31Jan2025 03:24:45.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY is bleeding...
+[31Jan2025 03:24:54.933] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tier 1 Boss: ☠ Land Golem - Level: 5025 has been slain!
+[31Jan2025 03:24:54.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> Crumble... as I do...
+[31Jan2025 03:25:06.968] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to -2931.5, 67.5, -2281.5]
+[31Jan2025 03:27:09.507] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[31Jan2025 03:27:44.953] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki has made the advancement [Pic-A-Nic Basket?]
+[31Jan2025 03:28:52.725] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3214ms or 64 ticks behind
+[31Jan2025 03:28:54.922] [Worker-Main-11/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/ocean_1
+[31Jan2025 03:28:54.923] [Worker-Main-11/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/ocean_2
+[31Jan2025 03:28:55.377] [Worker-Main-3/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/ocean_3
