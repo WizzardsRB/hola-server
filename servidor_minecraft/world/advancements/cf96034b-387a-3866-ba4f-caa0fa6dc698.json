@@ -4764,6 +4764,7 @@
   "repurposed_structures:mineshafts": {
     "criteria": {
       "in_mineshaft_swamp": "2025-01-17 21:42:56 +0000",
+      "in_mineshaft_ocean": "2025-02-01 21:31:08 +0000",
       "in_mineshaft_taiga": "2025-01-17 21:07:25 +0000",
       "in_mineshaft_nether": "2025-01-11 23:38:04 +0000",
       "in_mineshaft_stone": "2025-01-17 21:56:31 +0000"

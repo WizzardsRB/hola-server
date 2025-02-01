@@ -2242,3 +2242,18 @@ java.util.ConcurrentModificationException: null
 [01Feb2025 21:23:41.530] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=875, y=16, z=3239} but found not block entity block Block{quark:smooth_basalt} at location
 [01Feb2025 21:23:41.530] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{quark:smooth_basalt} but failed at location BlockPos{x=875, y=16, z=3239}
 [01Feb2025 21:24:12.883] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[01Feb2025 21:31:39.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elder Guardian> Drown to my power!
+[01Feb2025 21:31:53.204] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elder Guardian> This is treachery!
+[01Feb2025 21:31:53.462] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1923, y=20, z=3385} but found not block entity block Block{minecraft:stone} at location
+[01Feb2025 21:31:53.462] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=1923, y=20, z=3385}
+[01Feb2025 21:31:53.462] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1924, y=23, z=3391} but found not block entity block Block{minecraft:stone} at location
+[01Feb2025 21:31:53.462] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=1924, y=23, z=3391}
+[01Feb2025 21:31:53.462] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1920, y=19, z=3377} but found not block entity block Block{minecraft:coal_ore} at location
+[01Feb2025 21:31:53.462] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:coal_ore} but failed at location BlockPos{x=1920, y=19, z=3377}
+[01Feb2025 21:32:59.260] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Janice - Level: 123'/51290, l='ServerLevel[world]', x=1680.70, y=64.01, z=3312.30] died, message: 'Janice - Level: 123 was shot by Pillager - Level: 221'
+[01Feb2025 21:33:04.503] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Julian - Level: 123'/51186, l='ServerLevel[world]', x=1680.70, y=63.94, z=3312.70] died, message: 'Julian - Level: 123 was shot by Pillager - Level: 221'
+[01Feb2025 21:34:26.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[01Feb2025 21:34:26.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elder Guardian> Know your place!
+[01Feb2025 21:35:39.008] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1729, y=51, z=3329} BlockPos{x=1729, y=50, z=3329}
+[01Feb2025 21:36:36.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[01Feb2025 21:37:27.891] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to -2922.5, 64.5, -2294.5]
