@@ -2196,3 +2196,17 @@ java.util.ConcurrentModificationException: null
 [01Feb2025 21:06:00.578] [Worker-Main-2/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/badlands_1
 [01Feb2025 21:06:15.559] [Worker-Main-3/WARN] [ModernFix/]: Using cached upgraded version of inventorypets:sea_cave
 [01Feb2025 21:06:24.172] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[01Feb2025 21:07:51.931] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of waystones:village/desert/waystone
+[01Feb2025 21:07:51.939] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of farmersdelight:village/houses/desert_compost_pile
+[01Feb2025 21:09:20.218] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[01Feb2025 21:09:31.264] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[01Feb2025 21:09:42.619] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[01Feb2025 21:09:45.653] [Server thread/INFO] [com.infamous.dungeons_mobs.DungeonsMobs/]: Converted StrayEntity['Stray - Level: 341'/36744, l='ServerLevel[world]', x=1040.57, y=7.00, z=3745.81] to SunkenSkeletonEntity['Stray - Level: 341'/37126, l='ServerLevel[world]', x=1040.57, y=7.00, z=3745.81]
+[01Feb2025 21:09:48.610] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[01Feb2025 21:10:00.369] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[01Feb2025 21:11:04.861] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tier 1 Boss: ☠ Barako, the Sun Chief - Level: 5063 has been slain!
+[01Feb2025 21:11:57.731] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tier 1 Boss: ☠ Cyclops - Level: 5096 has been slain!
+[01Feb2025 21:14:30.260] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=612, y=33, z=3959}
+[01Feb2025 21:14:30.260] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=612, y=34, z=3965}
+[01Feb2025 21:14:51.711] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[01Feb2025 21:17:57.053] [Server thread/INFO] [com.infamous.dungeons_mobs.DungeonsMobs/]: Converted SkeletonEntity['☠ Skeleton - Level: 430'/40835, l='ServerLevel[world]', x=721.27, y=66.00, z=3805.27] to SunkenSkeletonEntity['☠ Skeleton - Level: 430'/42443, l='ServerLevel[world]', x=721.27, y=66.00, z=3805.27]
