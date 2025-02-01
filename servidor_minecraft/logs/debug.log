@@ -11606,3 +11606,274 @@ java.lang.NullPointerException: null
 [01Feb2025 20:46:49.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to -2931.5, 67.5, -2281.5]
 [01Feb2025 20:47:07.658] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [01Feb2025 20:47:07.671] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[01Feb2025 20:49:26.353] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: zZzK1TTY moved wrongly!
+[01Feb2025 20:50:45.028] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to 1551.5, 66.5, 4241.5]
+[01Feb2025 20:50:45.728] [Worker-Main-2/DEBUG] [betterdungeons/]: Small Dungeon at 1647 38 3999
+[01Feb2025 20:50:45.767] [Worker-Main-2/DEBUG] [betterdungeons/]: Small Dungeon at 1489 34 4039
+[01Feb2025 20:50:47.171] [Worker-Main-3/DEBUG] [betterdungeons/]: Small Dungeon at 1775 46 3999
+[01Feb2025 20:50:47.841] [Worker-Main-2/DEBUG] [betterdungeons/]: Zombie Dungeon at 1799 49 4063
+[01Feb2025 20:50:48.351] [Worker-Main-1/DEBUG] [betterdungeons/]: Small Dungeon at 1815 41 4183
+[01Feb2025 20:50:48.462] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: already registered at BlockPos{x=1437, y=12, z=4131}
+[01Feb2025 20:50:54.199] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (1780 | 49 | 4100).
+[01Feb2025 20:50:54.200] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[01Feb2025 20:50:54.203] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 4(0) Nodes and 4(0) Rooms
+[01Feb2025 20:50:54.203] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[01Feb2025 20:50:54.203] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 5(0) Nodes and 6(0) Rooms
+[01Feb2025 20:50:54.203] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[01Feb2025 20:50:54.204] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 6(6) Nodes and 4(0) Rooms
+[01Feb2025 20:50:54.204] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[01Feb2025 20:50:54.205] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 9(0) Nodes and 5(0) Rooms
+[01Feb2025 20:50:54.205] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[01Feb2025 20:50:54.205] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 10(0) Nodes and 5(0) Rooms
+[01Feb2025 20:50:54.211] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Created the dungeon layout for [116, 261] with a total of 281 pieces.
+[01Feb2025 20:51:06.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[01Feb2025 20:51:09.355] [Worker-Main-3/DEBUG] [betterdungeons/]: Small Dungeon at 1647 47 3895
+[01Feb2025 20:51:10.235] [Worker-Main-3/DEBUG] [betterdungeons/]: Small Dungeon at 1287 42 3895
+[01Feb2025 20:51:25.270] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki moved wrongly!
+[01Feb2025 20:51:28.766] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/grassy_top_trapdoor
+[01Feb2025 20:51:28.768] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/grassy_ladder_long
+[01Feb2025 20:51:28.769] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/grassy_basement
+[01Feb2025 20:51:44.806] [Worker-Main-3/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/ocean_1
+[01Feb2025 20:51:44.808] [Worker-Main-3/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/ocean_2
+[01Feb2025 20:51:44.962] [Worker-Main-1/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/ocean_3
+[01Feb2025 20:51:45.866] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [82,259]
+[01Feb2025 20:51:45.869] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (1296 | 31 | 4128)
+[01Feb2025 20:51:45.873] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (1296 | 31 | 4128)
+[01Feb2025 20:51:45.874] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [82,259]
+[01Feb2025 20:51:45.903] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [82,258]
+[01Feb2025 20:51:45.904] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (1296 | 31 | 4128)
+[01Feb2025 20:51:45.911] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (1296 | 31 | 4128)
+[01Feb2025 20:51:45.911] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [82,258]
+[01Feb2025 20:52:07.857] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[01Feb2025 20:52:07.871] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[01Feb2025 20:53:00.683] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@37db6809
+[01Feb2025 20:53:00.683] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 1.0
+[01Feb2025 20:53:01.429] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@2d88024
+[01Feb2025 20:53:01.429] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 1.0
+[01Feb2025 20:53:02.628] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@37db6809
+[01Feb2025 20:53:02.628] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 2.0
+[01Feb2025 20:53:17.107] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@2d88024
+[01Feb2025 20:53:17.107] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 2.0
+[01Feb2025 20:53:17.542] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@37db6809
+[01Feb2025 20:53:17.542] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 3.0
+[01Feb2025 20:54:01.392] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> You dare challenge me!?
+[01Feb2025 20:54:02.110] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> My minions will protect me!
+[01Feb2025 20:54:09.638] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> My minions will protect me!
+[01Feb2025 20:54:09.638] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The Land Golem has become enraged!
+[01Feb2025 20:54:16.571] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> This tower will not fall!
+[01Feb2025 20:54:23.745] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: null
+	Index: 81
+	Listeners:
+		0: HIGHEST
+		1: ASM: class cofh.ensorcellation.event.CommonEvents handleLivingAttackEvent(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		2: HIGH
+		3: ASM: class cofh.core.event.ShieldEvents handleLivingAttackEvent(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		4: ASM: class cofh.core.event.EffectEvents handleLivingAttackEvent(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		5: ASM: class cofh.core.event.ArmorEvents handleLivingAttackEvent(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		6: ASM: class me.shedaniel.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		7: NORMAL
+		8: net.minecraftforge.eventbus.EventBus$$Lambda$2765/0x0000000840bed840@778ffe6
+		9: ASM: class net.reikeb.not_enough_gamerules.events.PlayerHurtEvent onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		10: ASM: class com.wonderfulenchantments.enchantments.PufferfishVengeanceEnchantment onHit(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		11: ASM: class com.wonderfulenchantments.enchantments.LeechEnchantment onHit(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		12: ASM: com.github.alexthe666.alexsmobs.event.ServerEvents@7023b092 onLivingAttack(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		13: ASM: class net.union.unionsupgradescrolls.procedures.StarsFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		14: ASM: class net.union.unionsupgradescrolls.procedures.StarsFunctionOffHandProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		15: ASM: insane96mcp.progressivebosses.module.dragon.feature.MinionFeature@4006409d onMinionHurt(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		16: ASM: insane96mcp.progressivebosses.module.dragon.feature.LarvaFeature@517f3e00 onLarvaHurt(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		17: ASM: L_Ender.cataclysm.event.ServerEventHandler@78e31b94 onLivingAttack(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		18: ASM: class net.mindoth.dreadsteel.item.weapon.DreadsteelShield onArrowHit(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		19: ASM: class net.mindoth.dreadsteel.item.armor.DreadsteelArmor dreadsteelSetDefence(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		20: ASM: class cofh.ensorcellation.event.ShieldEnchEvents handleLivingAttackEvent(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		21: ASM: class cofh.ensorcellation.event.HorseEnchEvents handleLivingAttackEvent(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		22: ASM: class net.mcreator.piratesarmoury.procedures.KrakensWardProcedureProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		23: ASM: net.mcreator.twist.procedures.PurgerproProcedure@4bd88719 onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		24: ASM: net.mcreator.twist.procedures.LankerproProcedure@7af679e1 onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		25: ASM: net.mcreator.twist.procedures.HosthatattackProcedure@4656a483 onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		26: ASM: net.mcreator.twist.procedures.ChargerproProcedure@35db44d4 onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		27: ASM: net.mcreator.twist.procedures.ChargerproattackProcedure@73ce974e onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		28: ASM: class net.union.infernaloriginsextras.procedures.UpgradeEffectScaleNormalFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		29: ASM: class net.union.infernaloriginsextras.procedures.SpecialReflectionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		30: ASM: class net.union.infernaloriginsextras.procedures.SpecialFlankerProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		31: ASM: class net.union.infernaloriginsextras.procedures.SpecialBulkyProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		32: ASM: class net.union.infernaloriginsextras.procedures.SpecialBomberProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		33: ASM: class net.union.infernaloriginsextras.procedures.RandomPassSmolderingProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		34: ASM: class net.union.infernaloriginsextras.procedures.RandomPassSmolderingOffhandProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		35: ASM: class net.union.infernaloriginsextras.procedures.RandomPassSlayerMasterProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		36: ASM: class net.union.infernaloriginsextras.procedures.RandomPassSlayerMasterOffhandProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		37: ASM: class net.union.infernaloriginsextras.procedures.RandomPassSkillfulProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		38: ASM: class net.union.infernaloriginsextras.procedures.RandomPassSkillfulOffhandProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		39: ASM: class net.union.infernaloriginsextras.procedures.RandomPassPlagueBombProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		40: ASM: class net.union.infernaloriginsextras.procedures.RandomPassPlagueBombOffhandProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		41: ASM: class net.union.infernaloriginsextras.procedures.RandomPassMetalShellProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		42: ASM: class net.union.infernaloriginsextras.procedures.RandomPassMetalShellOffhandProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		43: ASM: class net.union.infernaloriginsextras.procedures.RandomPassInitiativeProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		44: ASM: class net.union.infernaloriginsextras.procedures.RandomPassInitiativeOffhandProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		45: ASM: class net.union.infernaloriginsextras.procedures.RandomPassGlassCannonProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		46: ASM: class net.union.infernaloriginsextras.procedures.RandomPassGlassCannonOffhandProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		47: ASM: class net.union.infernaloriginsextras.procedures.RandomPassDeathTollProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		48: ASM: class net.union.infernaloriginsextras.procedures.RandomPassDeathTollOffhandProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		49: ASM: class net.union.infernaloriginsextras.procedures.RandomPassDarkPactProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		50: ASM: class net.union.infernaloriginsextras.procedures.RandomPassDarkPactOffhandProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		51: ASM: class net.union.infernaloriginsextras.procedures.RandomPassCombatMedicProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		52: ASM: class net.union.infernaloriginsextras.procedures.RandomPassCombatMedicOffhandProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		53: ASM: class net.union.infernaloriginsextras.procedures.RandomPassBossRipperProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		54: ASM: class net.union.infernaloriginsextras.procedures.RandomPassBossRipperOffhandProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		55: ASM: class net.union.infernaloriginsextras.procedures.RandomPassBerserkerProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		56: ASM: class net.union.infernaloriginsextras.procedures.RandomPassBerserkerOffhandProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		57: ASM: class net.union.infernaloriginsextras.procedures.ItemFinalFractalFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		58: ASM: class net.union.infernaloriginsextras.procedures.ImpPassiveStunChanceProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		59: ASM: class net.union.infernaloriginsextras.procedures.EffectSymphonicFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		60: ASM: class net.union.infernaloriginsextras.procedures.EffectSoulFeedAttackApplyProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		61: ASM: class net.union.infernaloriginsextras.procedures.EffectScaleNormalFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		62: ASM: class net.union.infernaloriginsextras.procedures.EffectRuneInfusionFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		63: ASM: class net.union.infernaloriginsextras.procedures.EffectPassiveViewFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		64: ASM: class net.union.infernaloriginsextras.procedures.EffectHealingBalladFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		65: ASM: class net.union.infernaloriginsextras.procedures.EffectHardenedFurFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		66: ASM: class net.union.infernaloriginsextras.procedures.EffectDraconicAuraFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		67: ASM: class net.union.infernaloriginsextras.procedures.EffectDefianceFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		68: ASM: class net.union.infernaloriginsextras.procedures.EffectDamageSuppresionFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		69: ASM: class net.union.infernaloriginsextras.procedures.EffectCounterClawFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		70: ASM: class net.union.infernaloriginsextras.procedures.EffectCounterClawBuffedFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		71: ASM: class net.union.infernaloriginsextras.procedures.EffectChosenHealFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		72: ASM: class net.union.infernaloriginsextras.procedures.EffectCauterizeFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		73: ASM: class net.union.infernaloriginsextras.procedures.EffectBossRetaliateFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		74: ASM: class net.union.infernaloriginsextras.procedures.EffectBloomFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		75: ASM: class net.union.infernaloriginsextras.procedures.EffectArrowSliceFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		76: ASM: class net.union.infernaloriginsextras.procedures.BossPassiveNetheriteMonstrosityProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		77: ASM: class net.union.infernaloriginsextras.procedures.BossPassiveHoarFrostProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		78: ASM: class net.union.infernaloriginsextras.procedures.BossPassiveFrostmawProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		79: ASM: class net.union.infernaloriginsextras.procedures.BOOFrostmawFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		80: ASM: class net.union.infernaloriginsextras.procedures.AllSkillDodgeTickProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		81: ASM: class net.union.infernaloriginsextras.procedures.AllSkillCritProcProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		82: ASM: class net.union.infernaloriginsextras.procedures.AllDeathCheckProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		83: ASM: class net.union.infernaloriginsextras.procedures.AllBossResetSpeedFailsafeProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		84: ASM: class net.union.infernaloriginsextras.procedures.AllBossMinionsWitherProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		85: ASM: class net.union.infernaloriginsextras.procedures.AllBossMinionsTheBigOneProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		86: ASM: class net.union.infernaloriginsextras.procedures.AllBossMinionsNetheriteMonstrosityProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		87: ASM: class net.union.infernaloriginsextras.procedures.AllBossMinionsLandGolemProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		88: ASM: class net.union.infernaloriginsextras.procedures.AllBossMinionsIgnisProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		89: ASM: class net.union.infernaloriginsextras.procedures.AllBossMinionsHoarFrostProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		90: ASM: class net.union.infernaloriginsextras.procedures.AllBossMinionsFrostmawProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		91: ASM: class net.union.infernaloriginsextras.procedures.AllBossMinionsFerrousWroughtnautProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		92: ASM: class net.union.infernaloriginsextras.procedures.AllBossMinionsEnderGuardianProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		93: ASM: class net.union.infernaloriginsextras.procedures.AllBossMinionsElderGuardianProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		94: ASM: class net.union.infernaloriginsextras.procedures.AllBossEnrageSerpentDragonAntiCheeseProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		95: ASM: class net.union.infernaloriginsextras.procedures.AllBossDamageTakenCapFailsafeProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		96: ASM: class net.union.infernaloriginsextras.procedures.AllBossDamageMinionsMinimumProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		97: ASM: class net.union.infernaloriginsextras.procedures.AllBossDamageMinimumProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		98: net.minecraftforge.eventbus.EventBus$$Lambda$2765/0x0000000840bed840@76d7082
+		99: ASM: com.inventorypets.events.WallDamageHandler@1def22fe notifyAttack(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		100: ASM: com.flemmli97.improvedmobs.events.EventHandler@731469db attackEvent(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		101: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@294692a8 onLivingAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		102: ASM: com.flemmli97.improvedmobs.events.EventHandler@731469db pathDebug(Lnet/minecraftforge/event/entity/living/LivingEvent;)V
+java.util.ConcurrentModificationException
+	at java.base/java.util.HashMap$HashIterator.remove(HashMap.java:1525)
+	at net.minecraft.entity.LivingEntity.func_195061_cb(LivingEntity.java:793)
+	at net.minecraft.entity.LivingEntity.func_190628_d(LivingEntity.java:1117)
+	at net.minecraft.entity.LivingEntity.func_70097_a(LivingEntity.java:1053)
+	at net.minecraft.entity.monster.MonsterEntity.func_70097_a(SourceFile:73)
+	at net.union.infernaloriginsextras.procedures.AllSkillCritProcProcedure.executeProcedure(AllSkillCritProcProcedure.java:83)
+	at net.union.infernaloriginsextras.procedures.AllSkillCritProcProcedure$GlobalTrigger.onEntityAttacked(AllSkillCritProcProcedure.java:44)
+	at net.minecraftforge.eventbus.ASMEventHandler_1266_GlobalTrigger_onEntityAttacked_LivingAttackEvent.invoke(.dynamic)
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+	at net.minecraftforge.common.ForgeHooks.onLivingAttack(ForgeHooks.java:331)
+	at net.minecraft.entity.LivingEntity.func_70097_a(LivingEntity.java:932)
+	at net.minecraft.entity.monster.MonsterEntity.func_70097_a(SourceFile:73)
+	at net.minecraft.entity.player.PlayerEntity.func_71059_n(PlayerEntity.java:1100)
+	at net.minecraft.entity.player.ServerPlayerEntity.func_71059_n(ServerPlayerEntity.java:1292)
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147340_a(ServerPlayNetHandler.java:1205)
+	at net.minecraft.network.play.client.CUseEntityPacket.func_148833_a(SourceFile:74)
+	at net.minecraft.network.play.client.CUseEntityPacket.func_148833_a(SourceFile:13)
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21)
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18)
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144)
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23)
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734)
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159)
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118)
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717)
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711)
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213160_bf(SourceFile:103)
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:696)
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646)
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+[01Feb2025 20:54:23.749] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.util.ConcurrentModificationException: null
+	at java.util.HashMap$HashIterator.remove(HashMap.java:1525) ~[?:?]
+	at net.minecraft.entity.LivingEntity.func_195061_cb(LivingEntity.java:793) ~[?:?]
+	at net.minecraft.entity.LivingEntity.func_190628_d(LivingEntity.java:1117) ~[?:?]
+	at net.minecraft.entity.LivingEntity.func_70097_a(LivingEntity.java:1053) ~[?:?]
+	at net.minecraft.entity.monster.MonsterEntity.func_70097_a(SourceFile:73) ~[?:?]
+	at net.union.infernaloriginsextras.procedures.AllSkillCritProcProcedure.executeProcedure(AllSkillCritProcProcedure.java:83) ~[infernal_origins_extras:?]
+	at net.union.infernaloriginsextras.procedures.AllSkillCritProcProcedure$GlobalTrigger.onEntityAttacked(AllSkillCritProcProcedure.java:44) ~[infernal_origins_extras:?]
+	at net.minecraftforge.eventbus.ASMEventHandler_1266_GlobalTrigger_onEntityAttacked_LivingAttackEvent.invoke(.dynamic) ~[?:?]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.common.ForgeHooks.onLivingAttack(ForgeHooks.java:331) ~[forge:?]
+	at net.minecraft.entity.LivingEntity.func_70097_a(LivingEntity.java:932) ~[?:?]
+	at net.minecraft.entity.monster.MonsterEntity.func_70097_a(SourceFile:73) ~[?:?]
+	at net.minecraft.entity.player.PlayerEntity.func_71059_n(PlayerEntity.java:1100) ~[?:?]
+	at net.minecraft.entity.player.ServerPlayerEntity.func_71059_n(ServerPlayerEntity.java:1292) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147340_a(ServerPlayNetHandler.java:1205) ~[?:?]
+	at net.minecraft.network.play.client.CUseEntityPacket.func_148833_a(SourceFile:74) ~[?:?]
+	at net.minecraft.network.play.client.CUseEntityPacket.func_148833_a(SourceFile:13) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213160_bf(SourceFile:103) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:696) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[01Feb2025 20:54:25.187] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: BlockPos{x=1537, y=157, z=4353}
+[01Feb2025 20:54:25.187] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: BlockPos{x=1537, y=156, z=4341} - null
+[01Feb2025 20:54:25.187] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: BlockPos{x=1549, y=156, z=4353} - null
+[01Feb2025 20:54:25.187] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: BlockPos{x=1537, y=156, z=4365} - null
+[01Feb2025 20:54:25.187] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.GolemChestTileEntity@3e2e1052
+[01Feb2025 20:54:25.190] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tier 1 Boss: ☠ Land Golem - Level: 5025 has been slain!
+[01Feb2025 20:54:25.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> Crumble... as I do...
+[01Feb2025 20:56:06.308] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/25097, l='ServerLevel[world]', x=1574.18, y=69.00, z=4308.73]
+[01Feb2025 20:56:06.308] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/25097, l='ServerLevel[world]', x=1574.18, y=69.00, z=4308.73]
+[01Feb2025 20:56:41.059] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki was kicked for floating too long!
+[01Feb2025 20:56:41.064] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki lost connection: Flying is not enabled on this server
+[01Feb2025 20:56:41.065] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki left the game
+[01Feb2025 20:56:41.121] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[01Feb2025 20:56:59.156] [Worker-Main-1/DEBUG] [betterdungeons/]: Small Dungeon at 1777 29 3873
+[01Feb2025 20:57:07.631] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[01Feb2025 20:57:07.645] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[01Feb2025 20:57:26.528] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Starting new modded network connection. Found 32 messages to dispatch.
+[01Feb2025 20:57:26.555] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Origins registries' to 'origins:channel' sequence 0
+[01Feb2025 20:57:26.605] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.fml.network.FMLHandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[01Feb2025 20:57:26.653] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 2
+[01Feb2025 20:57:26.704] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 3
+[01Feb2025 20:57:26.750] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 4
+[01Feb2025 20:57:26.809] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry entity_enchantment:entity_enchantment' to 'fml:handshake' sequence 5
+[01Feb2025 20:57:26.855] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[01Feb2025 20:57:26.909] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[01Feb2025 20:57:26.954] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[01Feb2025 20:57:27.007] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 9
+[01Feb2025 20:57:27.059] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 10
+[01Feb2025 20:57:27.105] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:data_serializers' to 'fml:handshake' sequence 11
+[01Feb2025 20:57:27.152] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 12
+[01Feb2025 20:57:27.204] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 13
+[01Feb2025 20:57:27.254] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry structure_gel:biome_dictionary' to 'fml:handshake' sequence 14
+[01Feb2025 20:57:27.305] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 15
+[01Feb2025 20:57:27.355] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 16
+[01Feb2025 20:57:27.411] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:motive' to 'fml:handshake' sequence 17
+[01Feb2025 20:57:27.456] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 18
+[01Feb2025 20:57:27.505] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 19
+[01Feb2025 20:57:27.551] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 20
+[01Feb2025 20:57:27.604] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config goprone-server.toml' to 'fml:handshake' sequence 21
+[01Feb2025 20:57:27.656] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config /workspaces/hola-server/servidor_minecraft/config/waystones-server.toml' to 'fml:handshake' sequence 22
