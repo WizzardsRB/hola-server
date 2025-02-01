@@ -2658,3 +2658,20 @@ java.util.ConcurrentModificationException: null
 [01Feb2025 22:07:45.527] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Magician +7
 [01Feb2025 22:07:46.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Magician +8
 [01Feb2025 22:07:47.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Magician +9
+[01Feb2025 22:14:15.100] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Magician +10
+[01Feb2025 22:14:18.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Magician +11
+[01Feb2025 22:14:38.148] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled the Junk affix on their Netherite Bulwark...
+[01Feb2025 22:14:39.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled the Mythical affix on their Netherite Bulwark!
+[01Feb2025 22:15:15.742] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to 1671.5, 64.5, 3076.5]
+[01Feb2025 22:15:23.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[01Feb2025 22:17:37.653] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[01Feb2025 22:18:03.221] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[01Feb2025 22:18:31.250] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1818, y=63, z=2886} BlockPos{x=1818, y=63, z=2887}
+[01Feb2025 22:18:31.252] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1818, y=63, z=2886} BlockPos{x=1818, y=63, z=2887}
+[01Feb2025 22:18:31.305] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1818, y=63, z=2886} BlockPos{x=1818, y=63, z=2887}
+[01Feb2025 22:18:31.360] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1818, y=63, z=2886} BlockPos{x=1818, y=63, z=2887}
+[01Feb2025 22:18:38.945] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1816, y=62, z=2884} BlockPos{x=1816, y=60, z=2885}
+[01Feb2025 22:18:46.605] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1821, y=62, z=2884} BlockPos{x=1821, y=60, z=2884}
+[01Feb2025 22:19:17.504] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1822, y=63, z=2881} BlockPos{x=1821, y=60, z=2882}
+[01Feb2025 22:19:17.548] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1822, y=63, z=2881} BlockPos{x=1821, y=60, z=2882}
+[01Feb2025 22:19:17.610] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1822, y=63, z=2881} BlockPos{x=1821, y=60, z=2882}
