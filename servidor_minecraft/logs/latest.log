@@ -1950,3 +1950,12 @@ java.lang.NullPointerException: null
 [01Feb2025 20:30:11.267] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-3132, y=19, z=-2595} BlockPos{x=-3133, y=25, z=-2598}
 [01Feb2025 20:31:24.412] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
 [01Feb2025 20:33:22.813] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-3153, y=3, z=-2582} BlockPos{x=-3153, y=3, z=-2581}
+[01Feb2025 20:39:12.770] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki moved wrongly!
+[01Feb2025 20:41:04.421] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[01Feb2025 20:42:15.371] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-3122, y=19, z=-2674} BlockPos{x=-3121, y=19, z=-2674}
+[01Feb2025 20:42:15.426] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-3122, y=19, z=-2674} BlockPos{x=-3121, y=19, z=-2674}
+[01Feb2025 20:42:15.473] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-3122, y=19, z=-2674} BlockPos{x=-3121, y=19, z=-2674}
+[01Feb2025 20:46:00.417] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[01Feb2025 20:46:42.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to -2922.5, 64.5, -2294.5]
+[01Feb2025 20:46:43.131] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.FurnaceRecipe@3edc3979
+[01Feb2025 20:46:49.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to -2931.5, 67.5, -2281.5]
