@@ -11583,3 +11583,11 @@ java.lang.NullPointerException: null
 [01Feb2025 20:23:43.710] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
 [01Feb2025 20:24:29.067] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
 [01Feb2025 20:24:54.073] [Server thread/INFO] [com.infamous.dungeons_mobs.DungeonsMobs/]: Converted StrayEntity['Stray - Level: 250'/9187, l='ServerLevel[world]', x=-3196.49, y=61.00, z=-2718.30] to SunkenSkeletonEntity['Stray - Level: 250'/10894, l='ServerLevel[world]', x=-3196.49, y=61.00, z=-2718.30]
+[01Feb2025 20:27:07.888] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[01Feb2025 20:27:07.906] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[01Feb2025 20:28:45.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[01Feb2025 20:30:11.267] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-3132, y=19, z=-2595} BlockPos{x=-3133, y=25, z=-2598}
+[01Feb2025 20:31:24.412] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[01Feb2025 20:32:07.731] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[01Feb2025 20:32:07.746] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[01Feb2025 20:33:22.813] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-3153, y=3, z=-2582} BlockPos{x=-3153, y=3, z=-2581}
