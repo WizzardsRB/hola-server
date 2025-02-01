@@ -2210,3 +2210,35 @@ java.util.ConcurrentModificationException: null
 [01Feb2025 21:14:30.260] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=612, y=34, z=3965}
 [01Feb2025 21:14:51.711] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
 [01Feb2025 21:17:57.053] [Server thread/INFO] [com.infamous.dungeons_mobs.DungeonsMobs/]: Converted SkeletonEntity['☠ Skeleton - Level: 430'/40835, l='ServerLevel[world]', x=721.27, y=66.00, z=3805.27] to SunkenSkeletonEntity['☠ Skeleton - Level: 430'/42443, l='ServerLevel[world]', x=721.27, y=66.00, z=3805.27]
+[01Feb2025 21:18:41.411] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> You are nothing!
+[01Feb2025 21:18:42.057] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> I will not be killed so easily!
+[01Feb2025 21:18:52.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> Quit messing around, get them!
+[01Feb2025 21:18:52.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The Land Golem has become enraged!
+[01Feb2025 21:18:59.923] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> Your efforts are meaningless!
+[01Feb2025 21:19:09.351] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tier 1 Boss: ☠ Land Golem - Level: 5025 has been slain!
+[01Feb2025 21:19:09.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Land Golem> Crumble... as I do...
+[01Feb2025 21:21:17.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki made their Adamant Boots unbreakable!
+[01Feb2025 21:21:53.351] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki was kicked for floating too long!
+[01Feb2025 21:21:53.423] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki lost connection: Flying is not enabled on this server
+[01Feb2025 21:21:53.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki left the game
+[01Feb2025 21:22:02.126] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@e0919af
+[01Feb2025 21:22:02.136] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: fr4nnki[/127.209.87.79:60675] logged in with entity id 44316 at (675.2338793035894, 95.82177171733913, 3769.3998623778148)
+[01Feb2025 21:22:02.150] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki joined the game
+[01Feb2025 21:22:02.227] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@6578edf5 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[01Feb2025 21:22:02.228] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@575448b3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[01Feb2025 21:22:12.012] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/44418, l='ServerLevel[world]', x=672.61, y=67.00, z=3770.39]
+[01Feb2025 21:22:12.012] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/44418, l='ServerLevel[world]', x=672.61, y=67.00, z=3770.39]
+[01Feb2025 21:22:19.868] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/44605, l='ServerLevel[world]', x=678.12, y=67.00, z=3767.99]
+[01Feb2025 21:22:19.869] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/44605, l='ServerLevel[world]', x=678.12, y=67.00, z=3767.99]
+[01Feb2025 21:22:44.221] [Worker-Main-2/WARN] [ModernFix/]: Structure twist:fallencharredlog is being run through DFU (hash a92426a763546c0a68794ffb8a5530c2a89fd3948c5b199810981a252bd46742), this will cause launch time delays
+[01Feb2025 21:23:41.528] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=863, y=20, z=3238} but found not block entity block Block{minecraft:dead_bubble_coral_block} at location
+[01Feb2025 21:23:41.529] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:dead_bubble_coral_block} but failed at location BlockPos{x=863, y=20, z=3238}
+[01Feb2025 21:23:41.529] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=874, y=17, z=3238} but found not block entity block Block{minecraft:stone} at location
+[01Feb2025 21:23:41.529] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=874, y=17, z=3238}
+[01Feb2025 21:23:41.529] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=871, y=16, z=3240} but found not block entity block Block{quark:deepslate}[axis=y] at location
+[01Feb2025 21:23:41.530] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{quark:deepslate}[axis=y] but failed at location BlockPos{x=871, y=16, z=3240}
+[01Feb2025 21:23:41.530] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=864, y=16, z=3247} but found not block entity block Block{quark:deepslate}[axis=y] at location
+[01Feb2025 21:23:41.530] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{quark:deepslate}[axis=y] but failed at location BlockPos{x=864, y=16, z=3247}
+[01Feb2025 21:23:41.530] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=875, y=16, z=3239} but found not block entity block Block{quark:smooth_basalt} at location
+[01Feb2025 21:23:41.530] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{quark:smooth_basalt} but failed at location BlockPos{x=875, y=16, z=3239}
+[01Feb2025 21:24:12.883] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
