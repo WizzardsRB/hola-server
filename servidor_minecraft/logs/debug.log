@@ -11528,3 +11528,41 @@ java.lang.NullPointerException: null
 [01Feb2025 20:02:38.686] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of mowziesmobs:barakoa_house_roof
 [01Feb2025 20:02:38.687] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of mowziesmobs:barakoa_house_side
 [01Feb2025 20:02:47.316] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported fr4nnki to zZzK1TTY]
+[01Feb2025 20:06:51.262] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[01Feb2025 20:06:51.282] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[01Feb2025 20:09:14.807] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled a scroll upgrade of Guardian +1
+[01Feb2025 20:09:16.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled a scroll upgrade of Guardian +2
+[01Feb2025 20:09:17.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled a scroll upgrade of Guardian +3
+[01Feb2025 20:09:18.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled a scroll upgrade of Guardian +4
+[01Feb2025 20:09:20.117] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled a scroll upgrade of Guardian +5
+[01Feb2025 20:09:21.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled a scroll upgrade of Guardian +6
+[01Feb2025 20:09:22.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled a scroll upgrade of Guardian +7
+[01Feb2025 20:09:24.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled a scroll upgrade of Guardian +8
+[01Feb2025 20:09:25.355] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled a scroll upgrade of Guardian +9
+[01Feb2025 20:09:26.660] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled a scroll upgrade of Guardian +10
+[01Feb2025 20:09:42.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki failed to roll their terreneitor tilin terminal skibidi at Magician +7...
+[01Feb2025 20:09:45.163] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Magician +1
+[01Feb2025 20:09:46.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Magician +2
+[01Feb2025 20:09:47.333] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Magician +3
+[01Feb2025 20:09:54.213] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Magician +4
+[01Feb2025 20:09:55.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Magician +5
+[01Feb2025 20:10:09.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Guardian +6
+[01Feb2025 20:10:10.626] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Guardian +7
+[01Feb2025 20:10:11.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Guardian +8
+[01Feb2025 20:10:12.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Guardian +9
+[01Feb2025 20:10:13.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Guardian +10
+[01Feb2025 20:10:18.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled a scroll upgrade of Guardian +1
+[01Feb2025 20:10:20.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled a scroll upgrade of Guardian +2
+[01Feb2025 20:10:22.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Guardian +11
+[01Feb2025 20:10:23.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Guardian +12
+[01Feb2025 20:10:24.323] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Guardian +13
+[01Feb2025 20:11:09.461] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled a scroll upgrade of Guardian +3
+[01Feb2025 20:11:10.670] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled a scroll upgrade of Guardian +4
+[01Feb2025 20:11:12.550] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled a scroll upgrade of Guardian +5
+[01Feb2025 20:11:40.715] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled a scroll upgrade of Magician +1
+[01Feb2025 20:11:42.218] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY failed to roll their Blade of the Dreaded Queen at Magician +1...
+[01Feb2025 20:11:51.229] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[01Feb2025 20:11:51.245] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[01Feb2025 20:11:57.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled a scroll upgrade of Magician +1
+[01Feb2025 20:11:58.466] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled a scroll upgrade of Magician +2
+[01Feb2025 20:11:59.869] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY failed to roll their Blade of the Dreaded Queen at Magician +2...
