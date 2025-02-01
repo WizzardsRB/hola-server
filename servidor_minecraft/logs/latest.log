@@ -2257,3 +2257,211 @@ java.util.ConcurrentModificationException: null
 [01Feb2025 21:35:39.008] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1729, y=51, z=3329} BlockPos{x=1729, y=50, z=3329}
 [01Feb2025 21:36:36.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
 [01Feb2025 21:37:27.891] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to -2922.5, 64.5, -2294.5]
+[01Feb2025 21:39:09.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elder Guardian> My domain will not be challenged!
+[01Feb2025 21:39:10.544] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elder Guardian> Beacon! Heal me immediately!
+[01Feb2025 21:39:10.544] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kill the Elder Guardian's summoned beacon before it heals!
+[01Feb2025 21:39:18.524] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[01Feb2025 21:39:25.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elder Guardian> Beacon! I require healing!
+[01Feb2025 21:39:25.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kill the Elder Guardian's summoned beacon before it heals!
+[01Feb2025 21:39:27.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elder Guardian> Minions, protect me!
+[01Feb2025 21:39:59.319] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elder Guardian> Minions, protect me!
+[01Feb2025 21:39:59.320] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The Elder Guardian has become enraged!
+[01Feb2025 21:40:19.592] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elder Guardian> Beacon! Heal me immediately!
+[01Feb2025 21:40:19.592] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kill the Elder Guardian's summoned beacon before it heals!
+[01Feb2025 21:40:30.018] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elder Guardian> I was promised to rule!
+[01Feb2025 21:40:47.417] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: null
+	Index: 81
+	Listeners:
+		0: HIGHEST
+		1: ASM: class cofh.ensorcellation.event.CommonEvents handleLivingAttackEvent(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		2: HIGH
+		3: ASM: class cofh.core.event.ShieldEvents handleLivingAttackEvent(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		4: ASM: class cofh.core.event.EffectEvents handleLivingAttackEvent(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		5: ASM: class cofh.core.event.ArmorEvents handleLivingAttackEvent(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		6: ASM: class me.shedaniel.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		7: NORMAL
+		8: net.minecraftforge.eventbus.EventBus$$Lambda$2765/0x0000000840bed840@778ffe6
+		9: ASM: class net.reikeb.not_enough_gamerules.events.PlayerHurtEvent onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		10: ASM: class com.wonderfulenchantments.enchantments.PufferfishVengeanceEnchantment onHit(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		11: ASM: class com.wonderfulenchantments.enchantments.LeechEnchantment onHit(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		12: ASM: com.github.alexthe666.alexsmobs.event.ServerEvents@7023b092 onLivingAttack(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		13: ASM: class net.union.unionsupgradescrolls.procedures.StarsFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		14: ASM: class net.union.unionsupgradescrolls.procedures.StarsFunctionOffHandProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		15: ASM: insane96mcp.progressivebosses.module.dragon.feature.MinionFeature@4006409d onMinionHurt(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		16: ASM: insane96mcp.progressivebosses.module.dragon.feature.LarvaFeature@517f3e00 onLarvaHurt(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		17: ASM: L_Ender.cataclysm.event.ServerEventHandler@78e31b94 onLivingAttack(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		18: ASM: class net.mindoth.dreadsteel.item.weapon.DreadsteelShield onArrowHit(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		19: ASM: class net.mindoth.dreadsteel.item.armor.DreadsteelArmor dreadsteelSetDefence(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		20: ASM: class cofh.ensorcellation.event.ShieldEnchEvents handleLivingAttackEvent(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		21: ASM: class cofh.ensorcellation.event.HorseEnchEvents handleLivingAttackEvent(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		22: ASM: class net.mcreator.piratesarmoury.procedures.KrakensWardProcedureProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		23: ASM: net.mcreator.twist.procedures.PurgerproProcedure@4bd88719 onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		24: ASM: net.mcreator.twist.procedures.LankerproProcedure@7af679e1 onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		25: ASM: net.mcreator.twist.procedures.HosthatattackProcedure@4656a483 onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		26: ASM: net.mcreator.twist.procedures.ChargerproProcedure@35db44d4 onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		27: ASM: net.mcreator.twist.procedures.ChargerproattackProcedure@73ce974e onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		28: ASM: class net.union.infernaloriginsextras.procedures.UpgradeEffectScaleNormalFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		29: ASM: class net.union.infernaloriginsextras.procedures.SpecialReflectionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		30: ASM: class net.union.infernaloriginsextras.procedures.SpecialFlankerProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		31: ASM: class net.union.infernaloriginsextras.procedures.SpecialBulkyProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		32: ASM: class net.union.infernaloriginsextras.procedures.SpecialBomberProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		33: ASM: class net.union.infernaloriginsextras.procedures.RandomPassSmolderingProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		34: ASM: class net.union.infernaloriginsextras.procedures.RandomPassSmolderingOffhandProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		35: ASM: class net.union.infernaloriginsextras.procedures.RandomPassSlayerMasterProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		36: ASM: class net.union.infernaloriginsextras.procedures.RandomPassSlayerMasterOffhandProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		37: ASM: class net.union.infernaloriginsextras.procedures.RandomPassSkillfulProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		38: ASM: class net.union.infernaloriginsextras.procedures.RandomPassSkillfulOffhandProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		39: ASM: class net.union.infernaloriginsextras.procedures.RandomPassPlagueBombProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		40: ASM: class net.union.infernaloriginsextras.procedures.RandomPassPlagueBombOffhandProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		41: ASM: class net.union.infernaloriginsextras.procedures.RandomPassMetalShellProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		42: ASM: class net.union.infernaloriginsextras.procedures.RandomPassMetalShellOffhandProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		43: ASM: class net.union.infernaloriginsextras.procedures.RandomPassInitiativeProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		44: ASM: class net.union.infernaloriginsextras.procedures.RandomPassInitiativeOffhandProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		45: ASM: class net.union.infernaloriginsextras.procedures.RandomPassGlassCannonProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		46: ASM: class net.union.infernaloriginsextras.procedures.RandomPassGlassCannonOffhandProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		47: ASM: class net.union.infernaloriginsextras.procedures.RandomPassDeathTollProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		48: ASM: class net.union.infernaloriginsextras.procedures.RandomPassDeathTollOffhandProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		49: ASM: class net.union.infernaloriginsextras.procedures.RandomPassDarkPactProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		50: ASM: class net.union.infernaloriginsextras.procedures.RandomPassDarkPactOffhandProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		51: ASM: class net.union.infernaloriginsextras.procedures.RandomPassCombatMedicProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		52: ASM: class net.union.infernaloriginsextras.procedures.RandomPassCombatMedicOffhandProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		53: ASM: class net.union.infernaloriginsextras.procedures.RandomPassBossRipperProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		54: ASM: class net.union.infernaloriginsextras.procedures.RandomPassBossRipperOffhandProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		55: ASM: class net.union.infernaloriginsextras.procedures.RandomPassBerserkerProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		56: ASM: class net.union.infernaloriginsextras.procedures.RandomPassBerserkerOffhandProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		57: ASM: class net.union.infernaloriginsextras.procedures.ItemFinalFractalFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		58: ASM: class net.union.infernaloriginsextras.procedures.ImpPassiveStunChanceProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		59: ASM: class net.union.infernaloriginsextras.procedures.EffectSymphonicFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		60: ASM: class net.union.infernaloriginsextras.procedures.EffectSoulFeedAttackApplyProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		61: ASM: class net.union.infernaloriginsextras.procedures.EffectScaleNormalFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		62: ASM: class net.union.infernaloriginsextras.procedures.EffectRuneInfusionFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		63: ASM: class net.union.infernaloriginsextras.procedures.EffectPassiveViewFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		64: ASM: class net.union.infernaloriginsextras.procedures.EffectHealingBalladFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		65: ASM: class net.union.infernaloriginsextras.procedures.EffectHardenedFurFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		66: ASM: class net.union.infernaloriginsextras.procedures.EffectDraconicAuraFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		67: ASM: class net.union.infernaloriginsextras.procedures.EffectDefianceFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		68: ASM: class net.union.infernaloriginsextras.procedures.EffectDamageSuppresionFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		69: ASM: class net.union.infernaloriginsextras.procedures.EffectCounterClawFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		70: ASM: class net.union.infernaloriginsextras.procedures.EffectCounterClawBuffedFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		71: ASM: class net.union.infernaloriginsextras.procedures.EffectChosenHealFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		72: ASM: class net.union.infernaloriginsextras.procedures.EffectCauterizeFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		73: ASM: class net.union.infernaloriginsextras.procedures.EffectBossRetaliateFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		74: ASM: class net.union.infernaloriginsextras.procedures.EffectBloomFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		75: ASM: class net.union.infernaloriginsextras.procedures.EffectArrowSliceFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		76: ASM: class net.union.infernaloriginsextras.procedures.BossPassiveNetheriteMonstrosityProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		77: ASM: class net.union.infernaloriginsextras.procedures.BossPassiveHoarFrostProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		78: ASM: class net.union.infernaloriginsextras.procedures.BossPassiveFrostmawProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		79: ASM: class net.union.infernaloriginsextras.procedures.BOOFrostmawFunctionProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		80: ASM: class net.union.infernaloriginsextras.procedures.AllSkillDodgeTickProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		81: ASM: class net.union.infernaloriginsextras.procedures.AllSkillCritProcProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		82: ASM: class net.union.infernaloriginsextras.procedures.AllDeathCheckProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		83: ASM: class net.union.infernaloriginsextras.procedures.AllBossResetSpeedFailsafeProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		84: ASM: class net.union.infernaloriginsextras.procedures.AllBossMinionsWitherProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		85: ASM: class net.union.infernaloriginsextras.procedures.AllBossMinionsTheBigOneProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		86: ASM: class net.union.infernaloriginsextras.procedures.AllBossMinionsNetheriteMonstrosityProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		87: ASM: class net.union.infernaloriginsextras.procedures.AllBossMinionsLandGolemProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		88: ASM: class net.union.infernaloriginsextras.procedures.AllBossMinionsIgnisProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		89: ASM: class net.union.infernaloriginsextras.procedures.AllBossMinionsHoarFrostProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		90: ASM: class net.union.infernaloriginsextras.procedures.AllBossMinionsFrostmawProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		91: ASM: class net.union.infernaloriginsextras.procedures.AllBossMinionsFerrousWroughtnautProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		92: ASM: class net.union.infernaloriginsextras.procedures.AllBossMinionsEnderGuardianProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		93: ASM: class net.union.infernaloriginsextras.procedures.AllBossMinionsElderGuardianProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		94: ASM: class net.union.infernaloriginsextras.procedures.AllBossEnrageSerpentDragonAntiCheeseProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		95: ASM: class net.union.infernaloriginsextras.procedures.AllBossDamageTakenCapFailsafeProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		96: ASM: class net.union.infernaloriginsextras.procedures.AllBossDamageMinionsMinimumProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		97: ASM: class net.union.infernaloriginsextras.procedures.AllBossDamageMinimumProcedure$GlobalTrigger onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		98: net.minecraftforge.eventbus.EventBus$$Lambda$2765/0x0000000840bed840@76d7082
+		99: ASM: com.inventorypets.events.WallDamageHandler@1def22fe notifyAttack(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		100: ASM: com.flemmli97.improvedmobs.events.EventHandler@731469db attackEvent(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		101: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@294692a8 onLivingAttacked(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V
+		102: ASM: com.flemmli97.improvedmobs.events.EventHandler@731469db pathDebug(Lnet/minecraftforge/event/entity/living/LivingEvent;)V
+java.util.ConcurrentModificationException
+	at java.base/java.util.HashMap$HashIterator.remove(HashMap.java:1525)
+	at net.minecraft.entity.LivingEntity.func_195061_cb(LivingEntity.java:793)
+	at net.minecraft.entity.LivingEntity.func_190628_d(LivingEntity.java:1117)
+	at net.minecraft.entity.LivingEntity.func_70097_a(LivingEntity.java:1053)
+	at net.minecraft.entity.monster.MonsterEntity.func_70097_a(SourceFile:73)
+	at net.union.infernaloriginsextras.procedures.AllSkillCritProcProcedure.executeProcedure(AllSkillCritProcProcedure.java:83)
+	at net.union.infernaloriginsextras.procedures.AllSkillCritProcProcedure$GlobalTrigger.onEntityAttacked(AllSkillCritProcProcedure.java:44)
+	at net.minecraftforge.eventbus.ASMEventHandler_1266_GlobalTrigger_onEntityAttacked_LivingAttackEvent.invoke(.dynamic)
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+	at net.minecraftforge.common.ForgeHooks.onLivingAttack(ForgeHooks.java:331)
+	at net.minecraft.entity.LivingEntity.func_70097_a(LivingEntity.java:932)
+	at net.minecraft.entity.monster.MonsterEntity.func_70097_a(SourceFile:73)
+	at net.minecraft.entity.player.PlayerEntity.func_71059_n(PlayerEntity.java:1100)
+	at net.minecraft.entity.player.ServerPlayerEntity.func_71059_n(ServerPlayerEntity.java:1292)
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147340_a(ServerPlayNetHandler.java:1205)
+	at net.minecraft.network.play.client.CUseEntityPacket.func_148833_a(SourceFile:74)
+	at net.minecraft.network.play.client.CUseEntityPacket.func_148833_a(SourceFile:13)
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21)
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18)
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144)
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23)
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734)
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159)
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118)
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717)
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711)
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213160_bf(SourceFile:103)
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:696)
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646)
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+[01Feb2025 21:40:47.419] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.util.ConcurrentModificationException: null
+	at java.util.HashMap$HashIterator.remove(HashMap.java:1525) ~[?:?]
+	at net.minecraft.entity.LivingEntity.func_195061_cb(LivingEntity.java:793) ~[?:?]
+	at net.minecraft.entity.LivingEntity.func_190628_d(LivingEntity.java:1117) ~[?:?]
+	at net.minecraft.entity.LivingEntity.func_70097_a(LivingEntity.java:1053) ~[?:?]
+	at net.minecraft.entity.monster.MonsterEntity.func_70097_a(SourceFile:73) ~[?:?]
+	at net.union.infernaloriginsextras.procedures.AllSkillCritProcProcedure.executeProcedure(AllSkillCritProcProcedure.java:83) ~[infernal_origins_extras:?]
+	at net.union.infernaloriginsextras.procedures.AllSkillCritProcProcedure$GlobalTrigger.onEntityAttacked(AllSkillCritProcProcedure.java:44) ~[infernal_origins_extras:?]
+	at net.minecraftforge.eventbus.ASMEventHandler_1266_GlobalTrigger_onEntityAttacked_LivingAttackEvent.invoke(.dynamic) ~[?:?]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.common.ForgeHooks.onLivingAttack(ForgeHooks.java:331) ~[forge:?]
+	at net.minecraft.entity.LivingEntity.func_70097_a(LivingEntity.java:932) ~[?:?]
+	at net.minecraft.entity.monster.MonsterEntity.func_70097_a(SourceFile:73) ~[?:?]
+	at net.minecraft.entity.player.PlayerEntity.func_71059_n(PlayerEntity.java:1100) ~[?:?]
+	at net.minecraft.entity.player.ServerPlayerEntity.func_71059_n(ServerPlayerEntity.java:1292) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147340_a(ServerPlayNetHandler.java:1205) ~[?:?]
+	at net.minecraft.network.play.client.CUseEntityPacket.func_148833_a(SourceFile:74) ~[?:?]
+	at net.minecraft.network.play.client.CUseEntityPacket.func_148833_a(SourceFile:13) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213160_bf(SourceFile:103) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:696) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[01Feb2025 21:40:54.708] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: zZzK1TTY moved wrongly!
+[01Feb2025 21:41:04.769] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1729, y=48, z=3307} BlockPos{x=1729, y=47, z=3307}
+[01Feb2025 21:41:16.191] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elder Guardian> Beacon! I require healing!
+[01Feb2025 21:41:16.191] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kill the Elder Guardian's summoned beacon before it heals!
+[01Feb2025 21:41:21.534] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1724, y=52, z=3327} BlockPos{x=1724, y=51, z=3327}
+[01Feb2025 21:41:27.432] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tier 5 Boss: ☠ Elder Guardian - Level: 100000 has been slain!
+[01Feb2025 21:41:27.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elder Guardian> My... kingdom...
+[01Feb2025 21:43:01.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to -2922.5, 64.5, -2294.5]
+[01Feb2025 21:43:11.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported zZzK1TTY to fr4nnki]
+[01Feb2025 21:47:20.473] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Magician +6
+[01Feb2025 21:47:21.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Magician +7
+[01Feb2025 21:47:23.013] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki failed to roll their terreneitor tilin terminal skibidi at Magician +7...
+[01Feb2025 21:47:24.953] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Magician +1
+[01Feb2025 21:48:06.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Guardian +14
+[01Feb2025 21:48:13.616] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki has perfected their Adamant Boots at Guardian +15!
+[01Feb2025 21:48:30.548] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled a scroll upgrade of Magician +1
+[01Feb2025 21:48:36.475] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled a scroll upgrade of Magician +2
+[01Feb2025 21:48:37.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled a scroll upgrade of Magician +3
+[01Feb2025 21:48:39.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled a scroll upgrade of Magician +4
+[01Feb2025 21:48:40.147] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY failed to roll their Blade of the Dreaded Queen at Magician +4...
