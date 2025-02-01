@@ -2159,3 +2159,40 @@ java.util.ConcurrentModificationException: null
 [01Feb2025 20:56:41.064] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki lost connection: Flying is not enabled on this server
 [01Feb2025 20:56:41.065] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki left the game
 [01Feb2025 20:56:41.121] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[01Feb2025 20:57:28.984] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2a19e963
+[01Feb2025 20:57:28.995] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: fr4nnki[/127.209.87.79:58033] logged in with entity id 25957 at (1524.3990504190251, 71.64221085477342, 4313.111688681105)
+[01Feb2025 20:57:29.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki joined the game
+[01Feb2025 20:57:29.125] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@6578edf5 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[01Feb2025 20:57:29.126] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@575448b3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[01Feb2025 20:57:29.577] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported fr4nnki to zZzK1TTY]
+[01Feb2025 20:58:04.812] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1550, y=64, z=4223} BlockPos{x=1550, y=64, z=4224}
+[01Feb2025 20:58:14.591] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/26582, l='ServerLevel[world]', x=1550.06, y=67.00, z=4230.18]
+[01Feb2025 20:58:14.592] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/26582, l='ServerLevel[world]', x=1550.06, y=67.00, z=4230.18]
+[01Feb2025 20:58:27.624] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/26726, l='ServerLevel[world]', x=1550.31, y=63.05, z=4227.14]
+[01Feb2025 20:58:27.625] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/26726, l='ServerLevel[world]', x=1550.31, y=63.05, z=4227.14]
+[01Feb2025 20:58:28.958] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/26743, l='ServerLevel[world]', x=1550.51, y=62.00, z=4229.96]
+[01Feb2025 20:58:28.958] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/26743, l='ServerLevel[world]', x=1550.51, y=62.00, z=4229.96]
+[01Feb2025 20:58:31.212] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/26774, l='ServerLevel[world]', x=1545.54, y=67.55, z=4225.86]
+[01Feb2025 20:58:31.213] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/26774, l='ServerLevel[world]', x=1545.54, y=67.55, z=4225.86]
+[01Feb2025 20:59:48.872] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/27875, l='ServerLevel[world]', x=1478.30, y=66.00, z=4239.53]
+[01Feb2025 20:59:48.872] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/27875, l='ServerLevel[world]', x=1478.30, y=66.00, z=4239.53]
+[01Feb2025 20:59:50.313] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/27891, l='ServerLevel[world]', x=1493.92, y=66.00, z=4235.71]
+[01Feb2025 20:59:50.313] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/27891, l='ServerLevel[world]', x=1493.92, y=66.00, z=4235.71]
+[01Feb2025 21:00:38.323] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/28489, l='ServerLevel[world]', x=1527.66, y=60.00, z=4314.02]
+[01Feb2025 21:00:38.323] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/28489, l='ServerLevel[world]', x=1527.66, y=60.00, z=4314.02]
+[01Feb2025 21:00:39.977] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/28526, l='ServerLevel[world]', x=1527.34, y=65.76, z=4313.75]
+[01Feb2025 21:00:39.977] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/28526, l='ServerLevel[world]', x=1527.34, y=65.76, z=4313.75]
+[01Feb2025 21:01:52.480] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/29711, l='ServerLevel[world]', x=1552.59, y=64.00, z=4278.78]
+[01Feb2025 21:01:52.480] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/29711, l='ServerLevel[world]', x=1552.59, y=64.00, z=4278.78]
+[01Feb2025 21:01:57.436] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/29819, l='ServerLevel[world]', x=1561.62, y=66.00, z=4262.70]
+[01Feb2025 21:01:57.437] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/29819, l='ServerLevel[world]', x=1561.62, y=66.00, z=4262.70]
+[01Feb2025 21:02:01.049] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/29940, l='ServerLevel[world]', x=1574.29, y=67.00, z=4272.48]
+[01Feb2025 21:02:01.049] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/29940, l='ServerLevel[world]', x=1574.29, y=67.00, z=4272.48]
+[01Feb2025 21:03:36.634] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/31449, l='ServerLevel[world]', x=1553.96, y=64.00, z=4294.18]
+[01Feb2025 21:03:36.634] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/31449, l='ServerLevel[world]', x=1553.96, y=64.00, z=4294.18]
+[01Feb2025 21:04:16.586] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Guster Eye'/31535, l='ServerLevel[world]', x=1550.30, y=63.00, z=4291.15]
+[01Feb2025 21:06:00.573] [Worker-Main-2/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/badlands_3
+[01Feb2025 21:06:00.575] [Worker-Main-2/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/badlands_2
+[01Feb2025 21:06:00.578] [Worker-Main-2/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/badlands_1
+[01Feb2025 21:06:15.559] [Worker-Main-3/WARN] [ModernFix/]: Using cached upgraded version of inventorypets:sea_cave
+[01Feb2025 21:06:24.172] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
