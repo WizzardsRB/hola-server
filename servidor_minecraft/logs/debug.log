@@ -16402,3 +16402,46 @@ java.util.ConcurrentModificationException: null
 [01Feb2025 22:19:17.504] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1822, y=63, z=2881} BlockPos{x=1821, y=60, z=2882}
 [01Feb2025 22:19:17.548] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1822, y=63, z=2881} BlockPos{x=1821, y=60, z=2882}
 [01Feb2025 22:19:17.610] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1822, y=63, z=2881} BlockPos{x=1821, y=60, z=2882}
+[01Feb2025 22:20:04.907] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[01Feb2025 22:21:06.535] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2018, y=18, z=2831} but found not block entity block Block{quark:smooth_basalt} at location
+[01Feb2025 22:21:06.535] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{quark:smooth_basalt} but failed at location BlockPos{x=2018, y=18, z=2831}
+[01Feb2025 22:21:31.051] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elder Guardian> The waves will crush you!
+[01Feb2025 22:21:44.111] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elder Guardian> Protect your prince!
+[01Feb2025 22:22:07.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elder Guardian> Beacon! I require healing!
+[01Feb2025 22:22:07.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kill the Elder Guardian's summoned beacon before it heals!
+[01Feb2025 22:22:07.793] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2096, y=30, z=2657} but found not block entity block Block{minecraft:gravel} at location
+[01Feb2025 22:22:07.794] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:gravel} but failed at location BlockPos{x=2096, y=30, z=2657}
+[01Feb2025 22:22:07.797] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2096, y=33, z=2637} but found not block entity block Block{minecraft:water}[level=0] at location
+[01Feb2025 22:22:07.797] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=2096, y=33, z=2637}
+[01Feb2025 22:22:07.798] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2101, y=34, z=2652} but found not block entity block Block{minecraft:seagrass} at location
+[01Feb2025 22:22:07.798] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:seagrass} but failed at location BlockPos{x=2101, y=34, z=2652}
+[01Feb2025 22:22:07.881] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[01Feb2025 22:22:07.895] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[01Feb2025 22:22:09.858] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1825, y=55, z=2681} BlockPos{x=1825, y=54, z=2681}
+[01Feb2025 22:22:22.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elder Guardian> Die to your own blade!
+[01Feb2025 22:22:27.274] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[01Feb2025 22:22:27.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY is bleeding...
+[01Feb2025 22:22:27.279] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Death was cancelled; Removing item cache.
+[01Feb2025 22:22:40.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elder Guardian> This is treachery!
+[01Feb2025 22:22:40.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The Elder Guardian has become enraged!
+[01Feb2025 22:23:03.249] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elder Guardian> Know your place!
+[01Feb2025 22:24:28.207] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elder Guardian> The waves will crush you!
+[01Feb2025 22:24:37.733] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elder Guardian> This is treachery!
+[01Feb2025 22:24:37.733] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The Elder Guardian has become enraged!
+[01Feb2025 22:24:58.189] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elder Guardian> Beacon! Heal me immediately!
+[01Feb2025 22:24:58.190] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kill the Elder Guardian's summoned beacon before it heals!
+[01Feb2025 22:25:13.244] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elder Guardian> Beacon! Heal your prince!
+[01Feb2025 22:25:13.244] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kill the Elder Guardian's summoned beacon before it heals!
+[01Feb2025 22:25:13.557] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elder Guardian> I will not die like this!
+[01Feb2025 22:25:15.618] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: zZzK1TTY moved wrongly!
+[01Feb2025 22:25:29.554] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1829, y=59, z=2695} BlockPos{x=1829, y=59, z=2694}
+[01Feb2025 22:25:48.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elder Guardian> Beacon! Heal your prince!
+[01Feb2025 22:25:48.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kill the Elder Guardian's summoned beacon before it heals!
+[01Feb2025 22:25:49.818] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tier 5 Boss: ☠ Elder Guardian - Level: 100000 has been slain!
+[01Feb2025 22:25:49.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elder Guardian> My... kingdom...
+[01Feb2025 22:27:07.609] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[01Feb2025 22:27:07.622] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[01Feb2025 22:27:25.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[01Feb2025 22:28:10.198] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki has made the advancement [Need A Map?]
+[01Feb2025 22:29:19.107] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to -2931.5, 67.5, -2281.5]
+[01Feb2025 22:29:21.365] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to -2922.5, 64.5, -2294.5]
